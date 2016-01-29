@@ -20,7 +20,7 @@ msgstr "כללי"
 
 msgctxt "#30001"
 msgid "Download Path (NOT FAT32)"
-msgstr "נתיב להורדה (לא FAT32))"
+msgstr "נתיב להורדה (לא FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
