@@ -1,0 +1,199 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30001"
+msgid "Download Path (NOT FAT32)"
+msgstr "Calea spre descarcare (NU FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Pastreaza fisierele dupa reproducere"
+
+msgctxt "#30003"
+msgid "Buffer Size (MB)"
+msgstr "Marime buffer (MB)"
+
+msgctxt "#30004"
+msgid "Max Upload Rate (kB/s)"
+msgstr "Rata Maxima Upload (kB/s)"
+
+msgctxt "#30005"
+msgid "Max Download Rate (kB/s)"
+msgstr "Rata Maxima Download (kB/S)"
+
+msgctxt "#30006"
+msgid "Listen Port Min"
+msgstr "Asculta Port Min"
+
+msgctxt "#30007"
+msgid "Listen Port Max"
+msgstr "Asculta Port Max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "Configurare SOCKS v5"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Activat"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Parola"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Avansat"
+
+msgctxt "#30016"
+msgid "Custom Provider Timeout"
+msgstr "Timeout Provider"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Activat (utilizati la risc propriu)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Timeout in secunde"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Mentenenta"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Sterge cache"
+
+msgctxt "#30021"
+msgid "Enable Paging"
+msgstr "Activeaza Paginare"
+
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+msgstr "Activeaza Bara de Stare"
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar a intampinat probleme, se reporneste..."
+
+msgctxt "#30101"
+msgid "You must restart XBMC before using Quasar"
+msgstr "E necesar sa restartati XBMC inainte de utilizare Quasar"
+
+msgctxt "#30102"
+msgid "This addon can only be run from within Quasar"
+msgstr "Acest addon poate fi rulat doar din Quasar"
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Cache-ul a fost sters"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Cauta TV Shows"
+
+msgctxt "#30202"
+msgid "Choose Stream..."
+msgstr "Alege Stream..."
+
+msgctxt "#30203"
+msgid "Movie Information"
+msgstr "Informatie despre film"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Nu a fost gasit nici un provider"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Nu a fost gasit nici un link"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Cauta filme"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Loc insuficient in calea pentru download."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar a startat"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Cauta"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Cele Mai Populare"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Cele Mai Apreciate"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Cele Mai Votate"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Filme"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "TV Shows"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Insereaza URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Insereaza Magnet sau URL"
+
+msgctxt "#30218"
+msgid "Next Page"
+msgstr "Pagina Urmatoare"

@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-    <category label="General">
-        <setting label="General" type="lsep" />
-        <setting id="download_path" type="folder" label="Download Path (NOT FAT32)" source="auto" option="writeable" />
-        <setting id="keep_files" type="bool" label="Keep files after playback/download stops" default="false" />
+    <category label="30000">
+        <!-- General -->
+        <setting label="30000" type="lsep" />
+        <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
+        <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
+        <setting id="keep_files" type="bool" label="30002" default="false" />
+        <setting id="enable_paging" type="bool" label="30021" default="true" />
+        <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
+        <setting id="choose_stream_auto" type="bool" label="30023" default="true" />
+        <setting id="pre_release_updates" type="bool" label="30024" default="false" />
 
         <setting label="BitTorrent" type="lsep"/>
-        <setting id="max_upload_rate" label="Max Upload Rate (kB/s)" type="number" default="" />
-        <setting id="max_download_rate" label="Max Download Rate (kB/s)" type="number" default="" />
-        <setting id="listen_port_min" label="Listen Port Min" type="number" default="6889" />
-        <setting id="listen_port_max" label="Listen Port Max" type="number" default="7000" />
+        <setting id="buffer_size" label="30003" type="number" default="20" />
+        <setting id="max_upload_rate" label="30004" type="number" default="" />
+        <setting id="max_download_rate" label="30005" type="number" default="" />
+        <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
+        <setting id="listen_port_min" label="30006" type="number" default="6889" />
+        <setting id="listen_port_max" label="30007" type="number" default="7000" />
     </category>
-    <category label="Advanced">
-        <setting label="Maintenance" type="lsep"/>
-        <setting type="action" label="Clear cache" action="RunPlugin(plugin://plugin.video.pulsar/cmd/clear_cache)" />
+    <category label="30008">
+        <!-- Proxy -->
+        <setting label="30009" type="lsep"/>
+        <setting id="socks_enabled" label="30010" type="bool" default="false" />
+        <setting id="socks_host" label="30011" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+        <setting id="socks_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-2,true)" />
+        <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-3,true)" />
+        <setting id="socks_password" label="30014" type="text" default="" subsetting="true" visible="eq(-4,true)" />
+    </category>
+    <category label="30015">
+        <!-- Advanced -->
+        <setting label="30016" type="lsep"/>
+        <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
+        <setting id="custom_provider_timeout" label="30018" type="number" default="4" visible="eq(-1,true)" />
+        <setting label="30019" type="lsep"/>
+        <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
     </category>
 </settings>

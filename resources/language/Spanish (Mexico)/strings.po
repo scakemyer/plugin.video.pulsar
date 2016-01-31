@@ -1,0 +1,203 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30001"
+msgid "Download Path (NOT FAT32)"
+msgstr "Ruta para Descargar (NO FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Mantener archivos después de reproducirlos"
+
+msgctxt "#30003"
+msgid "Buffer Size (MB)"
+msgstr "Tamaño Buffer (MB)"
+
+msgctxt "#30004"
+msgid "Max Upload Rate (kB/s)"
+msgstr "Tasa Máxima de Upload (kB/s)"
+
+msgctxt "#30005"
+msgid "Max Download Rate (kB/s)"
+msgstr "Tasa Máxima de Download (kB/S)"
+
+msgctxt "#30006"
+msgid "Listen Port Min"
+msgstr "Puerto Min"
+
+msgctxt "#30007"
+msgid "Listen Port Max"
+msgstr "Puerto Max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "Configuración SOCKS v5"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Activo"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Puerto"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Usuario"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Clave"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "#30016"
+msgid "Custom Provider Timeout"
+msgstr "Timeout Provider"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Activo (use bajo su responsabilidad)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Timeout en segundos"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Mantenimiento"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Borrar cache"
+
+msgctxt "#30021"
+msgid "Enable Paging"
+msgstr "Activar Paginación"
+
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+msgstr "Activar Barra de Estado"
+
+msgctxt "#30023"
+msgid "Choose Stream Automatically"
+msgstr "Seleccionar Stream Automáticamente"
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar se ha cerrado insperadamente, reiniciando..."
+
+msgctxt "#30101"
+msgid "You must restart XBMC before using Quasar"
+msgstr "Debe reiniciar Kodi antes de usar Quasar"
+
+msgctxt "#30102"
+msgid "This addon can only be run from within Quasar"
+msgstr "Este complemento solo puede ser utilizado desde Quasar"
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "El cache se ha borrado"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Buscar Series de TV"
+
+msgctxt "#30202"
+msgid "Choose Stream..."
+msgstr "Seleccione Stream..."
+
+msgctxt "#30203"
+msgid "Movie Information"
+msgstr "Información de la película"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "No se han encontrado providers"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "No se han encontrado fuentes"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Buscar Películas"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "No hay suficiente espacio disponible en la ruta de descarga."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon ha iniciado"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Buscar"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Más Populares"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Más Valoradas"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Más Votadas"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Películas"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "Series de TV"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Insertar URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Ingresar Magnet o URL"
+
+msgctxt "#30218"
+msgid "Next Page"
+msgstr "Próxima Página"

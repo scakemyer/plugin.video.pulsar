@@ -1,0 +1,231 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30001"
+msgid "Download Path (NOT FAT32)"
+msgstr "Download Path (NOT FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Keep files after playback/download stops"
+
+msgctxt "#30003"
+msgid "Buffer Size (MB)"
+msgstr "Buffer Size (MB)"
+
+msgctxt "#30004"
+msgid "Max Upload Rate (kB/s)"
+msgstr "Max Upload Rate (kB/s)"
+
+msgctxt "#30005"
+msgid "Max Download Rate (kB/s)"
+msgstr "Max Download Rate (kB/s)"
+
+msgctxt "#30006"
+msgid "Listen Port Min"
+msgstr "Listen Port Min"
+
+msgctxt "#30007"
+msgid "Listen Port Max"
+msgstr "Listen Port Max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "SOCKS v5 Configuration"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Enabled"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Advanced"
+
+msgctxt "#30016"
+msgid "Custom Provider Timeout"
+msgstr "Custom Provider Timeout"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Enabled (use at your own risk)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Timeout in seconds"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Clear cache"
+
+msgctxt "#30021"
+msgid "Enable Paging"
+msgstr "Enable Paging"
+
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+msgstr "Enable Overlay Status Bar"
+
+msgctxt "#30023"
+msgid "Choose Stream Automatically"
+msgstr "Choose Stream Automatically"
+
+msgctxt "#30024"
+msgid "Get updates for Pre-Releases"
+msgstr "Get updates for Pre-Releases"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limit rates after buffering only"
+
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "Library Path"
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar has crashed, restarting..."
+
+msgctxt "#30101"
+msgid "You must restart XBMC before using Quasar"
+msgstr "You must restart XBMC before using Quasar"
+
+msgctxt "#30102"
+msgid "This addon can only be run from within Quasar"
+msgstr "This addon can only be run from within Quasar"
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Cache cleared"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Search TV Shows"
+
+msgctxt "#30202"
+msgid "Choose Stream..."
+msgstr "Choose Stream..."
+
+msgctxt "#30203"
+msgid "Movie Information"
+msgstr "Movie Information"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Unable to find any providers"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "No links were found"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Search Movies"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Not enough space available on the download path."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon has started"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Most Popular"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Top Rated"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Most Voted"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Movies"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "TV Shows"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Paste URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Paste Magnet or URL"
+
+msgctxt "#30218"
+msgid "Next Page"
+msgstr "Next Page"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "Add/Remove from Library"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "Library Path not set"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "Item successfully added to Library"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "Item removed from Library"

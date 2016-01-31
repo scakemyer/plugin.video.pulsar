@@ -1,0 +1,18 @@
+language: python
+python:
+  - 2.7
+
+install:
+  - pip install -r requirements.txt
+
+script:
+  - flake8
+  - make
+
+deploy:
+  provider: releases
+  api_key: $GH_TOKEN
+  file: plugin.video.quasar-${TRAVIS_TAG:1}.zip
+  skip_cleanup: true
+  on:
+    tags: true

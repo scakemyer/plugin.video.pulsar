@@ -21,6 +21,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+*.zip
+# bin/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -40,10 +42,6 @@ htmlcov/
 nosetests.xml
 coverage.xml
 
-# Translations
-*.mo
-*.pot
-
 # Django stuff:
 *.log
 
@@ -52,3 +50,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Other
+# resources/bin

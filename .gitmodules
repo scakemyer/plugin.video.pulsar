@@ -1,0 +1,3 @@
+[submodule "resources/bin"]
+	path = resources/bin
+	url = https://github.com/scakemyer/quasar-binaries

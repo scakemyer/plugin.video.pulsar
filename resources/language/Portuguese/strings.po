@@ -1,0 +1,231 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "#30001"
+msgid "Download Path (NOT FAT32)"
+msgstr "Pasta de Download (NÃO FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Manter ficheiros depois da reprodução/download parar"
+
+msgctxt "#30003"
+msgid "Buffer Size (MB)"
+msgstr "Tamanho do Buffer (MB)"
+
+msgctxt "#30004"
+msgid "Max Upload Rate (kB/s)"
+msgstr "Máxima Taxa de Upload (kB/s)"
+
+msgctxt "#30005"
+msgid "Max Download Rate (kB/s)"
+msgstr "Máxima Taxa de Download (kB/S)"
+
+msgctxt "#30006"
+msgid "Listen Port Min"
+msgstr "Porta Min"
+
+msgctxt "#30007"
+msgid "Listen Port Max"
+msgstr "Porta Max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "Configuração SOCKS v5"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Activo"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Porta"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Avançado"
+
+msgctxt "#30016"
+msgid "Custom Provider Timeout"
+msgstr "Timeout do Provider"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Activo (use à sua responsabilidade)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Timeout em segundos"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Manutenção"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Apagar cache"
+
+msgctxt "#30021"
+msgid "Enable Paging"
+msgstr "Activar Paginação"
+
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+msgstr "Activar Barra de Estado Sobreposta"
+
+msgctxt "#30023"
+msgid "Choose Stream Automatically"
+msgstr "Escolher Stream Automaticamente"
+
+msgctxt "#30024"
+msgid "Get updates for Pre-Releases"
+msgstr "Obter updates para Pre-Releases"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limitar taxas apenas depois do buffering"
+
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "Pasta da Biblioteca"
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar fechou de forma inesperada, a reiniciar..."
+
+msgctxt "#30101"
+msgid "You must restart XBMC before using Quasar"
+msgstr "Deve reiniciar o Kodi antes de usar o Quasar"
+
+msgctxt "#30102"
+msgid "This addon can only be run from within Quasar"
+msgstr "Este addon apenas pode ser corrido pelo Quasar"
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Cache apagada"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Pesquisar Séries"
+
+msgctxt "#30202"
+msgid "Choose Stream..."
+msgstr "Escolher Stream..."
+
+msgctxt "#30203"
+msgid "Movie Information"
+msgstr "Informação do Filme"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Não foi possível encontrar providers"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Não foram encontrados links"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Pesquisar Filmes"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Sem espaço disponível na pasta de download."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon foi iniciado"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Pesquisar"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Mais Populares"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Top Rated"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Mais Votados"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Filmes"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "Séries"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Inserir URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Insira o Magnet ou URL"
+
+msgctxt "#30218"
+msgid "Next Page"
+msgstr "Próxima Página"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "Adicionar/Remover da Biblioteca"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "Pasta da Biblioteca nao definida"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "Item adicionado na Biblioteca"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "Item removido da Biblioteca"

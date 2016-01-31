@@ -1,38 +1,49 @@
-NAME = plugin.video.pulsar
+NAME = plugin.video.quasar
 GIT = git
 GIT_VERSION = $(shell $(GIT) describe --always)
-VERSION = $(shell cat VERSION)
-ARCHS = windows_x86 darwin_x64 linux_x86 linux_x64 linux_arm
+VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" addon.xml)
+ARCHS = \
+	android_arm \
+	android_x64 \
+	linux_x86 \
+	linux_x64 \
+	linux_arm \
+	darwin_x64 \
+	windows_x86 \
+	windows_x64
 ZIP_SUFFIX = zip
 ZIP_FILE = $(NAME)-$(VERSION).$(ZIP_SUFFIX)
 
 all: clean zip
 
-bootstraper:
-	mkdir -p $(NAME)
-	sed s/\$$VERSION/0.0.1/g < addon.xml.tpl > $(NAME)/addon.xml
-	cp fanart.jpg $(NAME)
-	cp icon.png $(NAME)
-	zip -9 -r $(NAME).zip $(NAME)
-	rm -rf $(NAME)
+.PHONY: $(ARCHS)
+
+$(ARCHS):
+	$(MAKE) clean_arch ZIP_SUFFIX=$@.zip
+	$(MAKE) zip ARCHS=$@ ZIP_SUFFIX=$@.zip
 
 $(ZIP_FILE):
 	git archive --format zip --prefix $(NAME)/ --output $(ZIP_FILE) HEAD
 	mkdir -p $(NAME)/resources/bin
-	ln -s `pwd`/addon.xml $(NAME)
-	zip -9 -r -g $(ZIP_FILE) $(NAME)/addon.xml
 	for arch in $(ARCHS); do \
-		ln -s `pwd`/resources/bin/$$arch $(NAME)/resources/bin/$$arch; \
+		ln -s `pwd`/resources/bin$(DEV)/$$arch $(NAME)/resources/bin/$$arch; \
 		zip -9 -r -g $(ZIP_FILE) $(NAME)/resources/bin/$$arch; \
 	done
 	rm -rf $(NAME)
 
-zipfiles: addon.xml
-	for arch in $(ARCHS); do \
-		$(MAKE) zip ARCHS=$$arch ZIP_SUFFIX=$$arch.zip; \
-	done
-
 zip: $(ZIP_FILE)
 
+zipfiles: addon.xml
+	for arch in $(ARCHS); do \
+		$(MAKE) $$arch; \
+	done
+
+clean_arch:
+	 rm -f $(ZIP_FILE)
+
 clean:
+	for arch in $(ARCHS); do \
+		$(MAKE) clean_arch ZIP_SUFFIX=$$arch.zip; \
+	done
+	rm -f $(ZIP_FILE)
 	rm -rf $(NAME)

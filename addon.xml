@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.pulsar" name="Pulsar" version="0.4.7" provider-name="steeve">
+<addon id="plugin.video.quasar" name="Quasar" version="0.9.1-alpha.5" provider-name="scakemyer">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -12,12 +12,12 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <language>en</language>
-        <website><![CDATA[https://github.com/steeve/plugin.video.pulsar]]></website>
+        <website><![CDATA[https://github.com/scakemyer/plugin.video.quasar]]></website>
         <forum><![CDATA[http://forum.xbmc.org/showthread.php?tid=200957]]></forum>
-        <source><![CDATA[https://github.com/steeve/plugin.video.pulsar]]></source>
+        <source><![CDATA[https://github.com/scakemyer/plugin.video.quasar]]></source>
         <language>en</language>
-        <license><![CDATA[Non commercial. See https://github.com/steeve/plugin.video.pulsar/blob/master/LICENSE]]></license>
-        <summary><![CDATA[Pulsar: Universal streaming]]></summary>
-        <description><![CDATA[Follow @pulsarhq on Twitter]]></description>
+        <license><![CDATA[Non commercial. See https://github.com/scakemyer/plugin.video.quasar/blob/master/LICENSE]]></license>
+        <summary><![CDATA[Quasar: Torrent streaming]]></summary>
+        <description><![CDATA[Stream torrent files]]></description>
     </extension>
 </addon>
