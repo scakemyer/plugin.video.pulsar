@@ -1,0 +1,228 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+msgctxt "#30000"
+msgid "General"
+msgstr "Algemeen"
+
+msgctxt "#30001"
+msgid "Download Path (NOT FAT32)"
+msgstr "Download Pad (GEEN FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Behoud bestanden nadat het afspelen/downloaden gestopt is"
+
+msgctxt "#30003"
+msgid "Buffer Size (MB)"
+msgstr "Buffer Grootte (MB)"
+
+msgctxt "#30004"
+msgid "Max Upload Rate (kB/s)"
+msgstr "Max Upload Snelheid (kB/s)"
+
+msgctxt "#30005"
+msgid "Max Download Rate (kB/s)"
+msgstr "Max Download Snelheid (kB/s)"
+
+msgctxt "#30006"
+msgid "Listen Port Min"
+msgstr "Luister Poort Min"
+
+msgctxt "#30007"
+msgid "Listen Port Max"
+msgstr "Luister Poort Max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "SOCKS v5 Configuratie"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Poort"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Aanmelden als"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Uitgebreid"
+
+msgctxt "#30016"
+msgid "Custom Provider Timeout"
+msgstr "Aangepaste Provider Time-out"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Ingeschakeld (gebruik op eigen risico)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Time-out in secondes"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Onderhoud"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Cache Opschonen"
+
+msgctxt "#30021"
+msgid "Enable Paging"
+msgstr "Pagineren Inschakelen"
+
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+msgstr "Inschakelen Overlay Status Balk"
+
+msgctxt "#30023"
+msgid "Choose Stream Automatically"
+msgstr "Kies Stream Automatisch"
+
+msgctxt "#30024"
+msgid "Get updates for Pre-Releases"
+msgstr "Verkrijg Updates voor Pre-Releases"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Beperk snelheden na het bufferen"
+
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "Bibliotheek Pad"
+
+# Interface
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar is gechrashed, restarting..."
+
+msgctxt "#30101"
+msgid "You must restart XBMC before using Quasar"
+msgstr "Je moet XBMC opnieuw opstarten voordat je Quasar gebruikt"
+
+msgctxt "#30102"
+msgid "This addon can only be run from within Quasar"
+msgstr "Deze addon kan alleen gebruikt worden door Quasar"
+
+# Quasar daemon
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Chache opgeschoond"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Zoeken van TV Shows"
+
+msgctxt "#30202"
+msgid "Choose Stream..."
+msgstr "Kies Stream..."
+
+msgctxt "#30203"
+msgid "Movie Information"
+msgstr "Film informatie"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Kan geen providers vinden"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Geen links gevonden"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Zoeken van Films"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Niet genoeg ruimte beschikbaar in de download pad."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon is gestart"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Zoek"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Populairst"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Beste Cijfers"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Meeste Stemmen"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Films"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "TV Shows"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Plak URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Plak Magnet or URL"
+
+msgctxt "#30218"
+msgid "Next Page"
+msgstr "Volgende Pagina"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "Toevoegen/verwijderen van bibliotheek"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "Bibliotheek Pad niet omschreven"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "Item succesvol aan bibliotheek toegevoegd"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "Item succesvol uit bibliotheek verwijderd"
