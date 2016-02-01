@@ -112,7 +112,7 @@ msgstr "Escolher Stream Automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for Pre-Releases"
-msgstr "Obter updates para Pre-Releases"
+msgstr "Obter updates para Pré-lançamentos"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
@@ -140,7 +140,7 @@ msgstr "Este addon apenas pode ser corrido pelo Quasar"
 
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Cache apagada"
+msgstr "Cache apagado"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
@@ -152,7 +152,7 @@ msgstr "Escolher Stream..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Informação do Filme"
+msgstr "Mostrar Informação"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
@@ -184,7 +184,7 @@ msgstr "Mais Populares"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Top Rated"
+msgstr "Melhor Votados"
 
 msgctxt "#30212"
 msgid "Most Voted"
