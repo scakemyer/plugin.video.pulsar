@@ -150,7 +150,7 @@ msgstr "בחירת מקור..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "פרטי סרט"
+msgstr "הצגת פרטים"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
