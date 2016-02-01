@@ -139,7 +139,7 @@ msgid "Choose Stream..."
 msgstr "Seleccione Stream..."
 
 msgctxt "#30203"
-msgid "Movie Information"
+msgid "Show information"
 msgstr "Información de la película"
 
 msgctxt "#30204"
