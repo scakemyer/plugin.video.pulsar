@@ -136,7 +136,7 @@ msgstr "Choisir un Flux"
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Information sur le Film"
+msgstr "Afficher information"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"

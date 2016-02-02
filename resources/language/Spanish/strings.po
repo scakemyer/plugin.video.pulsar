@@ -140,7 +140,7 @@ msgstr "Seleccione Stream..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Información de la película"
+msgstr "Ver información"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"

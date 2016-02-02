@@ -136,7 +136,7 @@ msgstr "Alege Stream..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Informatie despre film"
+msgstr "Arată informație"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
