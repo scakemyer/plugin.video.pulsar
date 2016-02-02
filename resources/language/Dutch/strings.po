@@ -154,8 +154,8 @@ msgid "Choose Stream..."
 msgstr "Kies Stream..."
 
 msgctxt "#30203"
-msgid "Show information"
-msgstr "Film informatie"
+msgid "Information..."
+msgstr "Informatie..."
 
 msgctxt "#30204"
 msgid "Unable to find any providers"

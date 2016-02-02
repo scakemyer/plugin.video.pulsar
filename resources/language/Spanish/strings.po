@@ -139,8 +139,8 @@ msgid "Choose Stream..."
 msgstr "Seleccione Stream..."
 
 msgctxt "#30203"
-msgid "Show information"
-msgstr "Información de la película"
+msgid "Information"
+msgstr "Información..."
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
