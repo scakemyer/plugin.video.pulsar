@@ -1,0 +1,283 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2016-02-06 16:35+01:00\n"
+"PO-Revision-Date: 2016-02-06 16:35+01:00\n"
+"Last-Translator: Sonics007 <krizo.ladislav@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Všeobecné"
+
+msgctxt "#30001"
+msgid "Download path (not FAT32)"
+msgstr "Adresa pre stiahnute súbory (not FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Ponecha súbor po prehratí/stiahnutí
+msgctxt "#30003"
+msgid "Buffer size (MB)"
+msgstr "Velkosť dočasnej pamäte (MB)"
+
+msgctxt "#30004"
+msgid "Max upload rate (kB/s)"
+msgstr "Max hodnota odosielania (kB/s)"
+
+msgctxt "#30005"
+msgid "Max download rate (kB/s)"
+msgstr "Max hodnota stahovania (kB/s)"
+
+msgctxt "#30006"
+msgid "Listen port min"
+msgstr "Listen port min"
+
+msgctxt "#30007"
+msgid "Listen port max"
+msgstr "Listen port max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "SOCKS v5 konfigurácia"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "povolené"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Meno"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Heslo"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Pokročilé"
+
+msgctxt "#30016"
+msgid "Custom provider timeout"
+msgstr "Vlastný timeout providera"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Povoliť (iba na vlastné riziko)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Timeout v sekundách"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Údržba"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Vymazať cache"
+
+msgctxt "#30021"
+msgid "Enable pagination"
+msgstr "Enable pagination"
+
+msgctxt "#30022"
+msgid "Enable overlay status"
+msgstr "Enable overlay status"
+
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Automatický vźber streamu"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Get updates for pre-releases"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limit rates after buffering only"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Adresa knižnice"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Limit pripojenia"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "pozadie spracavania torrentov"
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar spadol, restartovanie..."
+
+msgctxt "#30101"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Prosím reštartujte Kodi pred spustením Qualsara"
+
+msgctxt "#30102"
+msgid "This add-on can only be run from within Quasar"
+msgstr "Tento doplnok je možné spustiť len cez Quasar"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Quasar binary nenájdený"
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Cache vymazaná"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Vyhľadať TV seriál"
+
+msgctxt "#30202"
+msgid "Choose stream..."
+msgstr "Vybrať stream..."
+
+msgctxt "#30203"
+msgid "Show information"
+msgstr "Zobraz informácie"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Žiaden provider najdený"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Nenašlo žiadne linky"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Vyhľadat filmy"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Nedostatok miesta pre uloženie ."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon sa práve spustil"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Vyhľadať"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Najpopulárnejšie filmyr"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Filmy s najvačším hodnotením"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Filmy s najvačším hlasovNíM"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Filmy"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "TV seriály"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Vložit URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Vložiť Magnet alebo URL"
+
+msgctxt "#30218"
+msgid "Next page"
+msgstr "Ďaľšia strana"
+
+msgctxt "#30219"
+msgid "Add/Remove from library"
+msgstr "Pridať/Odobrať z knižnice"
+
+msgctxt "#30220"
+msgid "Library path not set"
+msgstr "Cesta knižnice nenastavená"
+
+msgctxt "#30221"
+msgid "Item successfully added to library"
+msgstr "Objekt úspenšne pridaný do knižnice"
+
+msgctxt "#30222"
+msgid "Item removed from library"
+msgstr "Objekt odstránený z knižnice"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Súbory"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Chyba providera"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Chyba navigacie"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Chyba daemona "
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Chyba updatovania Quasar daemona"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Dostupné streamy pre"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrenty"
+
+msgctxt "#30230"
+msgid "Play/resume torrent"
+msgstr "Prehrať/pokračovať torrent"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Pozastaviť torrent"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Vymazať torrent"
