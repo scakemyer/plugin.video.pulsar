@@ -1,0 +1,284 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2016-02-07 12:27+03:00\n"
+"PO-Revision-Date: 2016-02-08 18:13+03:00\n"
+"Last-Translator: razer1s <ymychka@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "#30001"
+msgid "Download path (not FAT32)"
+msgstr "Путь для скачивания (не для FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Хранить файлы после остановки воспроизвидения/загрузки"
+
+msgctxt "#30003"
+msgid "Buffer size (MB)"
+msgstr "Размер буфера (МБ)"
+
+msgctxt "#30004"
+msgid "Max upload rate (kB/s)"
+msgstr "Максимальная скорость отдачи (кБ/с)"
+
+msgctxt "#30005"
+msgid "Max download rate (kB/s)"
+msgstr "Максимальная скорость скачивания (кБ/с)"
+
+msgctxt "#30006"
+msgid "Listen port min"
+msgstr "Порт (мин)"
+
+msgctxt "#30007"
+msgid "Listen port max"
+msgstr "Порт (макс)"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Прокси"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "Конфигурация SOCKS v5"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Включено"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Хост"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Порт"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Логин"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgctxt "#30016"
+msgid "Custom provider timeout"
+msgstr "Пользовательский тайм-аут провайдера"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Включено (используйте на ваш риск)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Тайм-аут в секундах"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Обслуживание"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Очистить кеш"
+
+msgctxt "#30021"
+msgid "Enable pagination"
+msgstr "Включить нумерацию страниц"
+
+msgctxt "#30022"
+msgid "Enable overlay status"
+msgstr "Включить overlay статус"
+
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Выбрать стрим автоматически"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Получать обновления для пре-релизов"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Ограничить скорости после буферизации"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Папка библиотеки"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Лимит подключений"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Фоновая обработка торрентов"
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Упс, перезапуск..."
+
+msgctxt "#30101"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Перезапустите Kodi"
+
+msgctxt "#30102"
+msgid "This add-on can only be run from within Quasar"
+msgstr "Это расширение можно запустить только через Quasar"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Quasar binary не найден"
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Кеш очищен"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Искать сериалы"
+
+msgctxt "#30202"
+msgid "Choose stream..."
+msgstr "Выбрать стрим..."
+
+msgctxt "#30203"
+msgid "Show information"
+msgstr "Информация о сериале"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Нет провайдеров"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Стримы не найдены"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Искать фильмы"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Недостаточно места в папке для скачивания."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon запустился"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Поиск"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Самые популярные"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "С лучшим рейтингом"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Самые оцениваемые"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Топ 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr Фильмы"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "Сериалы"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Вставить URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Вставить Magnet или URL"
+
+msgctxt "#30218"
+msgid "Next page"
+msgstr "Следующая страница"
+
+msgctxt "#30219"
+msgid "Add/Remove from library"
+msgstr "Добавить/Удалить с библиотеки"
+
+msgctxt "#30220"
+msgid "Library path not set"
+msgstr "Путь к библиотеке не назначен"
+
+msgctxt "#30221"
+msgid "Item successfully added to library"
+msgstr "Обьект успешно добавлен в библиотеку"
+
+msgctxt "#30222"
+msgid "Item removed from library"
+msgstr "Обьект удален с библиотеки"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Файлы"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Ошибка провайдера"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Ошибка навигации"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Ошибка Quasar daemon"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Ошибка обновления Quasar daemon"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Доступные торренты |"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Торренты"
+
+msgctxt "#30230"
+msgid "Play/resume torrent"
+msgstr "Играть/возобновить торрент"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Остановить торрент"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Удалить торрент"
