@@ -78,7 +78,7 @@ msgstr "Korisničko ime"
 
 msgctxt "#30014"
 msgid "Password"
-msgstr "Zaporka"
+msgstr "Šifra"
 
 msgctxt "#30015"
 msgid "Advanced"
@@ -224,7 +224,7 @@ msgstr "TV Serije"
 
 msgctxt "#30216"
 msgid "Paste URL"
-msgstr "Zalijepi URL (Paste)
+msgstr "Zalijepi URL (Paste)"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
@@ -256,7 +256,7 @@ msgstr "Datoteke"
 
 msgctxt "#30224"
 msgid "Provider error"
-msgstr "Greška u provideru
+msgstr "Greška u provideru"
 
 msgctxt "#30225"
 msgid "Navigation error"
@@ -272,7 +272,7 @@ msgstr "Greška prilikom updatea Quasar daemona"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Dostuoni streamovi za"
+msgstr "Dostupni streamovi za"
 
 msgctxt "#30229"
 msgid "Torrents"
