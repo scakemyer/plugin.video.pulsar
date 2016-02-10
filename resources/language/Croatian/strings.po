@@ -289,3 +289,27 @@ msgstr "Pauziraj torrent"
 msgctxt "#30232"
 msgid "Delete torrent"
 msgstr "Izbriši torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Pauziraj sesiju"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Nastavi sesiju"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Nastavi torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Nova izdanja"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Nove serije"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Nove epizode"
