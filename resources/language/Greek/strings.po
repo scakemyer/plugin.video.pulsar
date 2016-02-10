@@ -1,0 +1,336 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: scakemyer
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 19:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Filosofos <extraxoros@gmail.com>\n"
+"Report-Msgid-Bugs-To: Filosofos <extraxoros@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Settings
+msgctxt "#30000"
+msgid "General"
+msgstr "Γενικές ρυθμίσεις"
+
+msgctxt "#30001"
+msgid "Download path (not FAT32)"
+msgstr "Διαδρομή λήψης (ΟΧΙ FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Διατήρηση αρχείων όταν ολοκληρωθεί η αναπαραγωγή/λήψη"
+
+msgctxt "#30003"
+msgid "Buffer size (MB)"
+msgstr "Μέγεθος προσωρινής μνήμης (MB)"
+
+msgctxt "#30004"
+msgid "Max upload rate (kB/s)"
+msgstr "Μέγιστος ρυθμός μεταφόρτωσης (Upload)(kB/s)"
+
+msgctxt "#30005"
+msgid "Max download rate (kB/s)"
+msgstr "Μέγιστος ρυθμός λήψης (kB/s)"
+
+msgctxt "#30006"
+msgid "Listen port min"
+msgstr "Θύρα επικοινωνίας (μικρότερη)"
+
+msgctxt "#30007"
+msgid "Listen port max"
+msgstr "Θύρα επικοινωνίας (μεγαλύτερη)"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Διακομιστής μεσολάβησης (proxy)"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "Ρυθμίσεις SOCKS v5"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Εξυπηρετητής"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Θύρα"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Σύνδεση"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Συνθηματικό"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Προχωρημένες ρυθμίσεις"
+
+msgctxt "#30016"
+msgid "Custom provider timeout"
+msgstr "Προσαρμοσμένη διάρκεια λήξης παρόχων"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Ενεργοποιημένο (χρησιμοποιήστε το με δική σας ευθύνη)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Χρονικό όριο λήξης σε δευτερόλεπτα"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Συντήρηση"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Διαγραφή λανθάνουσας μνήμης"
+
+msgctxt "#30021"
+msgid "Enable pagination"
+msgstr "Ενεργοποίηση σελιδοποίησης"
+
+msgctxt "#30022"
+msgid "Enable overlay status"
+msgstr "Ενεργοποίηση μπάρας κατάστασης"
+
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Αυτόματη επιλογή ροής (stream)"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Ενεργοποίηση λήψης ανεπίσημων εκδόσεων"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Περιορισμός ρυθμού λήψης μετά την αποθήκευση στην ενδιάμεση μνήμη"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Διαδρομή ταινιοθήκης"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Όριο συνδέσεων"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Χειρισμός torrents στο υπόβαθρο"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Συχνότητα αποθήκευσης συνεδρίας (δευτερόλεπτα)"
+
+# Interface
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Το Quasar έχει κλείσει αναπάντεχα, γίνεται επανεκκίνηση..."
+
+msgctxt "#30101"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Απαιτείται η επανεκκίνηση του Kodi πριν από τη χρήση του Quasar"
+
+msgctxt "#30102"
+msgid "This add-on can only be run from within Quasar"
+msgstr "Το συγκεκριμένο πρόσθετο μπορεί να χρησιμοποιηθεί μόνο μέσα από το Quasar"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Δεν βρέθηκε το Quasar binary"
+
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Εισαγωγή αρχείου ή URL"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "Αρχείο"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "Εισαγωγή URL"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "Διαδρομή αρχείου"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
+
+# Quasar daemon
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Έγινε εκκαθάριση της προσωρινής μνήμης"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Αναζήτηση Τηλεοπτικών Σειρών"
+
+msgctxt "#30202"
+msgid "Choose stream..."
+msgstr "Επιλέξτε ροή..."
+
+msgctxt "#30203"
+msgid "Show information"
+msgstr "Εμφάνιση πληροφοριών"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Δεν βρέθηκαν πάροχοι (providers)"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Δε βρέθηκαν σύνδεσμοι"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Αναζήτηση ταινιών"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Δεν υπάρχει ελεύθερος διαθέσιμος χώρος στη διαδρομή λήψης"
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Έγινε εκκίνηση του Quasar"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Δημοφιλέστερες ταινίες"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Ταινίες με τις υψηλότερες βαθμολογίες"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Ταινίες με τις περισσότερες ψήφους"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "Καλύτερες 250 ταινίες του IMDB"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Ταινίες"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "Τηλεοπτικές Σειρές"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Επικόλληση URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Επικόλληση Magnet ή URL"
+
+msgctxt "#30218"
+msgid "Next page"
+msgstr "Επόμενη σελίδα"
+
+msgctxt "#30219"
+msgid "Add / Remove from library"
+msgstr "Προσθήκη/Διαγραφή από την ταινιοθήκη"
+
+msgctxt "#30220"
+msgid "Library path not set"
+msgstr "Δεν έχει ορισθεί διαδρομή για τη ταινιοθήκη"
+
+msgctxt "#30221"
+msgid "Item successfully added to library"
+msgstr "Το αντικείμενο προστέθηκε στη ταινιοθήκη"
+
+msgctxt "#30222"
+msgid "Item removed from library"
+msgstr "Το αντικείμενο αφαιρέθηκε από τη ταινιοθήκη"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Αρχεία"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Σφάλμα παρόχου"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Σφάλμα πλοήγησης"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Σφάλμα Daemon"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Πρόβλημα ενημέρωσης Quasar daemon"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Διαθέσιμες ροές για"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrents"
+
+msgctxt "#30230"
+msgid "Play / resume torrent"
+msgstr "Αναπαραγωγή / συνέχιση torrent"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Παύση torrent"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Διαγραφή torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Παύση συνεδρίας"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Συνέχιση συνεδρίας"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Συνέχιση torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Πρόσφατες κυκλοφορίες"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Πρόσφατες τηλεοπτικές σειρές"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Πρόσφατα Επεισόδια"
