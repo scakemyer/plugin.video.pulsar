@@ -233,3 +233,63 @@ msgstr "Item removido da biblioteca"
 msgctxt "#30223"
 msgid "Files"
 msgstr "Arquivos"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Provedor falhou"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Navegação falhou"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Daemon falhou"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Atualização do Quasar daemon falhou"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Fontes disponíveis para"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrents"
+
+msgctxt "#30230"
+msgid "Play / resume torrent"
+msgstr "Reproduzir / resumir torrent"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Pausar torrent"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Apagar torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Pausar sessão"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Resumir sessão"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Resumir torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Filmes Recentes"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Séries Recentes"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Episódios Recentes"
