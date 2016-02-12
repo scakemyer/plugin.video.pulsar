@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-10 12:19+0200\n"
-"PO-Revision-Date: 2016-02-11 08:16+0200\n"
-"Last-Translator: Assaf Sapir <meijin007@gmail.com>\n"
+"POT-Creation-Date: 2016-02-13 21:34+0200\n"
+"PO-Revision-Date: 2016-02-13 22:40+0200\n"
+"Last-Translator: Assaf Sapir <meijin007 AT gmail.com>\n"
 "Language-Team: \n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "גודל הבאפר (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "קצב העלאה מרבי (kbB/s)"
+msgstr "קצב העלאה מרבי (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
@@ -138,6 +138,18 @@ msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "תדירות שמירת ההפעלה (בשניות)"
 
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "הסטת המיקום של שורת המצב"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "כיבוי בדיקת ספקים"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "מספר ניסיונות לפני כיבוי ספק"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -149,7 +161,7 @@ msgstr "יש להפעיל את Kodi מחדש לפני השימוש ב Quasar"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "הAddon יכול לפעול רק מתוך Quasar"
+msgstr "הAddon הזה יכול לפעול רק מתוך Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
@@ -179,6 +191,18 @@ msgctxt "#30109"
 msgid "OK"
 msgstr "אישור"
 
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Quasar קרס יותר מדי פעמים, מתבטל..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "הספק נכשל יותר מדי פעמים, מבטל..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "לא ניתן לבטל את ההפעלה של הספק"
+
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -198,7 +222,7 @@ msgstr "הצגת מידע"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "לא נצא אף Provider"
+msgstr "לא נצא אף ספק"
 
 msgctxt "#30205"
 msgid "No links were found"
@@ -278,7 +302,7 @@ msgstr "קבצים"
 
 msgctxt "#30224"
 msgid "Provider error"
-msgstr "שגיאת Provider"
+msgstr "שגיאת ספק"
 
 msgctxt "#30225"
 msgid "Navigation error"
@@ -335,3 +359,27 @@ msgstr "תוכניות טלוויזיה אחרונות"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "פרקים אחרונים"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "ספקים"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "מופעל"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "כבוי"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "בדיקה"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "כישלונות ספקים"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "הגדרות ספקים"
