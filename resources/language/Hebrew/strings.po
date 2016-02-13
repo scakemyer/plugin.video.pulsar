@@ -17,6 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.7\n"
 
+
 # Settings
 msgctxt "#30000"
 msgid "General"
@@ -32,23 +33,23 @@ msgstr "שמירת הקבצים בסיום הניגון/ההורדה"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "גודל הבאפר (MB)"
+msgstr "גודל באפר (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "קצב העלאה מרבי (kbB/s)"
+msgstr "קצב העלאה מירבי (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "קצב הורדה מרבי (kB/s)"
+msgstr "קצב הורדה מירבי (kB/s)"
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "פורט האזנה מינימלי"
+msgstr "פורט האזנה מינ'"
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "פורט האזנה מקסימלי"
+msgstr "פורט האזנה מקס'"
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -60,11 +61,11 @@ msgstr "הגדרת SOCKS v5"
 
 msgctxt "#30010"
 msgid "Enabled"
-msgstr "מופעל"
+msgstr "הפעל"
 
 msgctxt "#30011"
 msgid "Host"
-msgstr "הוסט"
+msgstr "מארח"
 
 msgctxt "#30012"
 msgid "Port"
@@ -76,7 +77,7 @@ msgstr "שם משתמש"
 
 msgctxt "#30014"
 msgid "Password"
-msgstr "ססמה"
+msgstr "סיסמא"
 
 msgctxt "#30015"
 msgid "Advanced"
@@ -88,7 +89,7 @@ msgstr "Timeout מותאם אישית"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "הפעלה (שימוש רק באחריותך)"
+msgstr "הפעל (באחריותך בלבד)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
@@ -108,7 +109,7 @@ msgstr "הפעלת עימוד"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "הפעלת שורת מצב מרחפת"
+msgstr "הצג שורת סטטוס על מסך"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
@@ -116,15 +117,15 @@ msgstr "בחירת מקור אוטומטית"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "הפעלת עדכוני קדם-שחרור"
+msgstr "קבל עדכונים לגרסאות פיתוח"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
-msgstr "הגבלת קצבים בזמן באפרינג בלבד"
+msgstr "הגבל תעבורה לאחר התחלת ניגון בלבד"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "נתיב לספריה"
+msgstr "נתיב ספרייה"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -132,36 +133,48 @@ msgstr "הגבלת חיבורים"
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
-msgstr "ניהול טיפול בטורנטים ברקע"
+msgstr "הורדת טורנטים ברקע"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "תדירות שמירת ההפעלה (בשניות)"
 
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "מיקום שורת סטטוס על מסך"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "נטרל פרוביידרים לא תקינים"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "נטרול לאחר מספר כשלונות"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar קרס, מופעל מחדש..."
+msgstr "קוואסר קרס, מפעיל מחדש..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
-msgstr "יש להפעיל את Kodi מחדש לפני השימוש ב Quasar"
+msgstr "חובה להפעיל את קודי מחדש לפני שימוש בקוואסר"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "הAddon יכול לפעול רק מתוך Quasar"
+msgstr "ההרחבה יכולה לפעול רק מתוך קוואסר"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
-msgstr "אין אפשרות למצוא את קובץ ההרצה של Quasar"
+msgstr "אין אפשרות למצוא קובץ הפעלה של קוואסר"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
-msgstr "הכנסת נתיב לקובץ או לכתובת אינטרנט"
+msgstr "הכנס קובץ או קישור מגנט"
 
 msgctxt "#30105"
 msgid "URL"
-msgstr "כתובת אינטרנט"
+msgstr "קישור מגנט"
 
 msgctxt "#30106"
 msgid "File"
@@ -169,52 +182,64 @@ msgstr "קובץ"
 
 msgctxt "#30107"
 msgid "Insert URL"
-msgstr "הכנסת כתובת אינטרנט"
+msgstr "הכנס קישור מגנט"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "נתיב לקובץ "
+msgstr "נתיב קובץ"
 
 msgctxt "#30109"
 msgid "OK"
 msgstr "אישור"
 
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "התרסק פעמים רבות מדי, מבטל..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "הפרוביידר נכשל פעמים רבות מדי, משבית..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "אין אפשרות לנטרל פרוביידר"
+
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "מטמון נוקה"
+msgstr "Cache cleared"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "חיפוש תוכנית טלוויזיה"
+msgstr "חיפוש סדרות טלויזיה"
 
 msgctxt "#30202"
 msgid "Choose stream..."
-msgstr "בחירת מקור..."
+msgstr "בחר מקור..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "הצגת מידע"
+msgstr "הצג מידע"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "לא נצא אף Provider"
+msgstr "אין אפשרות למצוא פרוביידרים"
 
 msgctxt "#30205"
 msgid "No links were found"
-msgstr "לא נמצאו קישורים"
+msgstr "לא נמצאו לינקים"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "חיפוש סרט"
+msgstr "חיפוש סרטים"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "אין מספיק מקום בנתיב ההורדה."
+msgstr "אין מספיק מקום בנתיב ההורדה"
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "שירות Quasar הופעל"
+msgstr "Quasar daemon has started"
 
 msgctxt "#30209"
 msgid "Search"
@@ -226,7 +251,7 @@ msgstr "הכי פופלאריים"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "מדורגים הכי גבוה"
+msgstr "בראש הדירוג"
 
 msgctxt "#30212"
 msgid "Most Voted"
@@ -242,15 +267,15 @@ msgstr "סרטים"
 
 msgctxt "#30215"
 msgid "TV Shows"
-msgstr "תוכניות טלוויזיה"
+msgstr "סדרות"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "הוספת טורנט"
+msgstr "הפעל טורנט"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "הדבקת קישור Magnet או כתובת אינטרנט"
+msgstr "הדבקת קישור מגנט או כתובת אינטרנט"
 
 msgctxt "#30218"
 msgid "Next page"
@@ -258,15 +283,15 @@ msgstr "עמוד הבא"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "הוספה/הסרה מהספרייה"
+msgstr "הוסף/הסר מספרייה"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "נתיב הספרייה לא מוגדר"
+msgstr "נתיב ספרייה לא נקבע"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "פריט הוסף בהצלחה לספרייה"
+msgstr "פריט נוסף בהצלחה לספרייה"
 
 msgctxt "#30222"
 msgid "Item removed from library"
@@ -278,7 +303,7 @@ msgstr "קבצים"
 
 msgctxt "#30224"
 msgid "Provider error"
-msgstr "שגיאת Provider"
+msgstr "שגיאת פרוביידר"
 
 msgctxt "#30225"
 msgid "Navigation error"
@@ -286,15 +311,15 @@ msgstr "שגיאת ניווט"
 
 msgctxt "#30226"
 msgid "Daemon error"
-msgstr "שגיאת שרת"
+msgstr "שגיאת Daemon"
 
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
-msgstr "שגיאה בעדכון של שרת Quasar"
+msgstr "שגיאה בעדכון Daemon של קוואסר"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "מקורות זמינים עבור"
+msgstr "Available streams for"
 
 msgctxt "#30229"
 msgid "Torrents"
@@ -306,19 +331,19 @@ msgstr "ניגון/המשך טורנט"
 
 msgctxt "#30231"
 msgid "Pause torrent"
-msgstr "השהיית טורנט"
+msgstr "השהה טורנט"
 
 msgctxt "#30232"
 msgid "Delete torrent"
-msgstr "מחיקת טורנט"
+msgstr "מחק טורנט"
 
 msgctxt "#30233"
 msgid "Pause session"
-msgstr "השהיית פעולה"
+msgstr "השהה הכל"
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "המשך פעולה"
+msgstr "המשך הכל"
 
 msgctxt "#30235"
 msgid "Resume torrent"
@@ -330,8 +355,32 @@ msgstr "שוחררו לאחרונה"
 
 msgctxt "#30237"
 msgid "Recent Shows"
-msgstr "תוכניות טלוויזיה אחרונות"
+msgstr "סדרות אחרונות"
 
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "פרקים אחרונים"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "פרוביידרים"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "הפעל"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "נטרל"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "בדוק"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "כשלונות פרוביידר"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "הגדרות פרוביידר"
