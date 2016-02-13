@@ -333,3 +333,27 @@ msgstr "Séries Recentes"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Episódios Recentes"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Provedorees"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Ativar"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Desativar"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Conferir"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Falhas no provedor"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Opções do provedor"
