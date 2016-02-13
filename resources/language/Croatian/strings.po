@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-07 15:15+0100\n"
-"PO-Revision-Date: 2016-02-12 10:16+0100\n"
+"PO-Revision-Date: 2016-02-13 13:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: hr_HR\n"
@@ -144,6 +144,14 @@ msgctxt "#30030"
 msgid "Overlay status vertical offset"
 msgstr "Vertikalna udaljenost statusnog prozora"
 
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Onemogući providere koji nisu prošli test zdravlja"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Dopusti greške prije nego se provider onemogući"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -184,6 +192,18 @@ msgstr "Put do datoteke"
 msgctxt "#30109"
 msgid "OK"
 msgstr "OK"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Srušio se previše puta, obustavljam..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Provider se srušio previše puta, onemogućavam..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Provider se ne može onemogućiti"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -341,3 +361,27 @@ msgstr "Aktualne Serije"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Posljednje epizode"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Provideri"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Omogući"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Onemogući"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Provjera"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Greške providera"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Postavke providera"
