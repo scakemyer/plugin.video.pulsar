@@ -134,6 +134,18 @@ msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "Frequência de salvamento da sessão (segundos)"
 
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Ajustar altura do status sobreposto"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Desabilitar provedor com falhas"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Falhas permitidas antes de desabilitar provedor"
+
 # Interface
 
 msgctxt "#30100"
@@ -175,6 +187,18 @@ msgstr "Pasta do arquivo"
 msgctxt "#30109"
 msgid "OK"
 msgstr "OK"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Falhou diversas vezes, cancelando..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Provedor falhou diversas vezes, desabilitando..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Falhou em desabilitar o provedor"
 
 # Quasar daemon
 
@@ -333,3 +357,27 @@ msgstr "Séries Recentes"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Episódios Recentes"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Provedores"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Ativar"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Desativar"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Conferir"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Falhas do provedor"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Opções do provedor"
