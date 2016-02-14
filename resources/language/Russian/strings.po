@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-02-07 12:27+03:00\n"
-"PO-Revision-Date: 2016-02-08 18:13+03:00\n"
+"PO-Revision-Date: 2016-02-14 17:13+03:00\n"
 "Last-Translator: razer1s <ymychka@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +21,7 @@ msgstr "Общие"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Путь для скачивания (кроме FAT32)"
+msgstr "Путь для загрузок (кроме FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
@@ -41,11 +41,11 @@ msgstr "Максимальная скорость скачивания (кБ/с)
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Порт (мин)"
+msgstr "Порт (минимальный)"
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Порт (макс)"
+msgstr "Порт (максимальный)"
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -101,15 +101,15 @@ msgstr "Очистить кеш"
 
 msgctxt "#30021"
 msgid "Enable pagination"
-msgstr "Включить нумерацию страниц"
+msgstr "Выводить фильмы и сериалы постранично"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Включить overlay статус"
+msgstr "Показывать статус загрузки"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Выбирать торрент автоматически"
+msgstr "Выбрать случайный стрим"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
@@ -121,7 +121,7 @@ msgstr "Ограничить скорость только после буфер
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Папка библиотеки"
+msgstr "Папка для библиотеки"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -133,7 +133,39 @@ msgstr "Фоновая обработка торрентов"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
-msgstr "Частота сохранений в сессии (сек.)"
+msgstr "Частота сохранений в сессии (секунд)"
+
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Позиция статуса загрузки по вертикали"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Отключать провайдеров не прошедших проверку"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Допустимое число сбоев провайдера:"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Внешний вид"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Вид по умолчанию для фильмов"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Вид по умолчанию для сериалов"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Вид по умолчанию для сезонов"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Вид по умолчанию для эпизодов"
 
 # Interface
 
@@ -153,11 +185,47 @@ msgctxt "#30103"
 msgid "Unable to find Quasar binary"
 msgstr "Quasar binary не найден"
 
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Вставить файл или URL"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "Файл"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "Вставить URL"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "Путь к файлу"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "ОК"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Много ошибок, отказ..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Слишком много сбоев провайдера, отключение..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Невозможно отключить провайдера"
+
 # Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Кеш очищен"
+msgstr "Кеш очищен!"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
@@ -169,7 +237,7 @@ msgstr "Выбрать стрим..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Инфо"
+msgstr "Информация"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
@@ -221,7 +289,7 @@ msgstr "Сериалы"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Вставить URL"
+msgstr "Добавить торрент"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
@@ -233,7 +301,7 @@ msgstr "Следующая страница"
 
 msgctxt "#30219"
 msgid "Add/Remove from library"
-msgstr "Добавить/Удалить с библиотеки"
+msgstr "Добавить/удалить с библиотеки"
 
 msgctxt "#30220"
 msgid "Library path not set"
@@ -269,7 +337,7 @@ msgstr "Ошибка обновления Quasar daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Доступные торренты |"
+msgstr "Streams |"
 
 msgctxt "#30229"
 msgid "Torrents"
@@ -289,15 +357,15 @@ msgstr "Удалить торрент"
 
 msgctxt "#30233"
 msgid "Pause session"
-msgstr "Остановить сессию"
+msgstr "Остановить загрузку"
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "Возобновить сессию"
+msgstr "Возобновить загрузку"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Возобновить торрент"
+msgstr "Возобновить проигрывание"
 
 msgctxt "#30236"
 msgid "Recently Released"
@@ -310,3 +378,27 @@ msgstr "Новинки"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Новые эпизоды"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Провайдеры"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Включить"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Отключить"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Проверить"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Сбоев"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Настройки провайдера"
