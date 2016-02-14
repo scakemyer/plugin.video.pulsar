@@ -146,6 +146,26 @@ msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
 msgstr "Falhas permitidas antes de desabilitar provedor"
 
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Aparência"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Visualização padrão para Filmes"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Visualização padrão para Seriados"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Visualização padrão para Temporadas"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Visualização padrão para Episódios"
+
 # Interface
 
 msgctxt "#30100"
@@ -380,4 +400,4 @@ msgstr "Falhas do provedor"
 
 msgctxt "#30244"
 msgid "Provider settings"
-msgstr "Opções do provedor"
+msgstr "Configurações do provedor"
