@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-13 16:36+0100\n"
-"PO-Revision-Date: 2016-02-13 16:42+0100\n"
+"POT-Creation-Date: 2016-02-14 08:50+0100\n"
+"PO-Revision-Date: 2016-02-14 08:53+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl_NL\n"
@@ -150,6 +150,26 @@ msgstr "Falende provider gezondheid check niet uitvoeren"
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
 msgstr "Aantal toegestaande foutmelding voordat een provider uitgezet wordt"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Standaardweergave voor films"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Standaardweergave voor TV shows"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Standaardweergave voor seizoenen"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Standaardweergave voor episodes"
 
 # Interface
 msgctxt "#30100"
