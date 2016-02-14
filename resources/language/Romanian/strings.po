@@ -4,17 +4,17 @@
 # Addon Provider: steeve
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-02-02 06:24-0500\n"
+"PO-Revision-Date: 2016-02-14 23:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ro\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Project-Id-Version: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.7\n"
 
 # Settings
 msgctxt "#30000"
@@ -23,31 +23,31 @@ msgstr "General"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Calea spre descarcare (NU FAT32)"
+msgstr "Calea spre descărcare (nu FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Pastreaza fisierele dupa reproducere"
+msgstr "Păstrează fișierele după terminarea redării / descărcarii"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Marime buffer (MB)"
+msgstr "Mărime tampon(buffer) (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Rata Maxima Upload (kB/s)"
+msgstr "Rată maximă de încărcare (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Rata Maxima Download (kB/S)"
+msgstr "Rată maximă de descărcare (kB/S)"
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Asculta Port Min"
+msgstr "Ascultă port min"
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Asculta Port Max"
+msgstr "Ascultă port max"
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -63,7 +63,7 @@ msgstr "Activat"
 
 msgctxt "#30011"
 msgid "Host"
-msgstr "Host"
+msgstr "Gazdă"
 
 msgctxt "#30012"
 msgid "Port"
@@ -71,11 +71,11 @@ msgstr "Port"
 
 msgctxt "#30013"
 msgid "Login"
-msgstr "Login"
+msgstr "Autentificare"
 
 msgctxt "#30014"
 msgid "Password"
-msgstr "Parola"
+msgstr "Parolă"
 
 msgctxt "#30015"
 msgid "Advanced"
@@ -83,101 +83,201 @@ msgstr "Avansat"
 
 msgctxt "#30016"
 msgid "Custom provider timeout"
-msgstr "Timeout Provider"
+msgstr "Timp așteptare furnizor"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "Activat (utilizati la risc propriu)"
+msgstr "Activat (utilizați pe risc propriu)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
-msgstr "Timeout in secunde"
+msgstr "Timp răspuns în secunde"
 
 msgctxt "#30019"
 msgid "Maintenance"
-msgstr "Mentenenta"
+msgstr "Mentenență"
 
 msgctxt "#30020"
 msgid "Clear cache"
-msgstr "Sterge cache"
+msgstr "Șterge cache"
 
 msgctxt "#30021"
 msgid "Enable pagination"
-msgstr "Activeaza Paginare"
+msgstr "Activează paginare"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Activeaza Bara de Stare"
+msgstr "Activează bara de stare"
+
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Selectați fluxul automat"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Obține actualizări pentru versiunile în teste"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limitează viteza doar după terminarea descărcării"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Cale librărie"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Limita conexiunilor"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Manipularea torentelor în fundal"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Frecvența salvare sesiune (secunde) "
+
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Poziția verticală a barei de stare"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Dezactivează furnizorii în urma verificărilor"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Eșecuri permise pană la dezactivarea furnizorului "
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Aspect"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Afișare implicită pentru Filme"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Afișare implicită pentru Seriale"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Afișare implicită pentru Sezoane"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Afișare implicită pentru Episoade"
 
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar a intampinat probleme, se reporneste..."
+msgstr "Quasar a întâmpinat probleme, repornește..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
-msgstr "E necesar sa restartati Kodi inainte de utilizare Quasar"
+msgstr "Este necesar să reporniți Kodi înainte de utilizarea Quasar"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "Acest addon poate fi rulat doar din Quasar"
+msgstr "Acesta extensie poate fi rulată doar din Quasar"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Nu se găsește binarul Quasar"
+
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Inserează fișier sau URL"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "Fișier"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "Inserează URL"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "Cale fișier"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Pornire eșuată de prea multe ori, abandonare..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Furnizorul a eșuat de prea multe ori, dezactivare..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Nu se poate dezactiva furnizor"
 
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Cache-ul a fost sters"
+msgstr "Cache-ul a fost șters"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "Cauta TV Shows"
+msgstr "Caută Seriale"
 
 msgctxt "#30202"
 msgid "Choose stream..."
-msgstr "Alege Stream..."
+msgstr "Alege flux..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Arată informații"
+msgstr "Arată informațiile"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "Nu a fost gasit nici un provider"
+msgstr "Nu a fost găsit niciun furnizor"
 
 msgctxt "#30205"
 msgid "No links were found"
-msgstr "Nu a fost gasit nici un link"
+msgstr "Nu a fost găsită nicio legătură"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "Cauta filme"
+msgstr "Caută filme"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Loc insuficient in calea pentru download."
+msgstr "Loc insuficient în calea pentru descărcare"
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Quasar a startat"
+msgstr "Serviciul Quasar a pornit"
 
 msgctxt "#30209"
 msgid "Search"
-msgstr "Cauta"
+msgstr "Caută"
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "Cele Mai Populare"
+msgstr "Cele mai populare"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Cele Mai Apreciate"
+msgstr "Cele mai apreciate"
 
 msgctxt "#30212"
 msgid "Most Voted"
-msgstr "Cele Mai Votate"
+msgstr "Cele mai votate"
 
 msgctxt "#30213"
 msgid "IMDB Top 250"
-msgstr "IMDB Top 250"
+msgstr "Top 250 IMDB"
 
 msgctxt "#30214"
 msgid "Movies"
@@ -185,16 +285,120 @@ msgstr "Filme"
 
 msgctxt "#30215"
 msgid "TV Shows"
-msgstr "TV Shows"
+msgstr "Seriale"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Insereaza URL"
+msgstr "Inserează torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Insereaza Magnet sau URL"
+msgstr "Inserează Magnet sau URL"
 
 msgctxt "#30218"
 msgid "Next page"
-msgstr "Pagina Urmatoare"
+msgstr "Pagina următoare"
+
+msgctxt "#30219"
+msgid "Add / Remove from library"
+msgstr "Adaugă / Șterge din librărie"
+
+msgctxt "#30220"
+msgid "Library path not set"
+msgstr "Calea către librărie nu a fost setată"
+
+msgctxt "#30221"
+msgid "Item successfully added to library"
+msgstr "Elementul a fost adăugat cu succes în librărie"
+
+msgctxt "#30222"
+msgid "Item removed from library"
+msgstr "Elementul a fost șters din librărie"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Fișiere"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Eroare furnizor"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Eroare de navigare"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Eroare serviciu"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Eroare în actualizarea serviciului Quasar"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Fluxuri disponibile pentru"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torente"
+
+msgctxt "#30230"
+msgid "Play / resume torrent"
+msgstr "Redă / Reia torent"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Întrerupe torent"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Șterge torent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Întrerupe sesiunea"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Reia sesiune"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Reia torent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Lansat recent"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Seriale recente"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Episoade recente"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Furnizori"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Activează"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Dezactivează"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Verifică"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Eșecuri furnizor"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Setări furnizor"
