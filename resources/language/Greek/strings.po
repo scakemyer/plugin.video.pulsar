@@ -4,17 +4,17 @@
 # Addon Provider: scakemyer
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Greek translation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Filosofos <extraxoros@gmail.com>\n"
-"Report-Msgid-Bugs-To: Filosofos <extraxoros@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-02-14 22:43+0200\n"
+"Last-Translator: filosofos <extraxoros@gmail.com>\n"
+"Language-Team: filosofos <extraxoros@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 # Settings
 msgctxt "#30000"
@@ -137,6 +137,38 @@ msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "Συχνότητα αποθήκευσης συνεδρίας (δευτερόλεπτα)"
 
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Κάθετη μετατόπιση μπάρας κατάστασης"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Απενεργοποίηση των παρόχων που απέτυχαν στον έλεγχο ορθής λειτουργίας"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Επιτρεπόμενες αποτυχίες πριν την απενεργοποίηση του παρόχου"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Προεπιλεγμένη εμφάνιση για Ταινίες"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Προεπιλεγμένη εμφάνιση για Τηλεοπτικές Σειρές"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Προεπιλεγμένη εμφάνιση για Κύκλους Επεισοδίων"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Προεπιλεγμένη εμφάνιση για Επεισόδια"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -177,6 +209,18 @@ msgstr "Διαδρομή αρχείου"
 msgctxt "#30109"
 msgid "OK"
 msgstr "OK"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Κράσαρε πάρα πολλές φορές, γίνεται διακοπή"
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Ο πάροχος απέτυχε πάρα πολλές φορές, απενεργοποιείται..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Δεν ήταν δυνατή η απενεργοποίηση του παρόχου"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -221,7 +265,7 @@ msgstr "Αναζήτηση"
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "Δημοφιλέστερες ταινίες"
+msgstr "Δημοφιλέστερες"
 
 msgctxt "#30211"
 msgid "Top Rated"
@@ -334,3 +378,27 @@ msgstr "Πρόσφατες τηλεοπτικές σειρές"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Πρόσφατα Επεισόδια"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Πάροχοι"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Απενεργοποίησε"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Έλεγξε"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Σφάλματα παρόχου"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Ρυθμίσεις παρόχου"
