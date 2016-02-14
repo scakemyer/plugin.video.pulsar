@@ -146,6 +146,26 @@ msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
 msgstr "Allowed failures before provider is disabled"
 
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Appearance"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Default view for Movies"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Default view for TV Shows"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Default view for Seasons"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Default view for Episodes"
+
 # Interface
 
 msgctxt "#30100"

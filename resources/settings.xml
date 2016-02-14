@@ -12,7 +12,17 @@
         <setting id="overlay_status_offset" type="number" label="30030" default="150" visible="eq(-1,true)" />
         <setting id="choose_stream_auto" type="bool" label="30023" default="true" />
         <setting id="pre_release_updates" type="bool" label="30024" default="false" />
-
+    </category>
+    <category label="30033">
+        <!-- Appearance -->
+        <setting label="30033" type="lsep" />
+        <setting id="viewmode_movies" label="30034" type="number" default="" />
+        <setting id="viewmode_tvshows" label="30035" type="number" default="" />
+        <setting id="viewmode_seasons" label="30036" type="number" default="" />
+        <setting id="viewmode_episodes" label="30037" type="number" default="" />
+    </category>
+    <category label="BitTorrent">
+        <!-- BitTorrent -->
         <setting label="BitTorrent" type="lsep" />
         <setting id="buffer_size" label="30003" type="number" default="20" />
         <setting id="max_upload_rate" label="30004" type="number" default="" />
@@ -22,7 +32,9 @@
         <setting id="session_save" label="30029" type="number" default="15" />
         <setting id="listen_port_min" label="30006" type="number" default="6889" />
         <setting id="listen_port_max" label="30007" type="number" default="7000" />
-
+    </category>
+    <category label="30239">
+        <!-- Providers -->
         <setting label="30239" type="lsep" />
         <setting id="provider_disable_failing" label="30031" type="bool" default="true" />
         <setting id="provider_allowed_failures" label="30032" type="number" default="3" />
