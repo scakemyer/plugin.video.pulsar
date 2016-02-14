@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-07 15:15+0100\n"
-"PO-Revision-Date: 2016-02-13 13:13+0100\n"
+"PO-Revision-Date: 2016-02-14 11:01+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: hr_HR\n"
@@ -151,6 +151,26 @@ msgstr "Onemogući providere koji nisu prošli test zdravlja"
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
 msgstr "Dopusti greške prije nego se provider onemogući"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Izgled"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Zadani prikaz za filmove"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Zadani prikaz za serije"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Zadani prikaz za sezone"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Zadani prikaz za epizode"
 
 # Interface
 msgctxt "#30100"
