@@ -11,6 +11,7 @@
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
         <setting id="overlay_status_offset" type="number" label="30030" default="150" visible="eq(-1,true)" />
         <setting id="choose_stream_auto" type="bool" label="30023" default="true" />
+        <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="pre_release_updates" type="bool" label="30024" default="false" />
     </category>
     <category label="30033">

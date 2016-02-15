@@ -170,6 +170,10 @@ msgctxt "#30037"
 msgid "Default view for Episodes"
 msgstr "Default view for Episodes"
 
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Prefer use of original title"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
