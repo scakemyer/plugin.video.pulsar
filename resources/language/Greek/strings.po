@@ -180,8 +180,7 @@ msgstr "Απαιτείται η επανεκκίνηση του Kodi πριν α
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr ""
-"Το συγκεκριμένο πρόσθετο μπορεί να χρησιμοποιηθεί μόνο μέσα από το Quasar"
+msgstr "Το συγκεκριμένο πρόσθετο μπορεί να χρησιμοποιηθεί μόνο μέσα από το Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
