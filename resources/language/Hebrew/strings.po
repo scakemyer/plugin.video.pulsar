@@ -4,18 +4,15 @@
 # Addon Provider: steeve
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-13 21:34+0200\n"
-"PO-Revision-Date: 2016-02-13 22:40+0200\n"
-"Last-Translator: Assaf Sapir <meijin007 AT gmail.com>\n"
+"POT-Creation-Date: 2016-02-15 19:51+0200\n"
+"PO-Revision-Date: 2016-02-15 20:02+0200\n"
+"Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.7\n"
 
 # Settings
 msgctxt "#30000"
@@ -108,7 +105,7 @@ msgstr "הפעלת עימוד"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "הפעלת שורת מצב מרחפת"
+msgstr "הצגת שורת מצב"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
@@ -120,11 +117,11 @@ msgstr "הפעלת עדכוני קדם-שחרור"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
-msgstr "הגבלת קצבים בזמן באפרינג בלבד"
+msgstr "הגבלת קצב לאחר התחלת הניגון"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "נתיב לספריה"
+msgstr "נתיב לספרייה"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -132,7 +129,7 @@ msgstr "הגבלת חיבורים"
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
-msgstr "ניהול טיפול בטורנטים ברקע"
+msgstr "ניהול הורדת בטורנטים ברקע"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -140,7 +137,7 @@ msgstr "תדירות שמירת ההפעלה (בשניות)"
 
 msgctxt "#30030"
 msgid "Overlay status vertical offset"
-msgstr "הסטת המיקום של שורת המצב"
+msgstr "הזזת המיקום של שורת המצב"
 
 msgctxt "#30031"
 msgid "Disable providers failing health check"
@@ -148,7 +145,31 @@ msgstr "כיבוי בדיקת ספקים"
 
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
-msgstr "מספר ניסיונות לפני כיבוי ספק"
+msgstr "מספר כשלונות לפני כיבוי ספק"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "מראה"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "תצוגת ברירת מחדל לסרטים"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "תצוגת ברירת מחדל לסדרות"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "תצוגת ברירת מחדל לעונות"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "תצוגת ברירת מחדל לפרקים"
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "שימוש בכותרת מקורית"
 
 # Interface
 msgctxt "#30100"
@@ -161,7 +182,7 @@ msgstr "יש להפעיל את Kodi מחדש לפני השימוש ב Quasar"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "הAddon הזה יכול לפעול רק מתוך Quasar"
+msgstr "הרחבה זאת פועלת רק מתוך Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
@@ -197,7 +218,7 @@ msgstr "Quasar קרס יותר מדי פעמים, מתבטל..."
 
 msgctxt "#30111"
 msgid "Provider failed too many times, disabling..."
-msgstr "הספק נכשל יותר מדי פעמים, מבטל..."
+msgstr "הספק נכשל יותר מדי פעמים, משבית..."
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
@@ -222,7 +243,7 @@ msgstr "הצגת מידע"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "לא נצא אף ספק"
+msgstr "לא נמצאו ספקים"
 
 msgctxt "#30205"
 msgid "No links were found"
@@ -230,7 +251,7 @@ msgstr "לא נמצאו קישורים"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "חיפוש סרט"
+msgstr "חיפוש סרטים"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
@@ -266,7 +287,7 @@ msgstr "סרטים"
 
 msgctxt "#30215"
 msgid "TV Shows"
-msgstr "תוכניות טלוויזיה"
+msgstr "סדרות"
 
 msgctxt "#30216"
 msgid "Add Torrent"
@@ -274,7 +295,7 @@ msgstr "הוספת טורנט"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "הדבקת קישור Magnet או כתובת אינטרנט"
+msgstr "הדבקת קישור מגנט או כתובת אינטרנט"
 
 msgctxt "#30218"
 msgid "Next page"
@@ -354,7 +375,7 @@ msgstr "שוחררו לאחרונה"
 
 msgctxt "#30237"
 msgid "Recent Shows"
-msgstr "תוכניות טלוויזיה אחרונות"
+msgstr "סדרות אחרונות"
 
 msgctxt "#30238"
 msgid "Recent Episodes"
