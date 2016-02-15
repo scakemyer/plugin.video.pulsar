@@ -12,7 +12,7 @@
 				<posy>60</posy>
 				<width>900</width>
 				<height>600</height>
-				<texture>AddonWindow/ContentPanel.png</texture>
+				<texture>AddonWindow/dialog_back.png</texture>
 				<!--<colordiffuse>EEFFFFFF</colordiffuse>-->
 			</control>
 			<control type="image">
