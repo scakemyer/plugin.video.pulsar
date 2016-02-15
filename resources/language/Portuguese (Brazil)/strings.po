@@ -152,19 +152,23 @@ msgstr "Aparência"
 
 msgctxt "#30034"
 msgid "Default view for Movies"
-msgstr "Visualização padrão para Filmes"
+msgstr "Vista padrão para Filmes"
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Visualização padrão para Seriados"
+msgstr "Vista padrão para Seriados"
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
-msgstr "Visualização padrão para Temporadas"
+msgstr "Vista padrão para Temporadas"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Visualização padrão para Episódios"
+msgstr "Vista padrão para Episódios"
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Preferir usar título original"
 
 # Interface
 
@@ -256,7 +260,7 @@ msgstr "Não há espaço suficiente na pasta de download."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "O sistema Quasar iniciou"
+msgstr "O serviço Quasar iniciou"
 
 msgctxt "#30209"
 msgid "Search"
@@ -332,7 +336,7 @@ msgstr "Erro no serviço"
 
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
-msgstr "Erro ao atualizar o sistema Quasar"
+msgstr "Erro ao atualizar o serviço Quasar"
 
 msgctxt "#30228"
 msgid "Available streams for"
