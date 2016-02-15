@@ -13,19 +13,11 @@
 				<width>900</width>
 				<height>600</height>
 				<texture>AddonWindow/dialog_back.png</texture>
-				<!--<colordiffuse>EEFFFFFF</colordiffuse>-->
-			</control>
-			<control type="image">
-				<posx>340</posx>
-				<posy>69</posy>
-				<width>600</width>
-				<height>35</height>
-				<texture>AddonWindow/dialogheader.png</texture>
 			</control>
 			<control type="button" id="32500">
 				<!-- Close button -->
-				<posx>1034</posx>
-				<posy>72</posy>
+				<posx>1028</posx>
+				<posy>82</posy>
 				<width>32</width>
 				<height>32</height>
 				<texturefocus>AddonWindow/dialog_close_focus.png</texturefocus>
@@ -36,10 +28,10 @@
 			<control type="label" id="32501">
 				<!-- Window title -->
 				<posx>290</posx>
-				<posy>72</posy>
+				<posy>107</posy>
 				<width>700</width>
 				<height>30</height>
-				<font>font13</font>
+				<font>font14</font>
 				<align>center</align>
 				<aligny>center</aligny>
 				<textcolor>silver</textcolor>
@@ -62,7 +54,7 @@
 
 			<control type="panel" id="32503">
 				<!-- Panel -->
-				<posx>226</posx>
+				<posx>235</posx>
 				<posy>150</posy>
 				<width>800</width>
 				<height>455</height>
@@ -83,10 +75,17 @@
 						<height>60</height>
 						<texture border="5">Button/button-nofocus.png</texture>
 					</control>
+					<control type="image">
+						<posx>5</posx>
+						<posy>5</posy>
+						<width>50</width>
+						<height>50</height>
+						<texture>$INFO[ListItem.Icon]</texture>
+					</control>
 					<control type="label">
-						<posx>10</posx>
+						<posx>70</posx>
 						<posy>2</posy>
-						<width>767</width>
+						<width>707</width>
 						<height>30</height>
 						<font>font13</font>
 						<align>left</align>
@@ -96,9 +95,9 @@
 						<info>ListItem.Label</info>
 					</control>
 					<control type="label">
-						<posx>10</posx>
+						<posx>70</posx>
 						<posy>28</posy>
-						<width>767</width>
+						<width>707</width>
 						<height>30</height>
 						<font>font13</font>
 						<align>left</align>
@@ -117,10 +116,17 @@
 						<height>60</height>
 						<texture border="5">Button/button-focus.png</texture>
 					</control>
+					<control type="image">
+						<posx>5</posx>
+						<posy>5</posy>
+						<width>50</width>
+						<height>50</height>
+						<texture>$INFO[ListItem.Icon]</texture>
+					</control>
 					<control type="label">
-						<posx>10</posx>
+						<posx>70</posx>
 						<posy>2</posy>
-						<width>767</width>
+						<width>707</width>
 						<height>30</height>
 						<font>font13</font>
 						<align>left</align>
@@ -130,9 +136,9 @@
 						<info>ListItem.Label</info>
 					</control>
 					<control type="label">
-						<posx>10</posx>
+						<posx>70</posx>
 						<posy>28</posy>
-						<width>767</width>
+						<width>707</width>
 						<height>30</height>
 						<font>font13</font>
 						<align>left</align>

@@ -19,13 +19,13 @@
 				<posx>340</posx>
 				<posy>214</posy>
 				<width>600</width>
-				<height>35</height>
+				<height>40</height>
 				<texture>AddonWindow/dialogheader.png</texture>
 			</control>
 			<control type="button" id="32500">
 				<!-- Close button -->
-				<posx>986</posx>
-				<posy>217</posy>
+				<posx>981</posx>
+				<posy>222</posy>
 				<width>32</width>
 				<height>32</height>
 				<texturefocus>AddonWindow/dialog_close_focus.png</texturefocus>
