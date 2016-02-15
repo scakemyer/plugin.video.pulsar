@@ -5,13 +5,17 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-09 22:14+0200\n"
+"PO-Revision-Date: 2016-02-15 23:15+0200\n"
 "Last-Translator: greenbaburu <pigiard@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+
+
 
 # Settings
 msgctxt "#30000"
@@ -138,6 +142,38 @@ msgctxt "#30030"
 msgid "Overlay status vertical offset"
 msgstr "Posizionamento verticale riquadro di stato"
 
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Disabilità provider in cattivo stato"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Fallimenti permessi prima di disabilitare il provider"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Aspetto"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Vista predefinita per film"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Vista predefinita per serie TV"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Vista predefinita per stagioni"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Vista predefinita per episodi"
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Utilizza il titolo originale"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -178,6 +214,18 @@ msgstr "Percorso file"
 msgctxt "#30109"
 msgid "OK"
 msgstr "OK"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Troppi tentativi falliti, sta abbandonando..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Troppi fallimenti del provider, sta disabilitando..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Impossibile disabilitare il provider"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -335,3 +383,27 @@ msgstr "Serie recenti"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Episodi recenti"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Provider"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Abilita"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Disabilita"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Controlla"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Fallimenti provider"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Impostazioni provider"
