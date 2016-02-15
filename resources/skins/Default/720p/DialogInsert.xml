@@ -13,14 +13,6 @@
 				<width>800</width>
 				<height>310</height>
 				<texture>AddonWindow/dialog_back.png</texture>
-				<!--<colordiffuse>EEFFFFFF</colordiffuse>-->
-			</control>
-			<control type="image">
-				<posx>340</posx>
-				<posy>214</posy>
-				<width>600</width>
-				<height>40</height>
-				<texture>AddonWindow/dialogheader.png</texture>
 			</control>
 			<control type="button" id="32500">
 				<!-- Close button -->
@@ -110,14 +102,14 @@
 			<control type="label" id="32503">
 				<!-- Window title -->
 				<posx>425</posx>
-				<posy>216</posy>
+				<posy>225</posy>
 				<width>400</width>
 				<height>30</height>
-				<font>font13</font>
+				<font>font14</font>
 				<align>center</align>
 				<aligny>center</aligny>
 				<label>[B]$ADDON[plugin.video.quasar 30104][/B]</label>
-				<textcolor>FFFFA500</textcolor>
+				<textcolor>silver</textcolor>
 				<shadowcolor>AA000000</shadowcolor>
 			</control>
 			<control type="label" id="32504">
@@ -131,26 +123,9 @@
 				<label>$ADDON[plugin.video.quasar 30107]</label>
 				<align>left</align>
 				<aligny>center</aligny>
-				<textcolor>blue</textcolor>
+				<textcolor>silver</textcolor>
 				<shadowcolor>AA000000</shadowcolor>
 			</control>
-			<!--<control type="edit" id="32505">
-				<posx>280</posx>
-				<posy>315</posy>
-				<width>500</width>
-				<height>43</height>
-				<visible>SubString(Control.GetLabel(32501),*)</visible>
-				<aligny>center</aligny>
-				<font>font14</font>
-				<textoffsetx>10</textoffsetx>
-				<textcolor>FFB2D4F5</textcolor>
-				<disabledcolor>FF000000</disabledcolor>
-				<invalidcolor>FFFFFFFF</invalidcolor>
-				<texturefocus>Button/button-focus.png</texturefocus>
-				<texturenofocus>Button/button-nofocus.png</texturenofocus>
-				<pulseonselect>no</pulseonselect>
-				<onright>32508</onright>
-			</control>-->
 			<control type="button" id="32505">
 				<!-- Option 1 url button -->
 				<posx>280</posx>
@@ -182,7 +157,7 @@
 				<label>$ADDON[plugin.video.quasar 30108]</label>
 				<align>left</align>
 				<aligny>center</aligny>
-				<textcolor>blue</textcolor>
+				<textcolor>silver</textcolor>
 				<shadowcolor>AA000000</shadowcolor>
 			</control>
 			<control type="button" id="32507">
