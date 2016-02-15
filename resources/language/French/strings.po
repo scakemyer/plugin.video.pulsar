@@ -31,7 +31,7 @@ msgstr "Conserver les fichiers après la fin de la lecture/du telechargement"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Taille du tampon (Mo)"
+msgstr "Taille du Tampon (Mo)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -109,10 +109,74 @@ msgctxt "#30022"
 msgid "Enable overlay status"
 msgstr "Activer la barre d'information en surimpression"
 
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Choisir un flux automatiquement"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Autoriser les versions beta"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limiter le débit seulement après le chargement du tampon"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Chemin vers la bibliothèque"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Limite de Connexions"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Prise en charge des Torrents en arrière plan"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Fréquence de Sauvegarde de Session (secondes)"
+
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Décalage Vertical du Statut en Surimpression"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Désactiver la détection des Fournisseurs en échec"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Nombre d'erreurs avant désactivation d'un Fournisseur"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Apparence"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Vue par Défaut pour les Films"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Vue par Défaut pour les Séries"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Vue par Défaut pour les Saisons"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Vue par Défaut pour les Episodes"
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Utiliser de préférence le Titre Original"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar s'est crashé, redémarrage..."
+msgstr "Plantage de Quasar, redémarrage..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
@@ -121,6 +185,46 @@ msgstr "Vous devez redémarrer Kodi pour pouvoir utiliser Quasar"
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
 msgstr "Ce plugin ne peut être utilisé que depuis Quasar"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Impossible de trouver l'exécutable du processus Quasar"
+
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Saisir un fichier ou une URL"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "Fichier"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "Saisir une URL"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "Chemin vers le Fichier"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Trop de plantages, abandon..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Trop d'erreurs du Fournisseur, désactivation..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Impossible de désactiver le Fournisseur"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -157,7 +261,7 @@ msgstr "Pas assez d'espace disponible dans le répertoire de téléchargement"
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Le service Quasar a démarré"
+msgstr "Le Service Quasar a démarré"
 
 msgctxt "#30209"
 msgid "Search"
@@ -165,15 +269,15 @@ msgstr "Rechercher"
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "Les plus populaires"
+msgstr "Les Plus Populaires"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Les mieux classés"
+msgstr "Les Mieux Classés"
 
 msgctxt "#30212"
 msgid "Most Voted"
-msgstr "Les plus notés"
+msgstr "Les Plus Notés"
 
 msgctxt "#30213"
 msgid "IMDB Top 250"
@@ -201,19 +305,19 @@ msgstr "Page Suivante"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Ajouter / Supprimer de la bibliothèque"
+msgstr "Ajouter / Supprimer de la Bibliothèque"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Chemin vers la bibliothèque non spécifié"
+msgstr "Chemin vers la Bibliothèque non spécifié"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Elément ajouté à la bibliothèque"
+msgstr "Elément ajouté à la Bibliothèque"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Elément supprimé de la bibliothèque"
+msgstr "Elément supprimé de la Bibliothèque"
 
 msgctxt "#30223"
 msgid "Files"
@@ -265,4 +369,40 @@ msgstr "Reprendre la Lecture de la Session"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Reprendre la lecture du Torrent"
+msgstr "Reprendre la Lecture du Torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Sorties Récentes"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Séries Récentes"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Episodes Récents"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Fournisseurs"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Activer"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Désactiver"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Vérifier"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Erreurs du Fournisseur"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Paramètres du Fournisseurs"
