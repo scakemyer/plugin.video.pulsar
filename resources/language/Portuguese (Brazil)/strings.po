@@ -1,11 +1,11 @@
 # Kodi Media Center language file
 # Addon Name: Quasar
 # Addon id: plugin.video.quasar
-# Addon Provider: steeve
+# Addon Provider: scakemyer
 msgid ""
 msgstr ""
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2016-02-01 12:00-0300\n"
+"PO-Revision-Date: 2016-02-15 21:00-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr "Geral"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Pasta de download (menos FAT32)"
+msgstr "Local de download (menos FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
@@ -120,7 +120,7 @@ msgstr "Limitar taxas apenas ao completar o buffer"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Pasta da biblioteca"
+msgstr "Local da biblioteca"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -140,7 +140,7 @@ msgstr "Ajustar altura do status sobreposto"
 
 msgctxt "#30031"
 msgid "Disable providers failing health check"
-msgstr "Desabilitar provedor com falhas"
+msgstr "Desabilitar provedores com falhas"
 
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
@@ -190,7 +190,7 @@ msgstr "Não foi possível encontrar o programa Quasar"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
-msgstr "Insira arquivo ou URL"
+msgstr "Informe arquivo ou URL"
 
 msgctxt "#30105"
 msgid "URL"
@@ -202,11 +202,11 @@ msgstr "Arquivo"
 
 msgctxt "#30107"
 msgid "Insert URL"
-msgstr "Insira a URL"
+msgstr "Informe a URL"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "Pasta do arquivo"
+msgstr "Local do arquivo"
 
 msgctxt "#30109"
 msgid "OK"
@@ -256,7 +256,7 @@ msgstr "Pesquisar Filmes"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Não há espaço suficiente na pasta de download."
+msgstr "Não há espaço suficiente no local de download."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
@@ -308,7 +308,7 @@ msgstr "Adicionar / Remover da biblioteca"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Pasta da biblioteca não definida"
+msgstr "Local da biblioteca não definido"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
