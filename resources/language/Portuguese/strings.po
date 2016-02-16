@@ -166,6 +166,10 @@ msgctxt "#30037"
 msgid "Default view for Episodes"
 msgstr "Vista por defeito para Episódios"
 
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Preferir titulo original"
+
 # Interface
 
 msgctxt "#30100"
