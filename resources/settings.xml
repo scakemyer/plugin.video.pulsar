@@ -51,6 +51,8 @@
     </category>
     <category label="30015">
         <!-- Advanced -->
+        <setting label="30039" type="lsep" />
+        <setting id="tmdb_api_key" label="30040" type="text" default="" />
         <setting label="30016" type="lsep" />
         <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
         <setting id="custom_provider_timeout" label="30018" type="number" default="4" visible="eq(-1,true)" />
