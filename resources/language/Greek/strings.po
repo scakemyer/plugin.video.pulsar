@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Greek translation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-14 22:43+0200\n"
+"PO-Revision-Date: 2016-02-18 01:42+0200\n"
 "Last-Translator: filosofos <extraxoros@gmail.com>\n"
 "Language-Team: filosofos <extraxoros@gmail.com>\n"
 "Language: el\n"
@@ -99,7 +99,7 @@ msgstr "Συντήρηση"
 
 msgctxt "#30020"
 msgid "Clear cache"
-msgstr "Διαγραφή λανθάνουσας μνήμης"
+msgstr "Διαγραφή προσωρινής μνήμης"
 
 msgctxt "#30021"
 msgid "Enable pagination"
@@ -168,6 +168,18 @@ msgstr "Προεπιλεγμένη εμφάνιση για Κύκλους Επε
 msgctxt "#30037"
 msgid "Default view for Episodes"
 msgstr "Προεπιλεγμένη εμφάνιση για Επεισόδια"
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Προτίμηση του πρωτότυπου τίτλου"
+
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "Κλειδί API"
 
 # Interface
 msgctxt "#30100"
@@ -389,7 +401,7 @@ msgstr "Ενεργοποίηση"
 
 msgctxt "#30241"
 msgid "Disable"
-msgstr "Απενεργοποίησε"
+msgstr "Απενεργοποίηση"
 
 msgctxt "#30242"
 msgid "Check"
