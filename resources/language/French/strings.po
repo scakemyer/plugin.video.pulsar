@@ -27,7 +27,7 @@ msgstr "Chemin de téléchargement (Pas de FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Conserver les fichiers après la fin de la lecture/du telechargement"
+msgstr "Conserver les fichiers après la fin de la lecture/du téléchargement"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
@@ -91,7 +91,7 @@ msgstr "Activé (à vos risques et périls)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
-msgstr "Timeout en secondes"
+msgstr "Timeout (secondes)"
 
 msgctxt "#30019"
 msgid "Maintenance"
@@ -173,6 +173,14 @@ msgctxt "#30038"
 msgid "Prefer use of original title"
 msgstr "Utiliser de préférence le Titre Original"
 
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "Clé d'API"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -180,11 +188,11 @@ msgstr "Plantage de Quasar, redémarrage..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
-msgstr "Vous devez redémarrer Kodi pour pouvoir utiliser Quasar"
+msgstr "Vous devez redémarrer Kodi avant de pouvoir utiliser Quasar"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "Ce plugin ne peut être utilisé que depuis Quasar"
+msgstr "Cet add-on ne peut être utilisé que depuis Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
@@ -241,7 +249,7 @@ msgstr "Choisir un Flux"
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Afficher les informations"
+msgstr "Afficher les Informations"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
@@ -261,7 +269,7 @@ msgstr "Pas assez d'espace disponible dans le répertoire de téléchargement"
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Le Service Quasar a démarré"
+msgstr "Le processus Quasar a démarré"
 
 msgctxt "#30209"
 msgid "Search"
@@ -293,7 +301,7 @@ msgstr "Séries"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Coller une URL"
+msgstr "Ajouter un Torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
@@ -405,4 +413,4 @@ msgstr "Erreurs du Fournisseur"
 
 msgctxt "#30244"
 msgid "Provider settings"
-msgstr "Paramètres du Fournisseurs"
+msgstr "Paramètres du Fournisseur"
