@@ -17,7 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+
 # Settings
+
 msgctxt "#30000"
 msgid "General"
 msgstr "General"
@@ -182,7 +184,9 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "API key"
 
+
 # Interface
+
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
 msgstr "Quasar has crashed, restarting..."
@@ -235,7 +239,13 @@ msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "Unable to disable provider"
 
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Download path not set, check your settings"
+
+
 # Quasar daemon
+
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Cache cleared"

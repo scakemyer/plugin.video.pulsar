@@ -12,6 +12,7 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+
 # Settings
 
 msgctxt "#30000"
@@ -178,6 +179,7 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "API key"
 
+
 # Interface
 
 msgctxt "#30100"
@@ -231,6 +233,11 @@ msgstr "Provider failed too many times, disabling..."
 msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "Unable to disable provider"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Download path not set, check your settings"
+
 
 # Quasar daemon
 
