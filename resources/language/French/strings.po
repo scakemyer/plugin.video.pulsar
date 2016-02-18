@@ -234,6 +234,10 @@ msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "Impossible de désactiver le Fournisseur"
 
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Chemin de téléchargement non spécifié, vérifiez votre configuration"
+
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -414,3 +418,31 @@ msgstr "Erreurs du Fournisseur"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Paramètres du Fournisseur"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Populaire sur Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Tendance"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Les plus joués (dans l'absolu)"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Les plus regardés (visiteurs uniques)"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Les plus ajoutés aux Collections"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Les plus attendus"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Box Office"
