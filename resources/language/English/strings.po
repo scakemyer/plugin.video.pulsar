@@ -413,3 +413,31 @@ msgstr "Provider failures"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Provider settings"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Popular on Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Trending"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Most Played"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Most Watched"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Most Collected"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Most Anticipated"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Box Office"
