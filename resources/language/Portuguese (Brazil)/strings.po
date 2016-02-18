@@ -170,6 +170,14 @@ msgctxt "#30038"
 msgid "Prefer use of original title"
 msgstr "Preferir usar título original"
 
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "API key"
+
 # Interface
 
 msgctxt "#30100"
