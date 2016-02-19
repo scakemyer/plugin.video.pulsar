@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-17 08:11+0200\n"
-"PO-Revision-Date: 2016-02-17 08:11+0200\n"
+"POT-Creation-Date: 2016-02-19 08:34+0200\n"
+"PO-Revision-Date: 2016-02-19 08:41+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -235,6 +235,10 @@ msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "לא ניתן לבטל את ההפעלה של הספק"
 
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "לא הוגדר נתיב הורדה, אנא בדקו את ההגדרות"
+
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -415,3 +419,31 @@ msgstr "כישלונות ספקים"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "הגדרות ספקים"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "פופולרי בTrakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "טרנדי"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "נוגנו הכי הרבה"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "נצפו הכי הרבה"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "נאספו הכי הרבה"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "הכי הרבה ציפיות"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "שוברי קופות"
