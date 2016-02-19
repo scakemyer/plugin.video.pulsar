@@ -1,11 +1,12 @@
 # Kodi Media Center language file
 # Addon Name: Quasar
 # Addon id: plugin.video.quasar
-# Addon Provider: steeve
+# Addon Provider: scakemyer
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-02-17 15:10+0000\n"
+"PO-Revision-Date: 2016-02-19 11:05+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -178,6 +179,42 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "Chave API"
 
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Ordenação dos streams"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Modo de ordenação dos Filmes"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Modo de ordenação das Séries"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Por seeders"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Por resolução"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Equilibrado"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Preferência de resolução para Filmes"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Preferência de resolução para Séries"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Percentagem de seeders adicionais antes de ser escolhida a proxima resolução"
+
 # Interface
 
 msgctxt "#30100"
@@ -231,6 +268,10 @@ msgstr "Provedor falhou demasiadas vezes, a desligar..."
 msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "Incapaz de desativar o provedor"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Pasta de download não foi escolhida, veja nas suas configurações"
 
 # Quasar daemon
 
@@ -413,3 +454,31 @@ msgstr "Falhas no provedor"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Configurações do provedor"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Popular no Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Tendências"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Mais Reproduzidos"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Mais Vistos"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Mais Coleccionados"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Mais Antecipados"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Campeões de Bilheteira"

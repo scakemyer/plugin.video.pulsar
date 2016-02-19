@@ -1,7 +1,8 @@
 # Kodi Media Center language file
 # Addon Name: Quasar
 # Addon id: plugin.video.quasar
-# Addon Provider: steeve
+# Addon Provider: scakemyer
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-02-07 12:27+03:00\n"
