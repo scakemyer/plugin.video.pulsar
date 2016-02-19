@@ -12,6 +12,7 @@ msgstr ""
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+
 # Settings
 
 msgctxt "#30000"
@@ -178,6 +179,7 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "API key"
 
+
 # Interface
 
 msgctxt "#30100"
@@ -230,7 +232,12 @@ msgstr "Provedor falhou diversas vezes, desabilitando..."
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
-msgstr "Falhou em desabilitar o provedor"
+msgstr "Não foi possível desabilitar o provedor"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Local de download não definido, verifique suas configurações"
+ 
 
 # Quasar daemon
 
@@ -413,3 +420,31 @@ msgstr "Falhas do provedor"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Configurações do provedor"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Popular no Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Tendências"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Mais Tocados"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Mais Assistidos"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Mais Coletados"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Mais Aguardados"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Maiores Bilheterias"
