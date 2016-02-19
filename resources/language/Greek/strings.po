@@ -2,6 +2,7 @@
 # Addon Name: Quasar
 # Addon id: plugin.video.quasar
 # Addon Provider: scakemyer
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Greek translation\n"

@@ -2,6 +2,7 @@
 # Addon Name: Quasar
 # Addon id: plugin.video.quasar
 # Addon Provider: scakemyer
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-02-01 12:00-0300\n"
