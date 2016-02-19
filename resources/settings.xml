@@ -35,6 +35,13 @@
         <setting id="listen_port_max" label="30007" type="number" default="7000" />
     </category>
     <category label="30239">
+        <!-- Sorting -->
+        <setting label="30041" type="lsep" />
+        <setting id="sorting_mode_movies" label="30042" type="enum" lvalues="30044|30045|30046" />
+        <setting id="sorting_mode_shows" label="30043" type="enum" lvalues="30044|30045|30046" />
+        <setting id="resolution_preference_movies" label="30047" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
+        <setting id="resolution_preference_shows" label="30048" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
+        <setting id="percentage_additional_seeders" label="30049" type="number" default="25" />
         <!-- Providers -->
         <setting label="30239" type="lsep" />
         <setting id="provider_disable_failing" label="30031" type="bool" default="true" />

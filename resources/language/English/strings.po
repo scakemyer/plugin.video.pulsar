@@ -179,6 +179,42 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "API key"
 
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Stream sorting"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Sorting mode for Movies"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Sorting mode for TV Shows"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "By seeders"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "By resolution"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Balanced"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Resolution preference for Movies"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Resolution preference for TV Shows"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Percentage of additional seeders required before choosing next resolution"
+
 
 # Interface
 
