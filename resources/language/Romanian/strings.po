@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-02-14 23:09+0200\n"
+"PO-Revision-Date: 2016-02-20 12:37+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ro\n"
@@ -170,6 +170,54 @@ msgctxt "#30037"
 msgid "Default view for Episodes"
 msgstr "Afișare implicită pentru Episoade"
 
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Preferă titlul original"
+
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "Cheia API"
+
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Sortarea fluxurilor"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Sortare pentru Filme"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Sortare pentru Seriale"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "După surse"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "După rezoluție"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Echilibrat"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Rezoluția preferată pentru Filme"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Rezoluția preferată pentru Seriale"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Procente de surse necesare înainte de-a alege următoarea rezoluție"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -222,6 +270,10 @@ msgstr "Furnizorul a eșuat de prea multe ori, dezactivare..."
 msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "Nu se poate dezactiva furnizor"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Calea pentru descărcare nu a fost setata, verificați setările"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -403,3 +455,31 @@ msgstr "Eșecuri furnizor"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Setări furnizor"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Popular pe Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "În tendințe"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Cele mai redate"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Cele mai vizionate"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Cele mai colecționate"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Cele mai anticipate"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Box Office"
