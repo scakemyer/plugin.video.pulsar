@@ -180,6 +180,42 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "API key"
 
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Ordem das fontes"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Ordem das fontes para Filmes"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Ordem das fontes para Seriados"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Pelo número de seeds"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Pela resolução"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Balanceado"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Preferência de resolução para Filmes"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Preferência de resolução para Seriados"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Porcentagem adicional de seeds necessários antes de escolher próxima resolução"
+
 
 # Interface
 
