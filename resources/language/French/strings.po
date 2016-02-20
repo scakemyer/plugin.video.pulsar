@@ -124,7 +124,7 @@ msgstr "Limiter le débit seulement après le chargement du tampon"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Chemin vers les bibliothèques logicielles"
+msgstr "Chemin vers la médiathèque"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -181,6 +181,43 @@ msgstr "TheMovieDB"
 msgctxt "#30040"
 msgid "API key"
 msgstr "Clé d'API"
+
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Tri des flux"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Tri des Films"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Tri des Séries"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Par seeders"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Par résolution"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Equilibré"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Préférence de Résolution pour les Films"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Préférence de Résolution pour les Séries"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Pourcentage de seeders additionels avant de choisir la résolution suivante"
+
 
 # Interface
 msgctxt "#30100"
@@ -310,7 +347,7 @@ msgstr "Ajouter un Torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Collez un Magnet ou une URL"
+msgstr "Coller un Magnet ou une URL"
 
 msgctxt "#30218"
 msgid "Next page"
@@ -318,19 +355,19 @@ msgstr "Page suivante"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Ajouter / Supprimer de la bibliothèque"
+msgstr "Ajouter / Supprimer de la médiathèque"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Chemin vers la bibliothèque non spécifié"
+msgstr "Chemin vers la médiathèque non spécifié"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Elément ajouté à la bibliothèque"
+msgstr "Elément ajouté à la médiathèque"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Elément supprimé de la bibliothèque"
+msgstr "Elément supprimé de la médiathèque"
 
 msgctxt "#30223"
 msgid "Files"
@@ -422,28 +459,28 @@ msgstr "Paramètres du Provider"
 
 msgctxt "#30245"
 msgid "Popular on Trakt"
-msgstr "Populaire sur Trakt"
+msgstr "Trakt: Les plus populaires"
 
 msgctxt "#30246"
 msgid "Trending"
-msgstr "Tendance"
+msgstr "Trakt: Les plus tendances (en ce moment)"
 
 msgctxt "#30247"
 msgid "Most Played"
-msgstr "Les plus joués (dans l'absolu)"
+msgstr "Trakt: Les plus joués (dans l'absolu)"
 
 msgctxt "#30248"
 msgid "Most Watched"
-msgstr "Les plus regardés (visiteurs uniques)"
+msgstr "Trakt: Les plus regardés (visiteurs uniques)"
 
 msgctxt "#30249"
 msgid "Most Collected"
-msgstr "Les plus ajoutés aux collections"
+msgstr "Trakt: Les plus ajoutés aux collections"
 
 msgctxt "#30250"
 msgid "Most Anticipated"
-msgstr "Les plus attendus"
+msgstr "Trakt: Les plus attendus"
 
 msgctxt "#30251"
 msgid "Box Office"
-msgstr "Box Office"
+msgstr "Trakt: Box Office"
