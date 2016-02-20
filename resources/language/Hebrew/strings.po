@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-19 08:34+0200\n"
-"PO-Revision-Date: 2016-02-19 08:41+0200\n"
+"POT-Creation-Date: 2016-02-20 18:28+0200\n"
+"PO-Revision-Date: 2016-02-20 18:41+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -183,6 +183,42 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "מפתח API"
 
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "סידור מקורות"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "שיטת סידור לסרטים"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "שיטת סידור לסדרות"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "לפי זורעים"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "לפי איכות"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "מאוזן"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "העדפות רזולוציה לסרטים"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "העדפות רזולוציה לסדרות"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "אחוז נדרש של זורעים לפני בחירה של המקור הבא"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -190,7 +226,7 @@ msgstr "Quasar קרס, מופעל מחדש..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
-msgstr "יש להפעיל את Kodi מחדש לפני השימוש ב Quasar"
+msgstr "יש להפעיל את Kodi מחדש לפני השימוש ב־Quasar"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
@@ -423,7 +459,7 @@ msgstr "הגדרות ספקים"
 
 msgctxt "#30245"
 msgid "Popular on Trakt"
-msgstr "פופולרי בTrakt"
+msgstr "פופולרי ב־Trakt"
 
 msgctxt "#30246"
 msgid "Trending"
