@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Greek translation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-18 01:42+0200\n"
+"PO-Revision-Date: 2016-02-21 17:33+0200\n"
 "Last-Translator: filosofos <extraxoros@gmail.com>\n"
 "Language-Team: filosofos <extraxoros@gmail.com>\n"
 "Language: el\n"
@@ -182,6 +182,42 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "Κλειδί API"
 
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Κατάταξη ροής"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Λειτουργία κατάταξης Ταινιών"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Λειτουργία κατάταξης Τηλεοπτικών Σειρών"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Βάσει seeders"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Βάσει ανάλυσης"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Ισορροπημένο"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Επιλογή ανάλυσης Ταινιών"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Επιλογή ανάλυσης για Τηλεοπτικές Σειρές"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Ποσοστό επιπρόσθετων seeders που απαιτούνται πριν από την επιλογή της επόμενης ανάλυσης "
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -234,6 +270,10 @@ msgstr "Ο πάροχος απέτυχε πάρα πολλές φορές, απ�
 msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "Δεν ήταν δυνατή η απενεργοποίηση του παρόχου"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Δεν έχει ορισθεί η διαδρομή λήψης, ελέγξτε τις ρυθμίσεις"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -415,3 +455,31 @@ msgstr "Σφάλματα παρόχου"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Ρυθμίσεις παρόχου"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Δημοφιλή στο Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Τελευταίες τάσεις"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Παίζουν περισσότερο"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Έχουν παρακολουθηθεί περισσότερο"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Βρίσκονται στις περισσότερες συλλογές"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Πολυαναμενόμενα"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Εισπρακτικές επιτυχίες"
