@@ -18,7 +18,6 @@ msgstr ""
 
 
 
-
 # Settings
 
 msgctxt "#30000"
@@ -184,6 +183,42 @@ msgstr "TheMovieDB"
 msgctxt "#30040"
 msgid "API key"
 msgstr "API key"
+
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Ordinamento fonti"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Modalità di ordinamento film"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Modalità di ordinamento serie TV"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Per seeder"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Per risoluzione"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Bilanciata"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Preferenze risoluzione per film"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Preferenze risoluzione per serie TV"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Percentuale supplementare di seeder richiesta, prima di scegliere la prossima risoluzione"
 
 
 # Interface
@@ -445,7 +480,7 @@ msgstr "Più visti"
 
 msgctxt "#30249"
 msgid "Most Collected"
-msgstr "Di maggior incasso"
+msgstr "Maggior incasso"
 
 msgctxt "#30250"
 msgid "Most Anticipated"
