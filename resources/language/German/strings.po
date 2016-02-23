@@ -124,11 +124,11 @@ msgstr "Limitiere die Geschwindigkeit erst nach dem Buffern"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Bibliotheks-Pfad"
+msgstr "Pfad zur Bibliothek"
 
 msgctxt "#30027"
 msgid "Connections limit"
-msgstr "Anzahl Verbindungen max"
+msgstr "Max Anzahl Verbindungen"
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
@@ -306,7 +306,7 @@ msgstr "Suche Filme"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Nicht genug Platz im Download Pfad vorhanden"
+msgstr "Nicht genügend Platz im Download Pfad"
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
@@ -418,7 +418,7 @@ msgstr "Sitzung fortsetzen"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Torren fortsetzen"
+msgstr "Torrent fortsetzen"
 
 msgctxt "#30236"
 msgid "Recently Released"
