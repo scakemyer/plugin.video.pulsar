@@ -26,7 +26,7 @@ msgstr "Путь для загрузок (кроме FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Сохранять файлы после остановки воспроизвидения/загрузки"
+msgstr "Сохранять файлы после просмотра"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
@@ -168,6 +168,54 @@ msgctxt "#30037"
 msgid "Default view for Episodes"
 msgstr "Вид по умолчанию для эпизодов"
 
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Только оригинальные названия"
+
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "ключ API"
+
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Сортировка стримов"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Сортировка фильмов"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Сортировка сериалов"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "за колич. содов"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "pа резрешением"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "баланс"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Предпочтительное разрешением для фильмов"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Предпочтительное резрешением для сериалов"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Процент дополнительных сидов перед выбором следуещего разрешения"
+
 # Interface
 
 msgctxt "#30100"
@@ -180,7 +228,7 @@ msgstr "Перезапустите Kodi"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "Это расширение можно запустить только через Quasar"
+msgstr "Это дополниние можно запустить только через Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
@@ -258,7 +306,7 @@ msgstr "Недостаточно места в папке для скачива�
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Quasar daemon запустился"
+msgstr "Quasar запустился"
 
 msgctxt "#30209"
 msgid "Search"
@@ -338,7 +386,7 @@ msgstr "Ошибка обновления Quasar daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Streams |"
+msgstr "Стримы |"
 
 msgctxt "#30229"
 msgid "Torrents"
@@ -403,3 +451,31 @@ msgstr "Сбоев"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Настройки провайдера"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Популярное"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "В тренде"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "В топе"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Самые просматриваемые"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "В избранном"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Самые ожидаемые"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "В прокате"
