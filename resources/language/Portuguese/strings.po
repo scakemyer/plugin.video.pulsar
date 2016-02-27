@@ -2,19 +2,22 @@
 # Addon Name: Quasar
 # Addon id: plugin.video.quasar
 # Addon Provider: scakemyer
-#
+# Vasco Almeida <vasco13almeida@gmail.com>, 2016.
 msgid ""
 msgstr ""
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-02-19 11:05+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 19:53+0200\n"
+"PO-Revision-Date: 2016-02-27 18:57+0000\n"
+"Last-Translator: Vasco Almeida <vasco13almeida@gmail.com>\n"
+"Language-Team: Portuguese\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 # Settings
-
 msgctxt "#30000"
 msgid "General"
 msgstr "Geral"
@@ -41,11 +44,11 @@ msgstr "Taxa máxima de download (kB/S)"
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Porta Min"
+msgstr "Porta de escuta min"
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Porta Max"
+msgstr "Porta de escuta max"
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -73,7 +76,7 @@ msgstr "Login"
 
 msgctxt "#30014"
 msgid "Password"
-msgstr "Password"
+msgstr "Palavra-passe"
 
 msgctxt "#30015"
 msgid "Advanced"
@@ -105,7 +108,7 @@ msgstr "Ativar paginação"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Ativar overlay"
+msgstr "Ativar informação em sobreposição"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
@@ -113,7 +116,7 @@ msgstr "Escolher stream automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "Obter updates de teste"
+msgstr "Obter atualizações de teste"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
@@ -129,7 +132,7 @@ msgstr "Limite de conexões"
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
-msgstr "Manuseio de torrents em segundo plano"
+msgstr "Processar torrents em segundo plano"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -153,19 +156,19 @@ msgstr "Aparência"
 
 msgctxt "#30034"
 msgid "Default view for Movies"
-msgstr "Vista por defeito para Filmes"
+msgstr "Vista por omissão para Filmes"
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Vista por defeito para Séries"
+msgstr "Vista por omissão para Séries"
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
-msgstr "Vista por defeito para Temporadas"
+msgstr "Vista por omissão para Temporadas"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Vista por defeito para Episódios"
+msgstr "Vista por omissão para Episódios"
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
@@ -177,7 +180,7 @@ msgstr "TheMovieDB"
 
 msgctxt "#30040"
 msgid "API key"
-msgstr "Chave API"
+msgstr "Chave de API"
 
 msgctxt "#30041"
 msgid "Stream sorting"
@@ -212,11 +215,12 @@ msgid "Resolution preference for TV Shows"
 msgstr "Preferência de resolução para Séries"
 
 msgctxt "#30049"
-msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Percentagem de seeders adicionais antes de ser escolhida a proxima resolução"
+msgid ""
+"Percentage of additional seeders required before choosing next resolution"
+msgstr ""
+"Percentagem de seeders adicionais antes de ser escolhida a proxima resolução"
 
 # Interface
-
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
 msgstr "Quasar fechou de forma inesperada, a reiniciar..."
@@ -247,11 +251,11 @@ msgstr "Ficheiro"
 
 msgctxt "#30107"
 msgid "Insert URL"
-msgstr "Inserir URL:"
+msgstr "Inserir URL"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "Caminho do ficheiro:"
+msgstr "Caminho do ficheiro"
 
 msgctxt "#30109"
 msgid "OK"
@@ -259,22 +263,21 @@ msgstr "OK"
 
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
-msgstr "Crashou demasiadas vezes, a abortar..."
+msgstr "Falhou demasiadas vezes, a abortar..."
 
 msgctxt "#30111"
 msgid "Provider failed too many times, disabling..."
-msgstr "Provedor falhou demasiadas vezes, a desligar..."
+msgstr "Provedor falhou demasiadas vezes, a desativar..."
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
-msgstr "Incapaz de desativar o provedor"
+msgstr "Não é possível desativar o provedor"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Pasta de download não foi escolhida, veja nas suas configurações"
+msgstr "Pasta de download não definida, verifique as configurações"
 
 # Quasar daemon
-
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Cache apagada"
@@ -309,7 +312,7 @@ msgstr "Sem espaço disponível na pasta de download."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Foi iniciado o Quasar daemon"
+msgstr "Quasar daemon iniciou"
 
 msgctxt "#30209"
 msgid "Search"
@@ -385,11 +388,11 @@ msgstr "Erro do daemon"
 
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
-msgstr "Erro ao actualizar o Quasar daemon"
+msgstr "Erro ao atualizar o Quasar daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Streams disponiveis para"
+msgstr "Streams disponíveis para"
 
 msgctxt "#30229"
 msgid "Torrents"
@@ -397,7 +400,7 @@ msgstr "Torrents"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Reproduzir/Retomar torrent"
+msgstr "Reproduzir/retomar torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"
