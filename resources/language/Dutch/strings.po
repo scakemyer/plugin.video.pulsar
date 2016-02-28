@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-17 18:12+0100\n"
-"PO-Revision-Date: 2016-02-17 18:13+0100\n"
+"POT-Creation-Date: 2016-02-28 14:17+0100\n"
+"PO-Revision-Date: 2016-02-28 14:22+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl_NL\n"
@@ -183,6 +183,42 @@ msgctxt "#30040"
 msgid "API key"
 msgstr "API sleutel"
 
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Stream sorteren"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Sorteer modus voor films"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Sorteer mode voor shows"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Door seeders"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Door resolutie"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Gebalanceerd"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Resolutie voorkeur voor films"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Resolutie voorkeur voor TV shows"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Benodigd percentage van extra seeders  voordat volgende resolutie gekozen wordt"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -235,6 +271,10 @@ msgstr "Provider te vaak gefaald, stoppen..."
 msgctxt "#30112"
 msgid "Unable to disable provider"
 msgstr "Kan provider niet uitzetten"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Download pad niet bepaald, controleer instellingen"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -416,3 +456,31 @@ msgstr "Provider storingen"
 msgctxt "#30244"
 msgid "Provider settings"
 msgstr "Provider instellingen"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Populair op Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Trending"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Vaakst gespeeld"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Meest bekeken"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Meest verzameld"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Meest verwacht"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Box Office"
