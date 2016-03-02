@@ -5,7 +5,7 @@
         <setting label="30000" type="lsep" />
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
-        <setting id="background_handling" type="bool" label="30028" default="true" />
+        <setting id="background_handling" type="bool" label="30028" default="false" />
         <setting id="keep_files" type="bool" label="30002" default="false" />
         <setting id="enable_pagination" type="bool" label="30021" default="true" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
