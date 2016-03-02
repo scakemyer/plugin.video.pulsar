@@ -31,6 +31,8 @@ deploy:
     - plugin.video.quasar-${TRAVIS_TAG:1}.android_x86.zip
     - plugin.video.quasar-${TRAVIS_TAG:1}.darwin_x64.zip
     - plugin.video.quasar-${TRAVIS_TAG:1}.linux_arm.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.linux_armv7.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.linux_arm64.zip
     - plugin.video.quasar-${TRAVIS_TAG:1}.linux_x64.zip
     - plugin.video.quasar-${TRAVIS_TAG:1}.linux_x86.zip
     - plugin.video.quasar-${TRAVIS_TAG:1}.windows_x64.zip
