@@ -31,6 +31,10 @@
         <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
         <setting id="connections_limit" label="30027" type="number" default="" />
         <setting id="session_save" label="30029" type="number" default="15" />
+        <setting id="share_ratio_limit" label="30051" type="number" default="" />
+        <setting id="seed_time_ratio_limit" label="30052" type="number" default="" />
+        <setting id="seed_time_limit" label="30053" type="number" default="" />
+        <setting id="disable_dht" label="30050" type="bool" default="false" />
         <setting id="listen_port_min" label="30006" type="number" default="6889" />
         <setting id="listen_port_max" label="30007" type="number" default="7000" />
     </category>
@@ -46,6 +50,9 @@
         <setting label="30239" type="lsep" />
         <setting id="provider_disable_failing" label="30031" type="bool" default="true" />
         <setting id="provider_allowed_failures" label="30032" type="number" default="3" />
+        <setting label="30016" type="lsep" />
+        <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
+        <setting id="custom_provider_timeout" label="30018" type="number" default="4" visible="eq(-1,true)" />
     </category>
     <category label="30008">
         <!-- Proxy -->
@@ -60,9 +67,6 @@
         <!-- Advanced -->
         <setting label="30039" type="lsep" />
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
-        <setting label="30016" type="lsep" />
-        <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
-        <setting id="custom_provider_timeout" label="30018" type="number" default="4" visible="eq(-1,true)" />
         <setting label="30019" type="lsep" />
         <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
     </category>

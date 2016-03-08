@@ -220,6 +220,22 @@ msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
 msgstr "Percentage of additional seeders required before choosing next resolution"
 
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Disable DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Share ratio limit (percent)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Seed time ratio limit (percent)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Seed time limit (hours)"
+
 
 # Interface
 
