@@ -66,6 +66,10 @@
     </category>
     <category label="30015">
         <!-- Advanced -->
+        <setting label="30056" type="lsep" />
+        <setting id="trakt_username" type="text" label="30057" default="" />
+        <setting id="trakt_token" type="text" label="Trakt token" default="" visible="false" />
+        <setting id="trakt_refresh_token" type="text" label="Trakt refresh token" default="" visible="false" />
         <setting label="30039" type="lsep" />
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
         <setting label="30019" type="lsep" />
