@@ -236,6 +236,10 @@ msgctxt "#30054"
 msgid "Update library"
 msgstr "Update library"
 
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Add Specials to library"
+
 
 # Interface
 
