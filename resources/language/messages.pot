@@ -105,8 +105,8 @@ msgid "Clear cache"
 msgstr "Clear cache"
 
 msgctxt "#30021"
-msgid "Enable pagination"
-msgstr "Enable pagination"
+msgid "Results per page"
+msgstr "Results per page"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
