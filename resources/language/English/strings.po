@@ -505,3 +505,11 @@ msgstr "Most Anticipated"
 msgctxt "#30251"
 msgid "Box Office"
 msgstr "Box Office"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Add to library"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Remove from library"
