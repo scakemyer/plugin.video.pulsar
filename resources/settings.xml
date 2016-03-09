@@ -69,5 +69,6 @@
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
         <setting label="30019" type="lsep" />
         <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
+        <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.quasar/library/update)" />
     </category>
 </settings>

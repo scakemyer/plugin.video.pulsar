@@ -232,6 +232,10 @@ msgctxt "#30053"
 msgid "Seed time limit (hours)"
 msgstr "Seed time limit (hours)"
 
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Update library"
+
 
 # Interface
 
