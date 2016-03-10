@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-20 18:28+0200\n"
-"PO-Revision-Date: 2016-02-20 18:41+0200\n"
+"POT-Creation-Date: 2016-03-10 20:18+0200\n"
+"PO-Revision-Date: 2016-03-10 20:22+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -104,8 +104,8 @@ msgid "Clear cache"
 msgstr "ניקוי מטמון"
 
 msgctxt "#30021"
-msgid "Enable pagination"
-msgstr "הפעלת עימוד"
+msgid "Results per page"
+msgstr "מספר תוצאות בעמוד"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
@@ -218,6 +218,42 @@ msgstr "העדפות רזולוציה לסדרות"
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
 msgstr "אחוז נדרש של זורעים לפני בחירה של המקור הבא"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "כיבוי DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "הגבלת יחס זריעה (באחוזים)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "הגבלת יחס זמן לזריעה (באחוזים)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "הגבלת זמן זריעה (בשעות)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "עדכון הספריה"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "הוספת ספיישלים לספריה"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "שם משתמש"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "אישור Quasar"
 
 # Interface
 msgctxt "#30100"
@@ -484,3 +520,27 @@ msgstr "הכי הרבה ציפיות"
 msgctxt "#30251"
 msgid "Box Office"
 msgstr "שוברי קופות"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "הוספה לספריה"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "הסרה מהספריה"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "רשימת צפייה"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "הוספה לרשימת צפייה"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "הסרה מרשימת צפייה"
+
+#~ msgctxt "#30021"
+#~ msgid "Enable pagination"
+#~ msgstr "הפעלת עימוד"
