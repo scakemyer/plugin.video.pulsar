@@ -13,6 +13,7 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+
 # Settings
 
 msgctxt "#30000"
@@ -69,11 +70,11 @@ msgstr "Porta"
 
 msgctxt "#30013"
 msgid "Login"
-msgstr "Login"
+msgstr "Autenticação"
 
 msgctxt "#30014"
 msgid "Password"
-msgstr "Password"
+msgstr "Senha"
 
 msgctxt "#30015"
 msgid "Advanced"
@@ -105,7 +106,7 @@ msgstr "Ativar paginação"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Ativar overlay"
+msgstr "Ativar overlay de informação"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
@@ -113,7 +114,7 @@ msgstr "Escolher stream automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "Obter updates de teste"
+msgstr "Obter atualizações de teste"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
@@ -129,7 +130,7 @@ msgstr "Limite de conexões"
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
-msgstr "Manuseio de torrents em segundo plano"
+msgstr "Processar torrents em segundo plano"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -153,19 +154,19 @@ msgstr "Aparência"
 
 msgctxt "#30034"
 msgid "Default view for Movies"
-msgstr "Vista por defeito para Filmes"
+msgstr "Vista padrão para Filmes"
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Vista por defeito para Séries"
+msgstr "Vista padrão para Séries"
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
-msgstr "Vista por defeito para Temporadas"
+msgstr "Vista padrão para Temporadas"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Vista por defeito para Episódios"
+msgstr "Vista padrão para Episódios"
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
@@ -213,7 +214,44 @@ msgstr "Preferência de resolução para Séries"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Percentagem de seeders adicionais antes de ser escolhida a proxima resolução"
+msgstr "Percentagem de seeders adicionais antes de ser escolhida a próxima resolução"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Desativar DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Limite do rácio de partilha (percentagem)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Limite do rácio de tempo de seed (percentagem)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Limite de tempo de seed (horas)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Atualizar biblioteca"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Adicionar Specials à biblioteca"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Utilizador"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Autorizar Quasar"
+
 
 # Interface
 
@@ -231,7 +269,7 @@ msgstr "Este addon apenas pode ser corrido pelo Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
-msgstr "Binario do Quasar não encontrado"
+msgstr "Binário do Quasar não encontrado"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -247,11 +285,11 @@ msgstr "Ficheiro"
 
 msgctxt "#30107"
 msgid "Insert URL"
-msgstr "Inserir URL:"
+msgstr "Inserir URL"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "Caminho do ficheiro:"
+msgstr "Caminho do ficheiro"
 
 msgctxt "#30109"
 msgid "OK"
@@ -259,19 +297,20 @@ msgstr "OK"
 
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
-msgstr "Crashou demasiadas vezes, a abortar..."
+msgstr "Falhou demasiadas vezes, a abortar..."
 
 msgctxt "#30111"
 msgid "Provider failed too many times, disabling..."
-msgstr "Provedor falhou demasiadas vezes, a desligar..."
+msgstr "Provedor falhou demasiadas vezes, a desativar..."
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
-msgstr "Incapaz de desativar o provedor"
+msgstr "Não é possível desativar o provedor"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Pasta de download não foi escolhida, veja nas suas configurações"
+msgstr "Pasta de download não foi definida, verifique as configurações"
+
 
 # Quasar daemon
 
@@ -309,7 +348,7 @@ msgstr "Sem espaço disponível na pasta de download."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Foi iniciado o Quasar daemon"
+msgstr "Quasar daemon foi iniciado"
 
 msgctxt "#30209"
 msgid "Search"
@@ -385,11 +424,11 @@ msgstr "Erro do daemon"
 
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
-msgstr "Erro ao actualizar o Quasar daemon"
+msgstr "Erro ao atualizar o Quasar daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Streams disponiveis para"
+msgstr "Streams disponíveis para"
 
 msgctxt "#30229"
 msgid "Torrents"
@@ -397,7 +436,7 @@ msgstr "Torrents"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Reproduzir/Retomar torrent"
+msgstr "Reproduzir/retomar torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"
@@ -473,7 +512,7 @@ msgstr "Mais Vistos"
 
 msgctxt "#30249"
 msgid "Most Collected"
-msgstr "Mais Coleccionados"
+msgstr "Mais Colecionados"
 
 msgctxt "#30250"
 msgid "Most Anticipated"
@@ -482,3 +521,23 @@ msgstr "Mais Antecipados"
 msgctxt "#30251"
 msgid "Box Office"
 msgstr "Campeões de Bilheteira"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Adicionar à biblioteca"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Remover da biblioteca"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Watchlist"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Adicionar à watchlist"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Remover da watchlist"
