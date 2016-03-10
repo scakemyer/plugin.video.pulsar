@@ -218,6 +218,42 @@ msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
 msgstr "Pourcentage de seeders additionels avant de choisir la résolution suivante"
 
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Désactiver DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Limite du taux de partage (pourcent)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Seed time ratio limit (percent)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Limite du temps de partage (heures)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Mettre à jour la médiathèque"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Ajouter Specials à la médiathèque"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Identifiant"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Autoriser Quasar"
+
 
 # Interface
 msgctxt "#30100"
@@ -484,3 +520,23 @@ msgstr "Trakt: Les plus attendus"
 msgctxt "#30251"
 msgid "Box Office"
 msgstr "Trakt: Box Office"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Ajouter à la médiathèque"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Supprimer de la médiathèque"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Liste à regarder"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Ajouter à la liste à regarder"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Supprimer de la liste à regarder"
