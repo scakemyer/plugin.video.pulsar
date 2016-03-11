@@ -208,15 +208,15 @@ msgstr "Equilibré"
 
 msgctxt "#30047"
 msgid "Resolution preference for Movies"
-msgstr "Préférence de Résolution pour les Films"
+msgstr "Préférence de Définition pour les Films"
 
 msgctxt "#30048"
 msgid "Resolution preference for TV Shows"
-msgstr "Préférence de Résolution pour les Séries"
+msgstr "Préférence de Définition pour les Séries"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Pourcentage de seeders additionels avant de choisir la résolution suivante"
+msgstr "Pourcentage de seeders additionels avant de choisir la définition suivante"
 
 msgctxt "#30050"
 msgid "Disable DHT"
@@ -224,15 +224,15 @@ msgstr "Désactiver DHT"
 
 msgctxt "#30051"
 msgid "Share ratio limit (percent)"
-msgstr "Limite du taux de partage (pourcent)"
+msgstr "Taux de partage des torrents (pourcent)"
 
 msgctxt "#30052"
 msgid "Seed time ratio limit (percent)"
-msgstr "Seed time ratio limit (percent)"
+msgstr "Ratio temps seed / téléchargement (pourcent)"
 
 msgctxt "#30053"
 msgid "Seed time limit (hours)"
-msgstr "Limite du temps de partage (heures)"
+msgstr "Temps de partage des torrents (heures)"
 
 msgctxt "#30054"
 msgid "Update library"
@@ -240,7 +240,7 @@ msgstr "Mettre à jour la médiathèque"
 
 msgctxt "#30055"
 msgid "Add Specials to library"
-msgstr "Ajouter Specials à la médiathèque"
+msgstr "Ajouter les épisodes spéciaux (pilotes, ...) à la médiathèque"
 
 msgctxt "#30056"
 msgid "Trakt"
