@@ -240,6 +240,17 @@ msgctxt "#30055"
 msgid "Add Specials to library"
 msgstr "Adicionar Especiais para biblioteca"
 
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Usuário"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Autorizar Quasar"
 
 # Interface
 
@@ -517,3 +528,15 @@ msgstr "Adicionar para biblioteca"
 msgctxt "#30253"
 msgid "Remove from library"
 msgstr "Remover da biblioteca"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Minha Lista"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Adicionar para Minha Lista"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Remover da Minha Lista"
