@@ -90,7 +90,7 @@ msgstr "Imposta tempo limite del provider"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "Abilita (utilizza a tuo rischio)"
+msgstr "Abilita (a tuo rischio)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
@@ -110,7 +110,7 @@ msgstr "Abilita impaginazione"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Abilita stato in sovraimpressione"
+msgstr "Abilita modalità sovraimpressione"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
@@ -142,7 +142,7 @@ msgstr "Frequenza di salvataggio sessione (secondi)"
 
 msgctxt "#30030"
 msgid "Overlay status vertical offset"
-msgstr "Posizionamento verticale riquadro di stato"
+msgstr "Posizionamento verticale modalità sovraimpressione"
 
 msgctxt "#30031"
 msgid "Disable providers failing health check"
@@ -150,7 +150,7 @@ msgstr "Disabilità provider in cattivo stato"
 
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
-msgstr "Fallimenti permessi prima di disabilitare il provider"
+msgstr "Tentativi prima di disabilitare il provider"
 
 msgctxt "#30033"
 msgid "Appearance"
@@ -218,7 +218,43 @@ msgstr "Preferenze risoluzione per serie TV"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Percentuale supplementare di seeder richiesta, prima di scegliere la prossima risoluzione"
+msgstr "Percentuale supplementare di seeder richiesta, prima di scegliere la risoluzione successiva"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Disabilita DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Limite rapporto di condivisione (percentuale)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Limite rapporto tempo di seeding  (percentuale)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Tempo limite di seeding (ore)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Aggiorna libreria"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Aggiungi gli Special alla libreria"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Autorizzare Quasar"
 
 
 # Interface
@@ -316,7 +352,7 @@ msgstr "Spazio nel percorso di archiviazione insufficiente."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Il daemon di Quasar si è avviato"
+msgstr "Quasar daemon si è avviato"
 
 msgctxt "#30209"
 msgid "Search"
@@ -324,7 +360,7 @@ msgstr "Cerca"
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "Più popolari"
+msgstr "Popolari"
 
 msgctxt "#30211"
 msgid "Top Rated"
@@ -356,7 +392,7 @@ msgstr "Incolla magnet o URL"
 
 msgctxt "#30218"
 msgid "Next page"
-msgstr "Prossima pagina"
+msgstr "Pagina successiva"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
@@ -368,7 +404,7 @@ msgstr "Percorso libreria non impostato"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Oggetto aggiunto alla libreria con successo"
+msgstr "Oggetto aggiunto alla libreria"
 
 msgctxt "#30222"
 msgid "Item removed from library"
@@ -488,4 +524,36 @@ msgstr "Più attesi"
 
 msgctxt "#30251"
 msgid "Box Office"
-msgstr "Botteghino"
+msgstr "Al botteghino"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Aggiungi alla libreria"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Rimuovi dalla libreria"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Elenco"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Aggiungi all'elenco"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Rimuovi dall'elenco"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Collezione"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Aggiungi alla collezione"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Rimuovi dalla collezione"
