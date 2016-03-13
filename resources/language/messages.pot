@@ -545,3 +545,15 @@ msgstr "Add to watchlist"
 msgctxt "#30256"
 msgid "Remove from watchlist"
 msgstr "Remove from watchlist"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Collection"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Add to collection"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Remove from collection"
