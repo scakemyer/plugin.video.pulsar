@@ -7,7 +7,7 @@ git:
 
 before_install:
   - git submodule init
-  - git submodule update --depth=1
+  - git submodule update --depth=2
 
 install:
   - pip install -r requirements.txt
