@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Greek translation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-21 17:33+0200\n"
+"PO-Revision-Date: 2016-03-14 21:57+0200\n"
 "Last-Translator: filosofos <extraxoros@gmail.com>\n"
 "Language-Team: filosofos <extraxoros@gmail.com>\n"
 "Language: el\n"
@@ -103,8 +103,8 @@ msgid "Clear cache"
 msgstr "Διαγραφή προσωρινής μνήμης"
 
 msgctxt "#30021"
-msgid "Enable pagination"
-msgstr "Ενεργοποίηση σελιδοποίησης"
+msgid "Results per page"
+msgstr "Αποτελέσματα ανά σελίδα"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
@@ -216,7 +216,43 @@ msgstr "Επιλογή ανάλυσης για Τηλεοπτικές Σειρέ
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Ποσοστό επιπρόσθετων seeders που απαιτούνται πριν από την επιλογή της επόμενης ανάλυσης "
+msgstr "Ποσοστό επιπρόσθετων seeders που απαιτούνται πριν από την επιλογή της επόμενης ανάλυσης"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Απενεργοποίηση DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Όριο αναλογίας διαμοιρασμού (ποσοστό)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Χρονικό όριο αναλογίας διαμοιρασμού (ποσοστό)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Χρονικό όριο διαμοιρασμού (ώρες)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Ενημέρωση βιβλιοθήκης"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Προσθήκη αφιερωμάτων στην ταινιοθήκη"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Εξουσιοδότηση Quasar"
 
 # Interface
 msgctxt "#30100"
@@ -233,7 +269,7 @@ msgstr "Το συγκεκριμένο πρόσθετο μπορεί να χρη�
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
-msgstr "Δεν βρέθηκε το Quasar binary"
+msgstr "Δεν βρέθηκε το binary του Quasar"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -483,3 +519,39 @@ msgstr "Πολυαναμενόμενα"
 msgctxt "#30251"
 msgid "Box Office"
 msgstr "Εισπρακτικές επιτυχίες"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Προσθήκη στην ταινιοθήκη"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Διαγραφή από την ταινιοθήκη"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Λίστα παρακολούθησης"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Προσθήκη στη λίστα παρακολούθησης"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Διαγραφή από τη λίστα παρακολούθησης"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Συλλογή"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Προσθήκη στη συλλογή"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Αφαίρεση από τη συλλογή"
+
+#~ msgctxt "#30021"
+#~ msgid "Enable pagination"
+#~ msgstr "Ενεργοποίηση σελιδοποίησης"
