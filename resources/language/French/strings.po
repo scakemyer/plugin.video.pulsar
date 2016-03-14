@@ -495,27 +495,27 @@ msgstr "Paramètres du Provider"
 
 msgctxt "#30245"
 msgid "Popular on Trakt"
-msgstr "Trakt: Les plus populaires"
+msgstr "Les plus populaires"
 
 msgctxt "#30246"
 msgid "Trending"
-msgstr "Trakt: Les plus tendances (en ce moment)"
+msgstr "Les plus tendances (en ce moment)"
 
 msgctxt "#30247"
 msgid "Most Played"
-msgstr "Trakt: Les plus joués (dans l'absolu)"
+msgstr "Les plus joués (dans l'absolu)"
 
 msgctxt "#30248"
 msgid "Most Watched"
-msgstr "Trakt: Les plus regardés (visiteurs uniques)"
+msgstr "Les plus regardés (visiteurs uniques)"
 
 msgctxt "#30249"
 msgid "Most Collected"
-msgstr "Trakt: Les plus ajoutés aux collections"
+msgstr "Les plus ajoutés aux collections"
 
 msgctxt "#30250"
 msgid "Most Anticipated"
-msgstr "Trakt: Les plus attendus"
+msgstr "Les plus attendus"
 
 msgctxt "#30251"
 msgid "Box Office"
@@ -540,3 +540,15 @@ msgstr "Ajouter à la liste à regarder"
 msgctxt "#30256"
 msgid "Remove from watchlist"
 msgstr "Supprimer de la liste à regarder"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Collection Trakt"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Ajouter à la collection"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Supprimer de la collection"
