@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-07 15:15+0100\n"
-"PO-Revision-Date: 2016-02-20 11:07+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2016-03-14 22:41+0100\n"
+"Last-Translator: penzinho\n"
 "Language-Team: \n"
 "Language: hr_HR\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,42 @@ msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
 msgstr "Potreban postotak dodatnih seedera prije izabiranja iduće rezolucije"
 
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Onemogući DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Limit dijeljenja (postotak)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Limit vremena seedanja (postotak)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Vrijeme seedanja (sati)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Osvježi library"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Dodaj specijale u library"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Korisničko ime"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Autoriziraj Quasar"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -277,6 +313,7 @@ msgid "Download path not set, check your settings"
 msgstr "Lokacija skidanja nije određena, provjerite postavke"
 
 # Quasar daemon
+
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Cache očišćen"
@@ -484,3 +521,35 @@ msgstr "Najiščekivanje"
 msgctxt "#30251"
 msgid "Box Office"
 msgstr "Box Office"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Dodaj u library"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Ukloni iz library-a"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Lista za gledanje"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Dodaj u listu za gledanje"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Ukloni iz liste za gledanje"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Kolekcija"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Dodaj u kolekciju"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Ukloni iz kolekcije"
