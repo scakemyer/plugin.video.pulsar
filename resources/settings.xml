@@ -69,6 +69,7 @@
         <setting label="30019" type="lsep" />
         <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.quasar/library/update)" />
+        <setting id="library_update_delay" type="number" label="30059" default="300" />
         <setting label="30056" type="lsep" />
         <setting id="trakt_username" type="text" label="30057" default="" />
         <setting id="trakt_token" type="text" label="Trakt token" default="" visible="false" />

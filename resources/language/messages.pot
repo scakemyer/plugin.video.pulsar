@@ -256,6 +256,10 @@ msgctxt "#30058"
 msgid "Authorize Quasar"
 msgstr "Authorize Quasar"
 
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Library update delay on startup (seconds)"
+
 
 # Interface
 
