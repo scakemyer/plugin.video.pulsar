@@ -557,3 +557,7 @@ msgstr "Add to collection"
 msgctxt "#30259"
 msgid "Remove from collection"
 msgstr "Remove from collection"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "A torrent was previously chosen, use it?"
