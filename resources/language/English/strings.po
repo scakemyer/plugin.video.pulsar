@@ -561,3 +561,11 @@ msgstr "Remove from collection"
 msgctxt "#30260"
 msgid "A torrent was previously chosen, use it?"
 msgstr "A torrent was previously chosen, use it?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Search history"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Use search history?"
