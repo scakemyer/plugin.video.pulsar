@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-03-11 10:11+0100\n"
+"PO-Revision-Date: 2016-03-24 07:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -253,6 +253,10 @@ msgstr "Benutzername"
 msgctxt "#30058"
 msgid "Authorize Quasar"
 msgstr "Quasar authorisieren"
+
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Update der Bibliothek beim Start verzögern (Sekunden)"
 
 # Interface
 msgctxt "#30100"
@@ -539,6 +543,30 @@ msgstr "Zur Merkliste hinzufügen"
 msgctxt "#30256"
 msgid "Remove from watchlist"
 msgstr "Aus Merkliste entfernen"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Sammlung"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Zur Sammlung hinzufügen"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Aus Sammlung entfernen"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "Es wurde bereits ein Torrent ausgewählt. Verwenden?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Suchverlauf"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Suchverlauf verwenden?"
 
 #~ msgctxt "#30021"
 #~ msgid "Enable pagination"
