@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-28 14:17+0100\n"
-"PO-Revision-Date: 2016-02-28 14:22+0100\n"
+"POT-Creation-Date: 2016-04-02 19:20+0200\n"
+"PO-Revision-Date: 2016-04-02 19:29+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.7.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # Settings
@@ -104,8 +104,8 @@ msgid "Clear cache"
 msgstr "Cache opschonen"
 
 msgctxt "#30021"
-msgid "Enable pagination"
-msgstr "Pagineren inschakelen"
+msgid "Results per page"
+msgstr "Resultaten per pagina"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
@@ -216,8 +216,51 @@ msgid "Resolution preference for TV Shows"
 msgstr "Resolutie voorkeur voor TV shows"
 
 msgctxt "#30049"
-msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Benodigd percentage van extra seeders  voordat volgende resolutie gekozen wordt"
+msgid ""
+"Percentage of additional seeders required before choosing next resolution"
+msgstr ""
+"Benodigd percentage van extra seeders  voordat volgende resolutie gekozen "
+"wordt"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Uitschakelen DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Deel ratio (procenten)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Seed tijd ratio limiet (procent)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Seed tijd limiet (uren)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Bibliotheek bijwerken"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Voeg speciale aflveringen toe aan bibliotheek"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Autoriseer Quasar "
+
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Vertraag bijwerken van bibliotheek tijdens starten (seconden)"
 
 # Interface
 msgctxt "#30100"
@@ -484,3 +527,51 @@ msgstr "Meest verwacht"
 msgctxt "#30251"
 msgid "Box Office"
 msgstr "Box Office"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Voeg toe aan bibliotheek"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Verwijder uit bibliotheek"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Kijklijst"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Voeg toe aan kijklijst"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Verwijder uit kijklijst"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Verzameling"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Voeg toe aan verzameling"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Verwijder uit verzameling"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "Eerder gekozen torrent gebruiken?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Zoek geschiedenis"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Gebruik zoek geschiedenis"
+
+#~ msgctxt "#30021"
+#~ msgid "Enable pagination"
+#~ msgstr "Pagineren inschakelen"
