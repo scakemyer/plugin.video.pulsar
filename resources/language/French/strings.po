@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-02-19 12:34+0100\n"
+"PO-Revision-Date: 2016-04-15 13:34+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -132,7 +132,7 @@ msgstr "Nombre de connexions max"
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
-msgstr "Prise en charge des Torrents en arrière plan"
+msgstr "Prise en charge des torrents en arrière plan"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -208,11 +208,11 @@ msgstr "Equilibré"
 
 msgctxt "#30047"
 msgid "Resolution preference for Movies"
-msgstr "Préférence de Définition pour les Films"
+msgstr "Préférence de définition pour les Films"
 
 msgctxt "#30048"
 msgid "Resolution preference for TV Shows"
-msgstr "Préférence de Définition pour les Séries"
+msgstr "Préférence de définition pour les Séries"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
@@ -254,6 +254,9 @@ msgctxt "#30058"
 msgid "Authorize Quasar"
 msgstr "Autoriser Quasar"
 
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Différé de mise à jour de la médiathèque au démarrage (secondes)"
 
 # Interface
 msgctxt "#30100"
@@ -270,7 +273,7 @@ msgstr "Cet add-on ne peut être utilisé que depuis Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
-msgstr "Impossible de trouver l'exécutable du processus Quasar"
+msgstr "Impossible de trouver le fichier exécutable Quasar"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -306,7 +309,7 @@ msgstr "Trop d'erreurs du Provider, désactivation..."
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
-msgstr "Impossible de désactiver le Pournisseur"
+msgstr "Impossible de désactiver le Provider"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
@@ -319,7 +322,7 @@ msgstr "Cache nettoyé"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "Rechercher des séries"
+msgstr "Rechercher des Séries"
 
 msgctxt "#30202"
 msgid "Choose stream..."
@@ -339,7 +342,7 @@ msgstr "Aucun lien trouvé"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "Rechercher des films"
+msgstr "Rechercher des Films"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
@@ -435,15 +438,15 @@ msgstr "Torrents"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Lire / Reprendre le Torrent"
+msgstr "Lire / Reprendre le torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"
-msgstr "Mettre en pause le Torrent"
+msgstr "Mettre en pause le torrent"
 
 msgctxt "#30232"
 msgid "Delete torrent"
-msgstr "Supprimer le Torrent"
+msgstr "Supprimer le torrent"
 
 msgctxt "#30233"
 msgid "Pause session"
@@ -455,7 +458,7 @@ msgstr "Reprendre la lecture de la session"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Reprendre la lecture du Torrent"
+msgstr "Reprendre la lecture du torrent"
 
 msgctxt "#30236"
 msgid "Recently Released"
@@ -552,3 +555,15 @@ msgstr "Ajouter à la collection"
 msgctxt "#30259"
 msgid "Remove from collection"
 msgstr "Supprimer de la collection"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "Un torrent a été choisi précédemment, l'utiliser ?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Historique de recherche"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Utiliser l'historique de recherche ?"
