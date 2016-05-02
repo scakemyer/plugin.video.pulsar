@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-18 21:36+0200\n"
+"PO-Revision-Date: 2016-05-02 21:41+0200\n"
 "Last-Translator: greenbaburu <pigiard@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -255,6 +255,10 @@ msgstr "Username"
 msgctxt "#30058"
 msgid "Authorize Quasar"
 msgstr "Autorizzare Quasar"
+
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Ritarda aggiornamento della libreria all'avvio (secondi)"
 
 
 # Interface
@@ -557,3 +561,15 @@ msgstr "Aggiungi alla collezione"
 msgctxt "#30259"
 msgid "Remove from collection"
 msgstr "Rimuovi dalla collezione"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "Utilizzare il torrent scelto precedentemente?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Cronologia di ricerca"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Usare cronologia di ricerca?"
