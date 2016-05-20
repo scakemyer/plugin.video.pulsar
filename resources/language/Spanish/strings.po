@@ -334,3 +334,99 @@ msgstr "Series Recientes"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Episodios Recientes"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Proovedores"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Activar"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Desactivar"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Chequear"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Fallas de Proovedor"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Configuracion de Proovedores"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Populares en Trakt"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Tendencia"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Mas Reproducidas"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Mas Vistas"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Mas Recolectadas"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Mas Anticipadas"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Box Office"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Añadir a Librería"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Eliminar de Librería"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Watchlist"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Añadir a watchlist"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Eliminar de watchlist"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Colección"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Añadir a Colección"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Eliminar de Colección"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "Anteriormente fue seleccionado un torrent, desea usarlo?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Historial de Búsqueda"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Usar historial de búsqueda?"
