@@ -1,6 +1,7 @@
 ![](http://i.imgur.com/4eQhijh.png)
 
 [![Build Status](https://travis-ci.org/scakemyer/plugin.video.quasar.svg?branch=master)](https://travis-ci.org/scakemyer/plugin.video.quasar)
+[![Join the chat at https://gitter.im/QuasarHQ/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/QuasarHQ/Lobby)
 
 What it is
 ----------
