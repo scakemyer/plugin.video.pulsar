@@ -77,6 +77,7 @@
         <setting id="trakt_scrobble" type="bool" label="Scrobble" default="false" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.quasar/trakt/authorize)" />
         <setting label="CloudHole" type="lsep" />
+        <setting id="use_cloudhole" type="bool" label="30240" default="false" />
         <setting id="cloudhole_key" type="text" label="30040" default="" />
         <setting label="30039" type="lsep" />
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
