@@ -573,3 +573,7 @@ msgstr "Search history"
 msgctxt "#30262"
 msgid "Use search history?"
 msgstr "Use search history?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Lists"
