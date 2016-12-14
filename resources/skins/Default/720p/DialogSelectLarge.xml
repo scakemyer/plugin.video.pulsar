@@ -17,7 +17,7 @@
 			<control type="button" id="32500">
 				<!-- Close button -->
 				<posx>1028</posx>
-				<posy>82</posy>
+				<posy>90</posy>
 				<width>32</width>
 				<height>32</height>
 				<texturefocus>AddonWindow/dialog_close_focus.png</texturefocus>
@@ -28,7 +28,7 @@
 			<control type="label" id="32501">
 				<!-- Window title -->
 				<posx>290</posx>
-				<posy>107</posy>
+				<posy>98</posy>
 				<width>700</width>
 				<height>30</height>
 				<font>font14</font>
@@ -99,10 +99,10 @@
 						<posy>28</posy>
 						<width>707</width>
 						<height>30</height>
-						<font>font13</font>
+						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
-						<textcolor>silver</textcolor>
+						<textcolor>FF666666</textcolor>
 						<shadowcolor>AA000000</shadowcolor>
 						<info>ListItem.Label2</info>
 					</control>
@@ -140,10 +140,10 @@
 						<posy>28</posy>
 						<width>707</width>
 						<height>30</height>
-						<font>font13</font>
+						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
-						<textcolor>white</textcolor>
+						<textcolor>FF888888</textcolor>
 						<shadowcolor>AA000000</shadowcolor>
 						<info>ListItem.Label2</info>
 					</control>
