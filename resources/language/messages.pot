@@ -585,3 +585,7 @@ msgstr "Use search history?"
 msgctxt "#30263"
 msgid "Lists"
 msgstr "Lists"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Reset clearances"

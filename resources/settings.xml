@@ -81,6 +81,7 @@
         <setting label="CloudHole" type="lsep" />
         <setting id="use_cloudhole" type="bool" label="30240" default="false" />
         <setting id="cloudhole_key" type="text" label="30040" default="" />
+        <setting type="action" label="30264" action="RunPlugin(plugin://plugin.video.quasar/cmd/reset_clearances)" />
         <setting label="30039" type="lsep" />
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
     </category>
