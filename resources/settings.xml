@@ -70,11 +70,13 @@
         <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.quasar/library/update)" />
         <setting id="library_update_delay" type="number" label="30059" default="300" />
+        <setting id="library_update_frequency" type="number" label="30060" default="8" />
         <setting label="30056" type="lsep" />
         <setting id="trakt_username" type="text" label="30057" default="" />
         <setting id="trakt_token" type="text" label="Trakt token" default="" visible="false" />
         <setting id="trakt_refresh_token" type="text" label="Trakt refresh token" default="" visible="false" />
         <setting id="trakt_scrobble" type="bool" label="Scrobble" default="false" />
+        <setting id="trakt_sync" type="number" label="30061" default="0" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.quasar/trakt/authorize)" />
         <setting label="CloudHole" type="lsep" />
         <setting id="use_cloudhole" type="bool" label="30240" default="false" />

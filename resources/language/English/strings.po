@@ -256,6 +256,14 @@ msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
 msgstr "Library update delay on startup (seconds)"
 
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Library update frequency (hours)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Sync frequency of Trakt lists to library (hours)"
+
 
 # Interface
 
