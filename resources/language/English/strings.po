@@ -585,3 +585,7 @@ msgstr "Lists"
 msgctxt "#30264"
 msgid "Reset clearances"
 msgstr "Reset clearances"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Item already in library"
