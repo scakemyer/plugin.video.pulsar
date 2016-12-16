@@ -1,0 +1,595 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: scakemyer
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Yleiset"
+
+msgctxt "#30001"
+msgid "Download path (not FAT32)"
+msgstr "Latauspolku (ei FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Säilytä ladatut tiedostot"
+
+msgctxt "#30003"
+msgid "Buffer size (MB)"
+msgstr "Puskurin koko (Mt)"
+
+msgctxt "#30004"
+msgid "Max upload rate (kB/s)"
+msgstr "Korkein lähetysnopeus (kt/s)"
+
+msgctxt "#30005"
+msgid "Max download rate (kB/s)"
+msgstr "Korkein latausnopeus (kt/s)"
+
+msgctxt "#30006"
+msgid "Listen port min"
+msgstr "Seuraa porttia (alaraja)"
+
+msgctxt "#30007"
+msgid "Listen port max"
+msgstr "Seuraa porttia (yläraja)"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Välityspalvelin"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "SOCKS v5 -asetukset"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Käytössä"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Isäntäpalvelin"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Portti"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Käyttäjätunnus"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Salasana"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Lisäasetukset"
+
+msgctxt "#30016"
+msgid "Custom provider timeout"
+msgstr "Aikakatkaisun raja"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Käytössä (käytä omalla vastuulla)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Viive sekunteina"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Ylläpito"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Tyhjennä välimuisti"
+
+msgctxt "#30021"
+msgid "Results per page"
+msgstr "Hakutulosten määrä sivua kohden"
+
+msgctxt "#30022"
+msgid "Enable overlay status"
+msgstr "Näytä latauksen tila"
+
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Valitse tiedosto automaattisesti"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Päivitä testiversioihin"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Rajoita nopeutta vasta puskuroinnin jälkeen"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Kirjaston polku"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Yhteyksien enimmäismäärä"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Jatka latausta taustalla"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Istunnon tallennustiheys (sekunteina)"
+
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Latauksen tilan sijainti pystysuunnassa"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Poista toimimattomat tarjoajat käytöstä"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Sallittujen virheiden määrä ennen käytöstä poistamista"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Elokuvien oletusnäkymä"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Tv-sarjojen oletusnäkymä"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Tuotantokausien oletusnäkymä"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Jaksojen oletusnäkymä"
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Käytä alkuperäisiä nimiä"
+
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "API-avain"
+
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Tiedostojen lajittelu"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Elokuvien lajittelutapa"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Tv-sarjojen lajittelutapa"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Jakajien määrä"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Resoluutio"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Tasapainoinen"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Elokuvien haluttu resoluutio"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Tv-sarjojen haluttu resoluutio"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Vaadittava jakajien osuus ennen kuin valitaan toinen resoluutio"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Kytke DHT pois päältä"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Jakosuhde enintään (prosentteina)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Jakoajan ja jakosuhteen raja (prosentteina)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Jakoaika enintään (tunteina)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Päivitä kirjasto"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Lisää erikoisjaksot kirjastoon"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Valtuuta Quasar"
+
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Viive kirjaston päivitykselle käynnistyksen jälkeen (sekunteina)"
+
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Kirjaston päivitysväli (tunteina)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Traktin listojen synkronointiväli (tunteina)"
+
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar kaatui, käynnistetään uudelleen..."
+
+msgctxt "#30101"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Käynnistä Kodi uudelleen ennen kuin alat käyttää Quasaria"
+
+msgctxt "#30102"
+msgid "This add-on can only be run from within Quasar"
+msgstr "Tämä lisäosa toimii vain Quasarin kautta"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Quasarin binääritiedostoja ei löytynyt"
+
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Anna tiedostosijainti tai URL-osoite"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "Tiedosto"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "URL-osoite"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "Tiedostopolku"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Kaatui liian monta kertaa, peruutetaan..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Tarjoaja epäonnistui liian monta kertaa, poistetaan käytöstä..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Tarjoajan poistaminen käytöstä epäonnistui"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Latauspolkua ei ole valittu, tarkista asetukset"
+
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Välimuisti tyhjennetty"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Etsi tv-sarjoja"
+
+msgctxt "#30202"
+msgid "Choose stream..."
+msgstr "Valitse tiedosto..."
+
+msgctxt "#30203"
+msgid "Show information"
+msgstr "Näytä tiedot"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Tarjoajia ei löytynyt"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Linkkejä ei löytynyt"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Etsi elokuvia"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Latauskohteessa ei ole tarpeeksi tilaa."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar-daemon on käynnistynyt"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Etsi"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Suosituimmat"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Arvostelumenestykset"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Äänestetyimmät"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB:n Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Elokuvat"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "Tv-sarjat"
+
+msgctxt "#30216"
+msgid "Add Torrent"
+msgstr "Lisää torrent-tiedosto"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Liitä magnet-tiedosto tai osoite"
+
+msgctxt "#30218"
+msgid "Next page"
+msgstr "Seuraava sivu"
+
+msgctxt "#30219"
+msgid "Add / Remove from library"
+msgstr "Lisää/poista kirjastosta"
+
+msgctxt "#30220"
+msgid "Library path not set"
+msgstr "Kirjaston polkua ei ole asetettu"
+
+msgctxt "#30221"
+msgid "Item successfully added to library"
+msgstr "Kohde lisättiin kirjastoon"
+
+msgctxt "#30222"
+msgid "Item removed from library"
+msgstr "Kohde poistettiin kirjastosta"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Tiedostot"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Tarjoajan virhe"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Navigointivirhe"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Daemon-virhe"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Virhe Quasar-daemonia päivitettäessä"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Saatavilla olevat tiedostot"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrentit"
+
+msgctxt "#30230"
+msgid "Play / resume torrent"
+msgstr "Toista/jatka torrent-latausta"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Laita torrent-lataus tauolle"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Poista torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Laita istunto tauolle"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Jatka istuntoa"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Jatka torrent-latausta"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Uudet julkaisut"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Uudet sarjat"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Uudet jaksot"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Tarjoajat"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Käytä"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Tarkista"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Tarjoajan virheet"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Tarjoajan asetukset"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Suosittuja Traktissa"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Nousussa"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Toistetuimmat"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Katsotuimmat"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Kerätyimmät"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Halutuimmat"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Elokuvateatteri"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Lisää kirjastoon"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Poista kirjastosta"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Katselulista"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Lisää katselulistalle"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Poista katselulistalta"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Kokoelma"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Lisää kokoelmaan"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Poista kokoelmasta"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "Käytetäänkö viimeksi valittua torrent-tiedostoa?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Hakuhistoria"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Käytetäänkö hakuhistoriaa?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Listat"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Palauta välit"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Kohde on jo kirjastossa"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Älä huomioi kaksoiskappaleita"
