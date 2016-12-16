@@ -593,3 +593,7 @@ msgstr "Reset clearances"
 msgctxt "#30265"
 msgid "Item already in library"
 msgstr "Item already in library"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Ignore duplicates"
