@@ -268,6 +268,10 @@ msgctxt "#30061"
 msgid "Sync frequency of Trakt lists to library (hours)"
 msgstr "Sync frequency of Trakt lists to library (hours)"
 
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Ask to keep the files after streaming"
+
 
 # Interface
 
@@ -597,3 +601,7 @@ msgstr "Item already in library"
 msgctxt "#30266"
 msgid "Ignore duplicates"
 msgstr "Ignore duplicates"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Keep downloaded files?"
