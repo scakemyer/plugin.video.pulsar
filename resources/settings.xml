@@ -73,6 +73,7 @@
         <setting id="library_update_delay" type="number" label="30059" default="300" />
         <setting id="library_update_frequency" type="number" label="30060" default="8" />
         <setting id="library_ignore_duplicates" type="bool" label="30266" default="true" />
+        <setting id="library_tv_scraper" label="30115" type="enum" lvalues="30114|30039|30056" />
         <setting label="30056" type="lsep" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.quasar/trakt/authorize)" />
         <setting id="trakt_username" type="text" label="30057" default="" />

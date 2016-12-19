@@ -331,6 +331,14 @@ msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Download path not set, check your settings"
 
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV scraper used by library"
+msgstr "TV scraper used by library"
+
 
 # Quasar daemon
 
