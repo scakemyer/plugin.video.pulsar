@@ -276,6 +276,10 @@ msgctxt "#30115"
 msgid "TV scraper used by library"
 msgstr "TV scraper used by library"
 
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Disable UPNP & NATPMP"
+
 
 # Interface
 

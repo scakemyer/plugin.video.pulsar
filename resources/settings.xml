@@ -37,6 +37,7 @@
         <setting id="seed_time_ratio_limit" label="30052" type="number" default="" />
         <setting id="seed_time_limit" label="30053" type="number" default="" />
         <setting id="disable_dht" label="30050" type="bool" default="false" />
+        <setting id="disable_upnp" label="30063" type="bool" default="false" />
         <setting id="listen_port_min" label="30006" type="number" default="6889" />
         <setting id="listen_port_max" label="30007" type="number" default="7000" />
     </category>

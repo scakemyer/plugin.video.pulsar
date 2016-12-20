@@ -272,6 +272,10 @@ msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
 msgstr "Ask to keep the files after streaming"
 
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Disable UPNP & NATPMP"
+
 
 # Interface
 
