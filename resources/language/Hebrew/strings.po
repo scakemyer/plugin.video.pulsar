@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-18 08:43+0200\n"
-"PO-Revision-Date: 2016-03-18 08:43+0200\n"
+"POT-Creation-Date: 2016-12-21 08:16+0200\n"
+"PO-Revision-Date: 2016-12-21 08:24+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.11\n"
 
 # Settings
 msgctxt "#30000"
@@ -259,6 +259,22 @@ msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
 msgstr "זמן (בשניות) להשהיה לאחר ההפעה עד לעדכון הספריה"
 
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "תדירות עדכון הספרייה (בשעות)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "תדירות סנכרון הספרייה עם רשימות מ־Trakt"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "האם לשאול אם לשמור קבצים בסיום הניגון"
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "כיבוי UPNP ו־NATPMP"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -315,6 +331,15 @@ msgstr "לא ניתן לבטל את ההפעלה של הספק"
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "לא הוגדר נתיב הורדה, אנא בדקו את ההגדרות"
+
+# Site name
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV scraper used by library"
+msgstr "סקרפרים בשימוש על־ידי הספרייה"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -568,6 +593,30 @@ msgstr "היסטוריית חיפוש"
 msgctxt "#30262"
 msgid "Use search history?"
 msgstr "האם להשתמש בהיסטוריית החיפוש?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "רשימות"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "איפוס הסיווגים"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "הפריט כבר בספרייה"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "התעלמות מכפילויות"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "האם לשמור את הקבצים שהורדו?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "סימון כנצפה"
 
 #~ msgctxt "#30021"
 #~ msgid "Enable pagination"
