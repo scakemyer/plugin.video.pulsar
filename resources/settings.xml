@@ -66,6 +66,11 @@
         <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-3,true)" />
         <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-4,true)" />
     </category>
+    <category label="OpenSubtitles">
+        <setting label="OpenSubtitles" type="lsep" />
+        <setting id="osdb_user" label="30057" type="text" default="" />
+        <setting id="osdb_pass" label="30014" type="text" option="hidden" default="" />
+    </category>
     <category label="30015">
         <!-- Advanced -->
         <setting label="30019" type="lsep" />
