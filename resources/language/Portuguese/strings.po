@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-03-17 11:30+0000\n"
+"PO-Revision-Date: 2016-12-21 21:00+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,11 +22,11 @@ msgstr "Geral"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Pasta de download (não FAT32)"
+msgstr "Pasta de transferências (não FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Manter ficheiros depois da reprodução/download parar"
+msgstr "Manter ficheiros depois da reprodução/transferência parar"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
@@ -38,7 +38,7 @@ msgstr "Taxa máxima de upload (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Taxa máxima de download (kB/S)"
+msgstr "Taxa máxima de transferência (kB/S)"
 
 msgctxt "#30006"
 msgid "Listen port min"
@@ -256,6 +256,30 @@ msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
 msgstr "Atraso na atualização da biblioteca ao iniciar (segundos)"
 
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Frequência de atualização da biblioteca (horas)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Frequência de sincronização das listas Trakt para a biblioteca (horas)"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Perguntar para guardar os ficheiros depois do stream"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV scraper used by library"
+msgstr "Scraper de TV usado pela biblioteca"
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Desativar UPNP e NATPMP"
+
 
 # Interface
 
@@ -313,7 +337,7 @@ msgstr "Não é possível desativar o provedor"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Pasta de download não foi definida, verifique as configurações"
+msgstr "Pasta de tranferência não foi definida, verifique as configurações"
 
 
 # Quasar daemon
@@ -348,7 +372,7 @@ msgstr "Pesquisar Filmes"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Sem espaço disponível na pasta de download."
+msgstr "Sem espaço disponível na pasta de transferência."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
@@ -512,7 +536,7 @@ msgstr "Mais Reproduzidos"
 
 msgctxt "#30248"
 msgid "Most Watched"
-msgstr "Mais Vistos"
+msgstr "Mais Assistidos"
 
 msgctxt "#30249"
 msgid "Most Collected"
@@ -569,3 +593,27 @@ msgstr "Histórico de pesquisas"
 msgctxt "#30262"
 msgid "Use search history?"
 msgstr "Utilizar histórico de pesquisas?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Listas"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Restaurar permissões"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Item já se encontra na biblioteca"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Ignorar duplicados"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Manter ficheiros transferidos?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Alternar assistido"
