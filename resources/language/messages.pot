@@ -617,3 +617,7 @@ msgstr "Ignore duplicates"
 msgctxt "#30267"
 msgid "Keep downloaded files?"
 msgstr "Keep downloaded files?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Toggle watched"
