@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-02-01 12:00-0300\n"
-"PO-Revision-Date: 2016-02-15 21:00-0300\n"
+"PO-Revision-Date: 2016-12-22 21:00-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -255,6 +255,30 @@ msgstr "Autorizar Quasar"
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
 msgstr "Atraso da atualização da biblioteca ao inciar (segundos)"
+
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Frequência de atualização da biblioteca (horas)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Frequência de sincronização das listas do Trakt (horas)"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Perguntar se quer manter arquivo após visualização"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV scraper used by library"
+msgstr "TV scraper usada na biblioteca"
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Desabilitar UPNP & NATPMP"
 
 
 # Interface
@@ -569,3 +593,27 @@ msgstr "Histórico de pesquisa"
 msgctxt "#30262"
 msgid "Use search history?"
 msgstr "Usar o histórico de pesquisa?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Listas"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Resetar mudanças"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Item já adcionado na biblioteca"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Ignorar duplicados"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Manter o arquivo carregado?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Alternar marcador de Visto"
