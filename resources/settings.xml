@@ -38,6 +38,7 @@
         <setting id="seed_time_limit" label="30053" type="number" default="" />
         <setting id="disable_dht" label="30050" type="bool" default="false" />
         <setting id="disable_upnp" label="30063" type="bool" default="false" />
+        <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" />
         <setting id="listen_port_min" label="30006" type="number" default="6889" />
         <setting id="listen_port_max" label="30007" type="number" default="7000" />
     </category>
@@ -59,12 +60,13 @@
     </category>
     <category label="30008">
         <!-- Proxy -->
-        <setting label="30009" type="lsep" />
+        <setting label="30008" type="lsep" />
         <setting id="socks_enabled" label="30010" type="bool" default="false" />
-        <setting id="socks_host" label="30011" type="text" default="" subsetting="true" visible="eq(-1,true)" />
-        <setting id="socks_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-2,true)" />
-        <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-3,true)" />
-        <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-4,true)" />
+        <setting id="proxy_type" label="30067" type="enum" default="2" subsetting="true" lvalues="30068|30069|30070|30071|30072|30073" visible="eq(-1,true)" />
+        <setting id="socks_host" label="30011" type="text" default="" subsetting="true" visible="eq(-2,true)" />
+        <setting id="socks_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-3,true)" />
+        <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-4,true)" />
+        <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-5,true)" />
     </category>
     <category label="OpenSubtitles">
         <setting label="OpenSubtitles" type="lsep" />

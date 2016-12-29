@@ -276,6 +276,46 @@ msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
 msgstr "Disable UPNP & NATPMP"
 
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Encryption policy"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Disabled"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Forced"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Proxy type"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "SOCKS5 password"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "HTTP password"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
 
 # Interface
 
