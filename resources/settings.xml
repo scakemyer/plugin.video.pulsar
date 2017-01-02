@@ -41,6 +41,7 @@
         <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" />
         <setting id="listen_port_min" label="30006" type="number" default="6889" />
         <setting id="listen_port_max" label="30007" type="number" default="7000" />
+        <setting id="spoof_user_agent" label="30074" type="enum" lvalues="30065|30075|30076|30077|30078|30079|30080|30081|30082|30083|30084|30085" />
     </category>
     <category label="30239">
         <!-- Sorting -->
