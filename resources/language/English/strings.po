@@ -368,6 +368,10 @@ msgctxt "#30085"
 msgid "Vuze 5.7.3.0"
 msgstr "Vuze 5.7.3.0"
 
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Enable tuned storage settings"
+
 
 # Interface
 
