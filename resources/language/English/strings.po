@@ -372,6 +372,10 @@ msgctxt "#30086"
 msgid "Enable tuned storage settings"
 msgstr "Enable tuned storage settings"
 
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Ask to delete the files after streaming"
+
 
 # Interface
 
@@ -709,3 +713,7 @@ msgstr "Keep downloaded files?"
 msgctxt "#30268"
 msgid "Toggle watched"
 msgstr "Toggle watched"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Delete downloaded files?"

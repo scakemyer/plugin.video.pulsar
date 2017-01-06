@@ -7,7 +7,7 @@
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
         <setting id="background_handling" type="bool" label="30028" default="false" />
         <setting id="keep_files" type="bool" label="30002" default="false" />
-        <setting id="keep_files_ask" type="bool" label="30062" default="false" />
+        <setting id="keep_files_ask" type="bool" label="30087" default="false" />
         <setting id="results_per_page" type="number" label="30021" default="20" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
         <setting id="overlay_status_offset" type="number" label="30030" default="150" visible="eq(-1,true)" />
