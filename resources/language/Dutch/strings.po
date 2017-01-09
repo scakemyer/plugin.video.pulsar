@@ -133,11 +133,11 @@ msgstr "Maximaal aantal verbindingen"
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
-msgstr "Op de achtergrond verwerken van torrents"
+msgstr "Torrents verwerken op de achtergrond"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
-msgstr "Frequency voor het opslaan van een sessie (seconden)"
+msgstr "Frequentie voor het opslaan van een sessie (seconden)"
 
 msgctxt "#30030"
 msgid "Overlay status vertical offset"
@@ -145,7 +145,7 @@ msgstr "Overlay status verticale offset"
 
 msgctxt "#30031"
 msgid "Disable providers failing health check"
-msgstr "Falende provider gezondheid check niet uitvoeren"
+msgstr "Voer geen gezondheidschek uit voor falende providers"
 
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
@@ -326,7 +326,7 @@ msgstr "Chache opgeschoond"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "Zoeken van TV Shows"
+msgstr "Zoek TV Shows"
 
 msgctxt "#30202"
 msgid "Choose stream..."
@@ -442,11 +442,11 @@ msgstr "Torrents"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Afspelen/resumeren torrent"
+msgstr "Afspelen / hervatten torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"
-msgstr "Pauzeren torrent"
+msgstr "Pauzeer torrent"
 
 msgctxt "#30232"
 msgid "Delete torrent"
@@ -458,7 +458,7 @@ msgstr "Pauzeer sessie"
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "Resumeer sessie"
+msgstr "hervat sessie"
 
 msgctxt "#30235"
 msgid "Resume torrent"
@@ -466,15 +466,15 @@ msgstr "Resumeer torrent"
 
 msgctxt "#30236"
 msgid "Recently Released"
-msgstr "Onlangs vrijgegeven"
+msgstr "Onlangs uitgekomen"
 
 msgctxt "#30237"
 msgid "Recent Shows"
-msgstr "Resente shows"
+msgstr "Recente shows"
 
 msgctxt "#30238"
 msgid "Recent Episodes"
-msgstr "Recente episodes"
+msgstr "Recente afleveringen"
 
 msgctxt "#30239"
 msgid "Providers"
