@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-21 08:16+0200\n"
-"PO-Revision-Date: 2016-12-21 08:24+0200\n"
+"POT-Creation-Date: 2017-01-10 21:57+0200\n"
+"PO-Revision-Date: 2017-01-10 22:10+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -274,6 +274,102 @@ msgstr "האם לשאול אם לשמור קבצים בסיום הניגון"
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
 msgstr "כיבוי UPNP ו־NATPMP"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "מדיניות הצפנה"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "כבוי"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "כפוי"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "שיטת הפרוקסי"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "SOKCS% עם ססמה"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "HTTP עם ססמה"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "שינוי\tUser agent (מאוד לא מומלץ)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "ברירת המחדל של libtorrent (סביר)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr "libtorrent (Rasterbar) 1.1.0"
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr "BitTorrent 7.5.0"
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr "BitTorrent 7.4.3"
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr "µTorrent 3.4.9"
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr "µTorrent 3.2.0"
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr "µTorrent 2.2.1"
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr "Transmission 2.92"
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr "Deluge 1.3.6.0"
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr "Deluge 1.3.12.0"
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr "Vuze 5.7.3.0"
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "הפעלת הגדרות לאחסון מכוון"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "האם לשאול אם למחוק את הקבצים בסיום ההזרמה"
 
 # Interface
 msgctxt "#30100"
@@ -617,6 +713,10 @@ msgstr "האם לשמור את הקבצים שהורדו?"
 msgctxt "#30268"
 msgid "Toggle watched"
 msgstr "סימון כנצפה"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "למחוק את הקבצים שהורדו?"
 
 #~ msgctxt "#30021"
 #~ msgid "Enable pagination"
