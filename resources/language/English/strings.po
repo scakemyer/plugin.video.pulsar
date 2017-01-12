@@ -717,3 +717,7 @@ msgstr "Toggle watched"
 msgctxt "#30269"
 msgid "Delete downloaded files?"
 msgstr "Delete downloaded files?"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Match found in your active torrents, play it?"
