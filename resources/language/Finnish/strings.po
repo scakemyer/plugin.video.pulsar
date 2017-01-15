@@ -264,6 +264,117 @@ msgctxt "#30061"
 msgid "Sync frequency of Trakt lists to library (hours)"
 msgstr "Traktin listojen synkronointiväli (tunteina)"
 
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Kysy katsomisen jälkeen säilytetäänkö tiedosto"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV scraper used by library"
+msgstr "Videokirjaston tv-sarjatietojen tarjoaja"
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Älä käytä UPNP:tä ja NATPMP:tä"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Salauskäytäntö"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Pois käytöstä"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Pakotettu"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Välityspalvelimen tyyppi"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "SOCKS5-salasana"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "HTTP-salasana"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "Väärennä käyttäjätunnus (ei suositella)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "Libtorrentin oletus (hyväksyttävä)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr "libtorrent (Rasterbar) 1.1.0"
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr "BitTorrent 7.5.0"
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr "BitTorrent 7.4.3"
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr "µTorrent 3.4.9"
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr "µTorrent 3.2.0"
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr "µTorrent 2.2.1"
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr "Transmission 2.92"
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr "Deluge 1.3.6.0"
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr "Deluge 1.3.12.0"
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr "Vuze 5.7.3.0"
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Käytä muokattuja tallennusasetuksia"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Kysy katsomisen jälkeen poistetaanko tiedosto"
 
 # Interface
 
@@ -593,3 +704,19 @@ msgstr "Kohde on jo kirjastossa"
 msgctxt "#30266"
 msgid "Ignore duplicates"
 msgstr "Älä huomioi kaksoiskappaleita"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Säilytetäänkö ladatut tiedostot?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Merkitse katsotuksi"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Poistetaanko ladatut tiedostot?"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Tämä torrent on jo latauksessa. Haluatko aloittaa toiston?"
