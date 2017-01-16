@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 NC='\033[0m'
 FAIL='\033[0;31m'
 PASS='\033[0;32m'
@@ -7,7 +7,7 @@ result=0
 for d in resources/language/*/*.po; do
   printf "%-70s %s" "Checking ${d}"
   xgettext "$d" 2> out || rc=$?
-  if [ $rc == 1 ]; then
+  if [ $rc = 1 ]; then
     printf "[ ${FAIL}FAIL${NC} ]\n"
     while read i; do
       printf "  %s\n" "$i"
@@ -18,6 +18,6 @@ for d in resources/language/*/*.po; do
   fi
   rc=0
 done
-rm messages.po
-rm out
+rm -f messages.po
+rm -f out
 exit $result
