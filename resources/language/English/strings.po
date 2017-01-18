@@ -18,706 +18,718 @@ msgstr ""
 
 msgctxt "#30000"
 msgid "General"
-msgstr "General"
+msgstr ""
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Download path (not FAT32)"
+msgstr ""
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Keep files after playback/download stops"
+msgstr ""
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Buffer size (MB)"
+msgstr ""
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Max upload rate (kB/s)"
+msgstr ""
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Max download rate (kB/s)"
+msgstr ""
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Listen port min"
+msgstr ""
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Listen port max"
+msgstr ""
 
 msgctxt "#30008"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 msgctxt "#30009"
 msgid "SOCKS v5 Configuration"
-msgstr "SOCKS v5 Configuration"
+msgstr ""
 
 msgctxt "#30010"
 msgid "Enabled"
-msgstr "Enabled"
+msgstr ""
 
 msgctxt "#30011"
 msgid "Host"
-msgstr "Host"
+msgstr ""
 
 msgctxt "#30012"
 msgid "Port"
-msgstr "Port"
+msgstr ""
 
 msgctxt "#30013"
 msgid "Login"
-msgstr "Login"
+msgstr ""
 
 msgctxt "#30014"
 msgid "Password"
-msgstr "Password"
+msgstr ""
 
 msgctxt "#30015"
 msgid "Advanced"
-msgstr "Advanced"
+msgstr ""
 
 msgctxt "#30016"
 msgid "Custom provider timeout"
-msgstr "Custom provider timeout"
+msgstr ""
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "Enabled (use at your own risk)"
+msgstr ""
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
-msgstr "Timeout in seconds"
+msgstr ""
 
 msgctxt "#30019"
 msgid "Maintenance"
-msgstr "Maintenance"
+msgstr ""
 
 msgctxt "#30020"
 msgid "Clear cache"
-msgstr "Clear cache"
+msgstr ""
 
 msgctxt "#30021"
 msgid "Results per page"
-msgstr "Results per page"
+msgstr ""
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Enable overlay status"
+msgstr ""
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Choose stream automatically"
+msgstr ""
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "Get updates for pre-releases"
+msgstr ""
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
-msgstr "Limit rates after buffering only"
+msgstr ""
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Library path"
+msgstr ""
 
 msgctxt "#30027"
 msgid "Connections limit"
-msgstr "Connections limit"
+msgstr ""
 
 msgctxt "#30028"
 msgid "Background handling of torrents"
-msgstr "Background handling of torrents"
+msgstr ""
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
-msgstr "Session saving frequency (seconds)"
+msgstr ""
 
 msgctxt "#30030"
 msgid "Overlay status vertical offset"
-msgstr "Overlay status vertical offset"
+msgstr ""
 
 msgctxt "#30031"
 msgid "Disable providers failing health check"
-msgstr "Disable providers failing health check"
+msgstr ""
 
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
-msgstr "Allowed failures before provider is disabled"
+msgstr ""
 
 msgctxt "#30033"
 msgid "Appearance"
-msgstr "Appearance"
+msgstr ""
 
 msgctxt "#30034"
 msgid "Default view for Movies"
-msgstr "Default view for Movies"
+msgstr ""
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Default view for TV Shows"
+msgstr ""
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
-msgstr "Default view for Seasons"
+msgstr ""
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Default view for Episodes"
+msgstr ""
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
-msgstr "Prefer use of original title"
+msgstr ""
 
 msgctxt "#30039"
 msgid "TheMovieDB"
-msgstr "TheMovieDB"
+msgstr ""
 
 msgctxt "#30040"
 msgid "API key"
-msgstr "API key"
+msgstr ""
 
 msgctxt "#30041"
 msgid "Stream sorting"
-msgstr "Stream sorting"
+msgstr ""
 
 msgctxt "#30042"
 msgid "Sorting mode for Movies"
-msgstr "Sorting mode for Movies"
+msgstr ""
 
 msgctxt "#30043"
 msgid "Sorting mode for TV Shows"
-msgstr "Sorting mode for TV Shows"
+msgstr ""
 
 msgctxt "#30044"
 msgid "By seeders"
-msgstr "By seeders"
+msgstr ""
 
 msgctxt "#30045"
 msgid "By resolution"
-msgstr "By resolution"
+msgstr ""
 
 msgctxt "#30046"
 msgid "Balanced"
-msgstr "Balanced"
+msgstr ""
 
 msgctxt "#30047"
 msgid "Resolution preference for Movies"
-msgstr "Resolution preference for Movies"
+msgstr ""
 
 msgctxt "#30048"
 msgid "Resolution preference for TV Shows"
-msgstr "Resolution preference for TV Shows"
+msgstr ""
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Percentage of additional seeders required before choosing next resolution"
+msgstr ""
 
 msgctxt "#30050"
 msgid "Disable DHT"
-msgstr "Disable DHT"
+msgstr ""
 
 msgctxt "#30051"
 msgid "Share ratio limit (percent)"
-msgstr "Share ratio limit (percent)"
+msgstr ""
 
 msgctxt "#30052"
 msgid "Seed time ratio limit (percent)"
-msgstr "Seed time ratio limit (percent)"
+msgstr ""
 
 msgctxt "#30053"
 msgid "Seed time limit (hours)"
-msgstr "Seed time limit (hours)"
+msgstr ""
 
 msgctxt "#30054"
 msgid "Update library"
-msgstr "Update library"
+msgstr ""
 
 msgctxt "#30055"
 msgid "Add Specials to library"
-msgstr "Add Specials to library"
+msgstr ""
 
 msgctxt "#30056"
 msgid "Trakt"
-msgstr "Trakt"
+msgstr ""
 
 msgctxt "#30057"
 msgid "Username"
-msgstr "Username"
+msgstr ""
 
 msgctxt "#30058"
 msgid "Authorize Quasar"
-msgstr "Authorize Quasar"
+msgstr ""
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
-msgstr "Library update delay on startup (seconds)"
+msgstr ""
 
 msgctxt "#30060"
 msgid "Library update frequency (hours)"
-msgstr "Library update frequency (hours)"
+msgstr ""
 
 msgctxt "#30061"
 msgid "Sync frequency of Trakt lists to library (hours)"
-msgstr "Sync frequency of Trakt lists to library (hours)"
+msgstr ""
 
 msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
-msgstr "Ask to keep the files after streaming"
+msgstr ""
 
 msgctxt "#30114"
 msgid "TheTVDB"
-msgstr "TheTVDB"
+msgstr ""
 
 msgctxt "#30115"
 msgid "TV scraper used by library"
-msgstr "TV scraper used by library"
+msgstr ""
 
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
-msgstr "Disable UPNP & NATPMP"
+msgstr ""
 
 msgctxt "#30064"
 msgid "Encryption policy"
-msgstr "Encryption policy"
+msgstr ""
 
 msgctxt "#30065"
 msgid "Disabled"
-msgstr "Disabled"
+msgstr ""
 
 msgctxt "#30066"
 msgid "Forced"
-msgstr "Forced"
+msgstr ""
 
 msgctxt "#30067"
 msgid "Proxy type"
-msgstr "Proxy type"
+msgstr ""
 
 msgctxt "#30068"
 msgid "SOCKS4"
-msgstr "SOCKS4"
+msgstr ""
 
 msgctxt "#30069"
 msgid "SOCKS5"
-msgstr "SOCKS5"
+msgstr ""
 
 msgctxt "#30070"
 msgid "SOCKS5 password"
-msgstr "SOCKS5 password"
+msgstr ""
 
 msgctxt "#30071"
 msgid "HTTP"
-msgstr "HTTP"
+msgstr ""
 
 msgctxt "#30072"
 msgid "HTTP password"
-msgstr "HTTP password"
+msgstr ""
 
 msgctxt "#30073"
 msgid "i2p"
-msgstr "i2p"
+msgstr ""
 
 msgctxt "#30074"
 msgid "Spoof user agent (highly inadvisable)"
-msgstr "Spoof user agent (highly inadvisable)"
+msgstr ""
 
 msgctxt "#30075"
 msgid "Default from libtorrent (acceptable)"
-msgstr "Default from libtorrent (acceptable)"
+msgstr ""
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
-msgstr "libtorrent (Rasterbar) 1.1.0"
+msgstr ""
 
 msgctxt "#30077"
 msgid "BitTorrent 7.5.0"
-msgstr "BitTorrent 7.5.0"
+msgstr ""
 
 msgctxt "#30078"
 msgid "BitTorrent 7.4.3"
-msgstr "BitTorrent 7.4.3"
+msgstr ""
 
 msgctxt "#30079"
 msgid "µTorrent 3.4.9"
-msgstr "µTorrent 3.4.9"
+msgstr ""
 
 msgctxt "#30080"
 msgid "µTorrent 3.2.0"
-msgstr "µTorrent 3.2.0"
+msgstr ""
 
 msgctxt "#30081"
 msgid "µTorrent 2.2.1"
-msgstr "µTorrent 2.2.1"
+msgstr ""
 
 msgctxt "#30082"
 msgid "Transmission 2.92"
-msgstr "Transmission 2.92"
+msgstr ""
 
 msgctxt "#30083"
 msgid "Deluge 1.3.6.0"
-msgstr "Deluge 1.3.6.0"
+msgstr ""
 
 msgctxt "#30084"
 msgid "Deluge 1.3.12.0"
-msgstr "Deluge 1.3.12.0"
+msgstr ""
 
 msgctxt "#30085"
 msgid "Vuze 5.7.3.0"
-msgstr "Vuze 5.7.3.0"
+msgstr ""
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
-msgstr "Enable tuned storage settings"
+msgstr ""
 
 msgctxt "#30087"
 msgid "Ask to delete the files after streaming"
-msgstr "Ask to delete the files after streaming"
+msgstr ""
 
 
 # Interface
 
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar has crashed, restarting..."
+msgstr ""
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
-msgstr "You must restart Kodi before using Quasar"
+msgstr ""
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "This add-on can only be run from within Quasar"
+msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
-msgstr "Unable to find Quasar binary"
+msgstr ""
 
 msgctxt "#30104"
 msgid "Insert file or URL"
-msgstr "Insert file or URL"
+msgstr ""
 
 msgctxt "#30105"
 msgid "URL"
-msgstr "URL"
+msgstr ""
 
 msgctxt "#30106"
 msgid "File"
-msgstr "File"
+msgstr ""
 
 msgctxt "#30107"
 msgid "Insert URL"
-msgstr "Insert URL"
+msgstr ""
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "File path"
+msgstr ""
 
 msgctxt "#30109"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
-msgstr "Crashed too many times, aborting..."
+msgstr ""
 
 msgctxt "#30111"
 msgid "Provider failed too many times, disabling..."
-msgstr "Provider failed too many times, disabling..."
+msgstr ""
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
-msgstr "Unable to disable provider"
+msgstr ""
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Download path not set, check your settings"
+msgstr ""
 
 
 # Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Cache cleared"
+msgstr ""
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "Search TV Shows"
+msgstr ""
 
 msgctxt "#30202"
 msgid "Choose stream..."
-msgstr "Choose stream..."
+msgstr ""
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Show information"
+msgstr ""
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "Unable to find any providers"
+msgstr ""
 
 msgctxt "#30205"
 msgid "No links were found"
-msgstr "No links were found"
+msgstr ""
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "Search Movies"
+msgstr ""
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Not enough space available on the download path."
+msgstr ""
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Quasar daemon has started"
+msgstr ""
 
 msgctxt "#30209"
 msgid "Search"
-msgstr "Search"
+msgstr ""
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "Most Popular"
+msgstr ""
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Top Rated"
+msgstr ""
 
 msgctxt "#30212"
 msgid "Most Voted"
-msgstr "Most Voted"
+msgstr ""
 
 msgctxt "#30213"
 msgid "IMDB Top 250"
-msgstr "IMDB Top 250"
+msgstr ""
 
 msgctxt "#30214"
 msgid "Movies"
-msgstr "Movies"
+msgstr ""
 
 msgctxt "#30215"
 msgid "TV Shows"
-msgstr "TV Shows"
+msgstr ""
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Add Torrent"
+msgstr ""
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Paste Magnet or URL"
+msgstr ""
 
 msgctxt "#30218"
 msgid "Next page"
-msgstr "Next page"
+msgstr ""
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Add / Remove from library"
+msgstr ""
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Library path not set"
+msgstr ""
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Item successfully added to library"
+msgstr ""
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Item removed from library"
+msgstr ""
 
 msgctxt "#30223"
 msgid "Files"
-msgstr "Files"
+msgstr ""
 
 msgctxt "#30224"
 msgid "Provider error"
-msgstr "Provider error"
+msgstr ""
 
 msgctxt "#30225"
 msgid "Navigation error"
-msgstr "Navigation error"
+msgstr ""
 
 msgctxt "#30226"
 msgid "Daemon error"
-msgstr "Daemon error"
+msgstr ""
 
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
-msgstr "Error updating Quasar daemon"
+msgstr ""
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Available streams for"
+msgstr ""
 
 msgctxt "#30229"
 msgid "Torrents"
-msgstr "Torrents"
+msgstr ""
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Play / resume torrent"
+msgstr ""
 
 msgctxt "#30231"
 msgid "Pause torrent"
-msgstr "Pause torrent"
+msgstr ""
 
 msgctxt "#30232"
 msgid "Delete torrent"
-msgstr "Delete torrent"
+msgstr ""
 
 msgctxt "#30233"
 msgid "Pause session"
-msgstr "Pause session"
+msgstr ""
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "Resume session"
+msgstr ""
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Resume torrent"
+msgstr ""
 
 msgctxt "#30236"
 msgid "Recently Released"
-msgstr "Recently Released"
+msgstr ""
 
 msgctxt "#30237"
 msgid "Recent Shows"
-msgstr "Recent Shows"
+msgstr ""
 
 msgctxt "#30238"
 msgid "Recent Episodes"
-msgstr "Recent Episodes"
+msgstr ""
 
 msgctxt "#30239"
 msgid "Providers"
-msgstr "Providers"
+msgstr ""
 
 msgctxt "#30240"
 msgid "Enable"
-msgstr "Enable"
+msgstr ""
 
 msgctxt "#30241"
 msgid "Disable"
-msgstr "Disable"
+msgstr ""
 
 msgctxt "#30242"
 msgid "Check"
-msgstr "Check"
+msgstr ""
 
 msgctxt "#30243"
 msgid "Provider failures"
-msgstr "Provider failures"
+msgstr ""
 
 msgctxt "#30244"
 msgid "Provider settings"
-msgstr "Provider settings"
+msgstr ""
 
 msgctxt "#30245"
 msgid "Popular on Trakt"
-msgstr "Popular on Trakt"
+msgstr ""
 
 msgctxt "#30246"
 msgid "Trending"
-msgstr "Trending"
+msgstr ""
 
 msgctxt "#30247"
 msgid "Most Played"
-msgstr "Most Played"
+msgstr ""
 
 msgctxt "#30248"
 msgid "Most Watched"
-msgstr "Most Watched"
+msgstr ""
 
 msgctxt "#30249"
 msgid "Most Collected"
-msgstr "Most Collected"
+msgstr ""
 
 msgctxt "#30250"
 msgid "Most Anticipated"
-msgstr "Most Anticipated"
+msgstr ""
 
 msgctxt "#30251"
 msgid "Box Office"
-msgstr "Box Office"
+msgstr ""
 
 msgctxt "#30252"
 msgid "Add to library"
-msgstr "Add to library"
+msgstr ""
 
 msgctxt "#30253"
 msgid "Remove from library"
-msgstr "Remove from library"
+msgstr ""
 
 msgctxt "#30254"
 msgid "Watchlist"
-msgstr "Watchlist"
+msgstr ""
 
 msgctxt "#30255"
 msgid "Add to watchlist"
-msgstr "Add to watchlist"
+msgstr ""
 
 msgctxt "#30256"
 msgid "Remove from watchlist"
-msgstr "Remove from watchlist"
+msgstr ""
 
 msgctxt "#30257"
 msgid "Collection"
-msgstr "Collection"
+msgstr ""
 
 msgctxt "#30258"
 msgid "Add to collection"
-msgstr "Add to collection"
+msgstr ""
 
 msgctxt "#30259"
 msgid "Remove from collection"
-msgstr "Remove from collection"
+msgstr ""
 
 msgctxt "#30260"
 msgid "A torrent was previously chosen, use it?"
-msgstr "A torrent was previously chosen, use it?"
+msgstr ""
 
 msgctxt "#30261"
 msgid "Search history"
-msgstr "Search history"
+msgstr ""
 
 msgctxt "#30262"
 msgid "Use search history?"
-msgstr "Use search history?"
+msgstr ""
 
 msgctxt "#30263"
 msgid "Lists"
-msgstr "Lists"
+msgstr ""
 
 msgctxt "#30264"
 msgid "Reset clearances"
-msgstr "Reset clearances"
+msgstr ""
 
 msgctxt "#30265"
 msgid "Item already in library"
-msgstr "Item already in library"
+msgstr ""
 
 msgctxt "#30266"
 msgid "Ignore duplicates"
-msgstr "Ignore duplicates"
+msgstr ""
 
 msgctxt "#30267"
 msgid "Keep downloaded files?"
-msgstr "Keep downloaded files?"
+msgstr ""
 
 msgctxt "#30268"
 msgid "Toggle watched"
-msgstr "Toggle watched"
+msgstr ""
 
 msgctxt "#30269"
 msgid "Delete downloaded files?"
-msgstr "Delete downloaded files?"
+msgstr ""
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"
-msgstr "Match found in your active torrents, play it?"
+msgstr ""
+
+msgctxt "#30271"
+msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr ""
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr ""
+
+msgctxt "#30273"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgstr ""
