@@ -737,3 +737,11 @@ msgstr ""
 msgctxt "#30273"
 msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
 msgstr ""
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr ""
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr ""
