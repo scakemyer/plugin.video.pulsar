@@ -741,3 +741,7 @@ msgstr ""
 msgctxt "#30275"
 msgid "Disable all"
 msgstr ""
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr ""
