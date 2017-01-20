@@ -376,6 +376,10 @@ msgctxt "#30087"
 msgid "Ask to delete the files after streaming"
 msgstr ""
 
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr ""
+
 
 # Interface
 

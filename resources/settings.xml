@@ -14,6 +14,7 @@
         <setting id="choose_stream_auto" type="bool" label="30023" default="true" />
         <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="add_specials" type="bool" label="30055" default="false" />
+        <setting id="buffer_timeout" type="number" label="30088" default="300" />
     </category>
     <category label="30033">
         <!-- Appearance -->
