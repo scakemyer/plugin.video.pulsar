@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.quasar" name="Quasar" version="0.9.57" provider-name="scakemyer">
+<addon id="plugin.video.quasar" name="Quasar" version="0.9.58" provider-name="scakemyer">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.quasar.burst" optional="true" />
