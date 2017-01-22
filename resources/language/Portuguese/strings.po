@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2017-01-14 17:00+0000\n"
+"PO-Revision-Date: 2017-01-22 15:00+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -376,6 +376,10 @@ msgctxt "#30087"
 msgid "Ask to delete the files after streaming"
 msgstr "Perguntar para apagar os ficheiros depois do stream"
 
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr "Timeout de buffering inicial (segundos)"
+
 
 # Interface
 
@@ -524,7 +528,7 @@ msgstr "Pasta da biblioteca não definida"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Item adicionado à biblioteca"
+msgstr "Item adicionado com sucesso à biblioteca"
 
 msgctxt "#30222"
 msgid "Item removed from library"
@@ -721,3 +725,27 @@ msgstr "Apagar ficheiros transferidos?"
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"
 msgstr "Correspondência encontrada nos torrents ativos, reproduzi-la?"
+
+msgctxt "#30271"
+msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Há agora um multi-provedor oficial para o Quasar chamado [COLOR FFFF6B00]Burst[/COLOR], gostaria de o instalar agora?"
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Instalação terminou com sucesso, desfrute do Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+
+msgctxt "#30273"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgstr "Bolas... Parece que não conseguimos instalar o [COLOR FFFF6B00]Burst[/COLOR] automaticamente, dirija-se à secção Program add-ons no repositório do Quasar para o instalar."
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr "Ativar todos"
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr "Desativar todos"
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr "Apagar torrent e ficheiros"
