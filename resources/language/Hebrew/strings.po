@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-29 08:39+0200\n"
-"PO-Revision-Date: 2017-01-29 08:39+0200\n"
+"POT-Creation-Date: 2017-01-31 20:32+0200\n"
+"PO-Revision-Date: 2017-01-31 20:33+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -376,6 +376,10 @@ msgctxt "#30088"
 msgid "Initial buffering timeout (seconds)"
 msgstr "מקסימום זמן לטעינה לפני תחילת ניגון (בשניות)"
 
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr "סריקה חוזרת של ספריית ה Kodi לאחר עדכונים"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -441,6 +445,10 @@ msgstr "TheTVDB"
 msgctxt "#30115"
 msgid "TV show scraper used by Kodi library"
 msgstr "סקרפרים בשימוש על־ידי הספרייה"
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr "נראה כי Quasar עדיין בעליה, תנו לזה עוד כמה שניות..."
 
 # Quasar daemon
 msgctxt "#30200"
@@ -823,6 +831,10 @@ msgid ""
 msgstr ""
 "הספריה עודכנה, האם לסרוק אותה מחדש?[CR]ניתן לעשות זאת מאוחר יותר באמצעות "
 "\"עדכון ספריה\" של קודי"
+
+msgctxt "#30289"
+msgid "Genres"
+msgstr "ז'אנרים"
 
 #~ msgctxt "#30021"
 #~ msgid "Enable pagination"
