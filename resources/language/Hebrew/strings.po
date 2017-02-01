@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-31 20:32+0200\n"
-"PO-Revision-Date: 2017-01-31 20:33+0200\n"
+"POT-Creation-Date: 2017-02-01 20:06+0200\n"
+"PO-Revision-Date: 2017-02-01 20:11+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -379,6 +379,14 @@ msgstr "מקסימום זמן לטעינה לפני תחילת ניגון (בש�
 msgctxt "#30089"
 msgid "Automatically re-scan Kodi library after updates"
 msgstr "סריקה חוזרת של ספריית ה Kodi לאחר עדכונים"
+
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr "מנשק האזנה"
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr "מנשק יוצא"
 
 # Interface
 msgctxt "#30100"
@@ -806,7 +814,7 @@ msgstr "מיזוג לספריה"
 
 msgctxt "#30284"
 msgid "Show unaired seasons"
-msgstr "הצגת עו"
+msgstr "הצגת עונות שטרם שודרו"
 
 msgctxt "#30285"
 msgid "Show unaired episodes"
@@ -835,6 +843,50 @@ msgstr ""
 msgctxt "#30289"
 msgid "Genres"
 msgstr "ז'אנרים"
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr "לוחות שנה"
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr "הסרטים שלי"
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr "השחרורים שלי"
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr "כל הסרטים"
+
+msgctxt "#30294"
+msgid "All Releases"
+msgstr "כל השחרורים"
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr "הסדרות שלי"
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr "הסדרות החדשות שלי"
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr "הבכורות שלי"
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr "כל הסדרות"
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr "כל הסדרות החדשות"
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr "כל הבכורות"
 
 #~ msgctxt "#30021"
 #~ msgid "Enable pagination"
