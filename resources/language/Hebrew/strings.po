@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-01 20:06+0200\n"
-"PO-Revision-Date: 2017-02-01 20:11+0200\n"
+"POT-Creation-Date: 2017-02-03 10:34+0200\n"
+"PO-Revision-Date: 2017-02-03 10:37+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -388,6 +388,10 @@ msgctxt "#30091"
 msgid "Outgoing interfaces"
 msgstr "מנשק יוצא"
 
+msgctxt "#30092"
+msgid "Use default fanart"
+msgstr "שימוש ב fanart ברירת מחדל"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -457,6 +461,14 @@ msgstr "סקרפרים בשימוש על־ידי הספרייה"
 msgctxt "#30116"
 msgid "Looks like Quasar is still starting up, give it a few seconds..."
 msgstr "נראה כי Quasar עדיין בעליה, תנו לזה עוד כמה שניות..."
+
+msgctxt "#30117"
+msgid "Resolving torrent files..."
+msgstr "מוצא קבצי טורנט"
+
+msgctxt "#30118"
+msgid "Scraping trackers..."
+msgstr "מוצא טראקרים"
 
 # Quasar daemon
 msgctxt "#30200"
