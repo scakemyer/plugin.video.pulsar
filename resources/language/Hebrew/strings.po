@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-03 10:34+0200\n"
-"PO-Revision-Date: 2017-02-03 10:37+0200\n"
+"POT-Creation-Date: 2017-02-05 19:32+0200\n"
+"PO-Revision-Date: 2017-02-05 19:36+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -392,6 +392,10 @@ msgctxt "#30092"
 msgid "Use default fanart"
 msgstr "שימוש ב fanart ברירת מחדל"
 
+msgctxt "#30093"
+msgid "Do Not Disturb mode"
+msgstr "מצב נא לא להפריע"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -469,6 +473,27 @@ msgstr "מוצא קבצי טורנט"
 msgctxt "#30118"
 msgid "Scraping trackers..."
 msgstr "מוצא טראקרים"
+
+msgctxt "#30141"
+msgid ""
+"Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr "תמכו בפיתוח של Quasar באמצעות ביקור ב־https://quasar.surge.sh/donate"
+
+msgctxt "#30142"
+msgid "Default view for menus in Movies"
+msgstr "תצוגת ברירת מחדל לתפריטי סרטים"
+
+msgctxt "#30143"
+msgid "Default view for menus in TV Shows"
+msgstr "תצוגת ברירת מחדל לסדרות טלויזיה"
+
+msgctxt "#30144"
+msgid "Default view for movie genres"
+msgstr "תצוגת ברירת מחדל לז'נרים של סרטים"
+
+msgctxt "#30145"
+msgid "Default view for TV show genres"
+msgstr "תצוגת ברירת מחדל לז'נרים של סדרו"
 
 # Quasar daemon
 msgctxt "#30200"
