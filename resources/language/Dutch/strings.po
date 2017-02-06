@@ -5,35 +5,31 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-02 19:20+0200\n"
-"PO-Revision-Date: 2016-04-02 19:29+0200\n"
-"Last-Translator: \n"
+"Last-Translator: MrLegendary\n"
 "Language-Team: \n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # Settings
+
 msgctxt "#30000"
 msgid "General"
 msgstr "Algemeen"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Download pad (GEEN FAT32)"
+msgstr "Download pad (Geen FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Behoud bestanden nadat het afspelen/downloaden gestopt is"
+msgstr "Behoud bestanden nadat afspelen/downloaden is beeindigd."
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Buffer grootte (MB)"
+msgstr "Buffergrootte (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -57,7 +53,7 @@ msgstr "Proxy"
 
 msgctxt "#30009"
 msgid "SOCKS v5 Configuration"
-msgstr "SOCKS v5 configuratie"
+msgstr "SOCKS v5 Configuratie"
 
 msgctxt "#30010"
 msgid "Enabled"
@@ -73,7 +69,7 @@ msgstr "Poort"
 
 msgctxt "#30013"
 msgid "Login"
-msgstr "Aanmelden als"
+msgstr "Inloggen"
 
 msgctxt "#30014"
 msgid "Password"
@@ -81,7 +77,7 @@ msgstr "Wachtwoord"
 
 msgctxt "#30015"
 msgid "Advanced"
-msgstr "Uitgebreid"
+msgstr "Geavanceerd"
 
 msgctxt "#30016"
 msgid "Custom provider timeout"
@@ -93,7 +89,7 @@ msgstr "Ingeschakeld (gebruik op eigen risico)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
-msgstr "Time-out in secondes"
+msgstr "Time-out in seconden"
 
 msgctxt "#30019"
 msgid "Maintenance"
@@ -125,7 +121,7 @@ msgstr "Beperk snelheden na het bufferen"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Bibliotheek pad"
+msgstr "Bibliotheekpad"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -161,7 +157,7 @@ msgstr "Standaardweergave voor films"
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Standaardweergave voor TV shows"
+msgstr "Standaardweergave voor series"
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
@@ -169,7 +165,7 @@ msgstr "Standaardweergave voor seizoenen"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Standaardweergave voor episodes"
+msgstr "Standaardweergave voor afleveringen"
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
@@ -181,7 +177,7 @@ msgstr "TheMovieDB"
 
 msgctxt "#30040"
 msgid "API key"
-msgstr "API sleutel"
+msgstr "API key"
 
 msgctxt "#30041"
 msgid "Stream sorting"
@@ -193,15 +189,15 @@ msgstr "Sorteer modus voor films"
 
 msgctxt "#30043"
 msgid "Sorting mode for TV Shows"
-msgstr "Sorteer mode voor shows"
+msgstr "Sorteer modus voor series"
 
 msgctxt "#30044"
 msgid "By seeders"
-msgstr "Door seeders"
+msgstr "Via seeders"
 
 msgctxt "#30045"
 msgid "By resolution"
-msgstr "Door resolutie"
+msgstr "Via resolutie"
 
 msgctxt "#30046"
 msgid "Balanced"
@@ -213,22 +209,19 @@ msgstr "Resolutie voorkeur voor films"
 
 msgctxt "#30048"
 msgid "Resolution preference for TV Shows"
-msgstr "Resolutie voorkeur voor TV shows"
+msgstr "Resolutie voorkeur voor series"
 
 msgctxt "#30049"
-msgid ""
-"Percentage of additional seeders required before choosing next resolution"
-msgstr ""
-"Benodigd percentage van extra seeders  voordat volgende resolutie gekozen "
-"wordt"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Benodigd percentage van extra seeders voordat volgende resolutie gekozen"
 
 msgctxt "#30050"
 msgid "Disable DHT"
-msgstr "Uitschakelen DHT"
+msgstr "DHT uitschakelen"
 
 msgctxt "#30051"
 msgid "Share ratio limit (percent)"
-msgstr "Deel ratio (procenten)"
+msgstr "Deel ratio (procent)"
 
 msgctxt "#30052"
 msgid "Seed time ratio limit (percent)"
@@ -244,7 +237,7 @@ msgstr "Bibliotheek bijwerken"
 
 msgctxt "#30055"
 msgid "Add Specials to library"
-msgstr "Voeg speciale aflveringen toe aan bibliotheek"
+msgstr "Voeg speciale afleveringen toe aan bibliotheek"
 
 msgctxt "#30056"
 msgid "Trakt"
@@ -256,16 +249,154 @@ msgstr "Gebruikersnaam"
 
 msgctxt "#30058"
 msgid "Authorize Quasar"
-msgstr "Autoriseer Quasar "
+msgstr "Autoriseer Quasar"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
 msgstr "Vertraag bijwerken van bibliotheek tijdens starten (seconden)"
 
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Bibliotheek update frequentie (uren)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Synchroniseer frequentie tussen Trakt en bibliotheek (uren)"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Vraag om bestanden te behouden na streamen"
+
+msgctxt "#30063"
+msgid "Disable UPNP &amp; NATPMP"
+msgstr "Schakel UPNP &amp; NATPMP uit"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Encryptiebeleid"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Geforceerd"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Proxy type"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "SOCKS5 wachtwoord"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "HTTP wachtwoord"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "Spoof user agent (niet aanbevolen)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "Standaard van LibTorrent (acceptabel)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr "libtorrent (Rasterbar) 1.1.0"
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr "BitTorrent 7.5.0"
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr "BitTorrent 7.4.3"
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr "µTorrent 3.4.9"
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr "µTorrent 3.2.0"
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr "µTorrent 2.2.1"
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr "Transmission 2.92"
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr "Deluge 1.3.6.0"
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr "Deluge 1.3.12.0"
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr "Vuze 5.7.3.0"
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Schakel afgestelde opslag instellingen in"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Vraag om bestanden de verwijderen na streamen"
+
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr "Buffer time-out (seconden)"
+
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr "Automatisch Kodi bibliotheek herscannen na updates"
+
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr "Luister interfaces"
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr "Uitgaande interfaces"
+
+msgctxt "#30092"
+msgid "Use default fanart"
+msgstr "Gebruik standaard fanart"
+
+msgctxt "#30093"
+msgid "Do Not Disturb mode"
+msgstr "Niet storen modus"
+
+
 # Interface
+
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar is gechrashed, restarting..."
+msgstr "Quasar is gecrasht, opnieuw starten..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
@@ -273,15 +404,15 @@ msgstr "Je moet Kodi opnieuw opstarten voordat je Quasar gebruikt"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "Deze addon kan alleen gebruikt worden door Quasar"
+msgstr "Deze add-on kan alleen gebruikt worden door Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
-msgstr "Quasar binary niet gevonden"
+msgstr "Kan Quasar binary niet vinden"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
-msgstr "Invoeren file of URL"
+msgstr "Bestand of URL invoeren"
 
 msgctxt "#30105"
 msgid "URL"
@@ -289,15 +420,15 @@ msgstr "URL"
 
 msgctxt "#30106"
 msgid "File"
-msgstr "File"
+msgstr "Bestand"
 
 msgctxt "#30107"
 msgid "Insert URL"
-msgstr "Invoeren URL"
+msgstr "URL invoeren"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "File pad"
+msgstr "Bestandspad"
 
 msgctxt "#30109"
 msgid "OK"
@@ -305,7 +436,7 @@ msgstr "OK"
 
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
-msgstr "Te vaak gechrashed, stoppen..."
+msgstr "Te vaak gecrasht, afsluiten..."
 
 msgctxt "#30111"
 msgid "Provider failed too many times, disabling..."
@@ -317,16 +448,58 @@ msgstr "Kan provider niet uitzetten"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Download pad niet bepaald, controleer instellingen"
+msgstr "Download pad niet bepaald, controleer uw instellingen"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV show scraper used by Kodi library"
+msgstr "Serie scraper gebruikt door Kodi bibliotheek"
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr "Quasar is nog aan het opstarten, even geduld..."
+
+msgctxt "#30117"
+msgid "Resolving torrent files..."
+msgstr "Torrent bestanden opzoeken..."
+
+msgctxt "#30118"
+msgid "Scraping trackers..."
+msgstr "Scraping trackers..."
+
+msgctxt "#30141"
+msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr "Doneer aan Quasar development door https://quasar.surge.sh/donte te bezoeken"
+
+msgctxt "#30142"
+msgid "Default view for menus in Movies"
+msgstr "Standaard weergave voor menu's in Films"
+
+msgctxt "#30143"
+msgid "Default view for menus in TV Shows"
+msgstr "Standaard weergave voor menu's in Series"
+
+msgctxt "#30144"
+msgid "Default view for movie genres"
+msgstr "Standaard weergave voor film genres"
+
+msgctxt "#30145"
+msgid "Default view for TV show genres"
+msgstr "Standaard weergave voor serie genres"
+
 
 # Quasar daemon
+
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Chache opgeschoond"
+msgstr "Cache opgeschoond"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "Zoeken van TV Shows"
+msgstr "Zoeken van series"
 
 msgctxt "#30202"
 msgid "Choose stream..."
@@ -334,11 +507,11 @@ msgstr "Kies stream..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Toon meer informatie"
+msgstr "Toon informatie"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "Kan geen providers vinden"
+msgstr "Geen providers gevonden"
 
 msgctxt "#30205"
 msgid "No links were found"
@@ -346,11 +519,11 @@ msgstr "Geen links gevonden"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "Zoeken van Films"
+msgstr "Zoek Films"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Niet genoeg ruimte beschikbaar in de download pad."
+msgstr "Niet genoeg ruimte beschikbaar in het download pad."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
@@ -358,15 +531,15 @@ msgstr "Quasar daemon is gestart"
 
 msgctxt "#30209"
 msgid "Search"
-msgstr "Zoek"
+msgstr "Zoeken"
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "Populairst"
+msgstr "Meest Populair"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Beste cijfers"
+msgstr "Best beoordeeld"
 
 msgctxt "#30212"
 msgid "Most Voted"
@@ -374,7 +547,7 @@ msgstr "Meeste stemmen"
 
 msgctxt "#30213"
 msgid "IMDB Top 250"
-msgstr "IMDB top 250"
+msgstr "IMDB Top 250"
 
 msgctxt "#30214"
 msgid "Movies"
@@ -382,15 +555,15 @@ msgstr "Films"
 
 msgctxt "#30215"
 msgid "TV Shows"
-msgstr "TV shows"
+msgstr "Series"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Plak URL"
+msgstr "Torrent toevoegen"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Plak Magnet or URL"
+msgstr "Plak Magnet of URL"
 
 msgctxt "#30218"
 msgid "Next page"
@@ -398,11 +571,11 @@ msgstr "Volgende pagina"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Toevoegen/verwijderen van bibliotheek"
+msgstr "Toevoegen / verwijderen van bibliotheek"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Bibliotheek pad niet omschreven"
+msgstr "Bibliotheek pad niet bepaald"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
@@ -410,7 +583,7 @@ msgstr "Item succesvol aan bibliotheek toegevoegd"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Item succesvol uit bibliotheek verwijderd"
+msgstr "Bestand verwijderd uit bibliotheek"
 
 msgctxt "#30223"
 msgid "Files"
@@ -418,15 +591,15 @@ msgstr "Bestanden"
 
 msgctxt "#30224"
 msgid "Provider error"
-msgstr "Provider fout"
+msgstr "Provider error"
 
 msgctxt "#30225"
 msgid "Navigation error"
-msgstr "Navigatie fout"
+msgstr "Navigatie error"
 
 msgctxt "#30226"
 msgid "Daemon error"
-msgstr "Daemon fout"
+msgstr "Daemon error"
 
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
@@ -442,39 +615,39 @@ msgstr "Torrents"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Afspelen/resumeren torrent"
+msgstr "Torrent afspelen / hervatten"
 
 msgctxt "#30231"
 msgid "Pause torrent"
-msgstr "Pauzeren torrent"
+msgstr "Torrent pauzeren"
 
 msgctxt "#30232"
 msgid "Delete torrent"
-msgstr "Verwijder torrent"
+msgstr "Torrent verwijderen"
 
 msgctxt "#30233"
 msgid "Pause session"
-msgstr "Pauzeer sessie"
+msgstr "Sessie pauzeren"
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "Resumeer sessie"
+msgstr "Sessie hervatten"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Resumeer torrent"
+msgstr "Torrent hervatten"
 
 msgctxt "#30236"
 msgid "Recently Released"
-msgstr "Onlangs vrijgegeven"
+msgstr "Recent uitgebracht"
 
 msgctxt "#30237"
 msgid "Recent Shows"
-msgstr "Resente shows"
+msgstr "Recente Series"
 
 msgctxt "#30238"
 msgid "Recent Episodes"
-msgstr "Recente episodes"
+msgstr "Recente Afleveringen"
 
 msgctxt "#30239"
 msgid "Providers"
@@ -482,11 +655,11 @@ msgstr "Providers"
 
 msgctxt "#30240"
 msgid "Enable"
-msgstr "Aanzetten"
+msgstr "Inschakelen"
 
 msgctxt "#30241"
 msgid "Disable"
-msgstr "Uitzetten"
+msgstr "Inschakelen"
 
 msgctxt "#30242"
 msgid "Check"
@@ -510,7 +683,7 @@ msgstr "Trending"
 
 msgctxt "#30247"
 msgid "Most Played"
-msgstr "Vaakst gespeeld"
+msgstr "Meest afgespeeld"
 
 msgctxt "#30248"
 msgid "Most Watched"
@@ -530,11 +703,11 @@ msgstr "Box Office"
 
 msgctxt "#30252"
 msgid "Add to library"
-msgstr "Voeg toe aan bibliotheek"
+msgstr "Toevoegen aan bibliotheek"
 
 msgctxt "#30253"
 msgid "Remove from library"
-msgstr "Verwijder uit bibliotheek"
+msgstr "Verwijderen van bibliotheek"
 
 msgctxt "#30254"
 msgid "Watchlist"
@@ -542,23 +715,23 @@ msgstr "Kijklijst"
 
 msgctxt "#30255"
 msgid "Add to watchlist"
-msgstr "Voeg toe aan kijklijst"
+msgstr "Toevoegen aan kijklijst"
 
 msgctxt "#30256"
 msgid "Remove from watchlist"
-msgstr "Verwijder uit kijklijst"
+msgstr "Verwijderen van kijklijst"
 
 msgctxt "#30257"
 msgid "Collection"
-msgstr "Verzameling"
+msgstr "Collectie"
 
 msgctxt "#30258"
 msgid "Add to collection"
-msgstr "Voeg toe aan verzameling"
+msgstr "Toevoegen aan collectie"
 
 msgctxt "#30259"
 msgid "Remove from collection"
-msgstr "Verwijder uit verzameling"
+msgstr "Verwijderen van collectie"
 
 msgctxt "#30260"
 msgid "A torrent was previously chosen, use it?"
@@ -570,8 +743,156 @@ msgstr "Zoek geschiedenis"
 
 msgctxt "#30262"
 msgid "Use search history?"
-msgstr "Gebruik zoek geschiedenis"
+msgstr "Zoek geschiedenis gebruiken?"
 
-#~ msgctxt "#30021"
-#~ msgid "Enable pagination"
-#~ msgstr "Pagineren inschakelen"
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Lijsten"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Reset clearances"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Onderdeel zit al in bibliotheek"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Negeer duplicaten"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Gedownloade bestanden behouden?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Toggle bekeken"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Gedownloade bestanden verwijderen?"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Match gevonden in uw actieve torrents, wilt u deze afspelen?"
+
+msgctxt "#30271"
+msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Er is nu een officiele multi-provider voor Quasar genaamd [COLOR FFFF6B00]Burst[/COLOR], wilt u deze nu installeren?"
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Installatie succesvol, veel plezier met het gebruik van Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+
+msgctxt "#30273"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgstr "Het is niet gelukt Quasar [COLOR FFFF6B00]Burst[/COLOR] automatisch te installeren, ga naar de Quasar Repository. Via programma add-ons kunt u het installeren"
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr "Alles inschakelen"
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr "Alles uitschakelen"
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr "Torrent en bestanden verwijderen."
+
+msgctxt "#30277"
+msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s toegevoegd aan bibliotheek, wilt u nu opnieuw scannen?[CR] U kunt ook Kodi's 'Bibliotheek bijwerken' functie gebruiken"
+
+msgctxt "#30278"
+msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
+msgstr "%s verwijderd van bibliotheek, wilt u nu opnieuw scannen?[CR] U kunt ook Kodi's 'Bibliotheek opschonen' functie gebruiken"
+
+msgctxt "#30279"
+msgid "Watchlist added to library"
+msgstr "Kijklijst toegevoegd aan bibliotheek"
+
+msgctxt "#30280"
+msgid "Collection added to library"
+msgstr "Collectie toegevoegd aan bibliotheek"
+
+msgctxt "#30281"
+msgid "List added to library"
+msgstr "Lijst toegevoegd aan bibliotheek"
+
+msgctxt "#30282"
+msgid "Nothing left to remove from Quasar"
+msgstr "Niks over om te verwijderen van Quasar"
+
+msgctxt "#30283"
+msgid "Merge to library"
+msgstr "Samenvoegen met bibliotheek"
+
+msgctxt "#30284"
+msgid "Show unaired seasons"
+msgstr "Vertoon niet uitgezonden seizoenen"
+
+msgctxt "#30285"
+msgid "Show unaired episodes"
+msgstr "Vertoon niet uitgezonden afleveringen"
+
+msgctxt "#30286"
+msgid "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s samengevoegd met bibliotheek, wilt u nu opnieuw scannen?[CR] U kunt ook Kodi's 'Bibliotheek bijwerken' functie gebruiken"
+
+msgctxt "#30287"
+msgid "%s already in library"
+msgstr "%s zit al in uw bibliotheek"
+
+msgctxt "#30288"
+msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "Bibliotheek geupdate, wilt u nu opnieuw scannen?[CR] U kunt ook Kodi's 'Bibliotheek bijwerken' functie gebruiken"
+
+msgctxt "#30289"
+msgid "Genres"
+msgstr "Genres"
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr "Kalenders"
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr "Mijn Films"
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr "Mijn Releases"
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr "Alle Films"
+
+msgctxt "#30294"
+msgid "All Releases"
+msgstr "Alle Releases"
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr "Mijn Series"
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr "Mijn Nieuwe Series"
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr "Mijn Premieres"
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr "Alle Series"
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr "Alle Nieuwe Series"
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr "Alle Premieres"
