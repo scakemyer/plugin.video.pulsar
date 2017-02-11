@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-07 15:15+0100\n"
-"PO-Revision-Date: 2016-03-30 17:40+0100\n"
+"PO-Revision-Date: 2017-02-11 12:25+0100\n"
 "Last-Translator: penzinho\n"
 "Language-Team: \n"
 "Language: hr_HR\n"
@@ -258,6 +258,127 @@ msgstr "Autoriziraj Quasar"
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
 msgstr "Odmak za osvježavanje library-a prilikom pokretanja (sekunde)"
+
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Učestalost osvježavanja library-a (sati)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Učestalost sinkroniziranja Trakt lista sa library-em (sati)"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Pitaj za zadržavanje datoteka nakon streamanja"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV scraper used by library"
+msgstr "TV scraper koji koristi library"
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Onemogući UPNP & NATPMP"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Način enkripcije"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Omogućeno"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Forsirano"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Tip proxy-a"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "SOCKS5 šifra"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "HTTP šifra"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "Lažiraj tip uređaja (jako nepreporučljivo)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "Zadano iz libtorrenta (preporučljivo)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr "libtorrent (Rasterbar) 1.1.0"
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr "BitTorrent 7.5.0"
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr "BitTorrent 7.4.3"
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr "µTorrent 3.4.9"
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr "µTorrent 3.2.0"
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr "µTorrent 2.2.1"
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr "Transmission 2.92"
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr "Deluge 1.3.6.0"
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr "Deluge 1.3.12.0"
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr "Vuze 5.7.3.0"
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Omogući podešene postavke pohrane"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Pitaj da izbrišeš datoteke nakon streamanja"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -568,3 +689,35 @@ msgstr "Povijest pretrage"
 msgctxt "#30262"
 msgid "Use search history?"
 msgstr "Koristiti povijest pretrage?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Liste"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Poništi dopšuštenja"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Stvar se već nalazi u library-u"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Ignoriraj duplikate"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Zadrži skinute datoteke?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Prebaci gledane"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Izbriši skinute datoteke?"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Isto je već nađeno u tvojim aktivnim torrentima, da pokrenem?"
