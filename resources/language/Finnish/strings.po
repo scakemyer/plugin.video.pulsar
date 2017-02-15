@@ -129,8 +129,8 @@ msgid "Connections limit"
 msgstr "Yhteyksien enimmäismäärä"
 
 msgctxt "#30028"
-msgid "Background handling of torrents"
-msgstr "Jatka latausta taustalla"
+msgid "Do not ask to keep downloading"
+msgstr "Älä kysy jatketaanko latausta"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -268,14 +268,6 @@ msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
 msgstr "Kysy katsomisen jälkeen säilytetäänkö tiedosto"
 
-msgctxt "#30114"
-msgid "TheTVDB"
-msgstr "TheTVDB"
-
-msgctxt "#30115"
-msgid "TV show scraper used by Kodi library"
-msgstr "Videokirjaston tv-sarjatietojen tarjoaja"
-
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
 msgstr "Älä käytä UPNP:tä ja NATPMP:tä"
@@ -376,6 +368,35 @@ msgctxt "#30087"
 msgid "Ask to delete the files after streaming"
 msgstr "Kysy katsomisen jälkeen poistetaanko tiedosto"
 
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr "Puskuroinnin aikakatkaisu (sekunteina)"
+
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr "Päivitä Kodin kirjasto automaattisesti lisäysten jälkeen"
+
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr "Seuratut verkko-osoitteet"
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr "Lähtevän liikenteen osoitteet"
+
+msgctxt "#30092"
+msgid "Use default fanart"
+msgstr "Käytä oletusfanitaidetta"
+
+msgctxt "#30093"
+msgid "Disable notification sound"
+msgstr "Älä käytä äänimerkkiä ilmoituksissa"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "Älä näytä latauksen tila -ilmoitusta"
+
+
 # Interface
 
 msgctxt "#30100"
@@ -433,6 +454,62 @@ msgstr "Tarjoajan poistaminen käytöstä epäonnistui"
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Latauspolkua ei ole valittu, tarkista asetukset"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV show scraper used by Kodi library"
+msgstr "Videokirjaston tv-sarjatietojen tarjoaja"
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr "Quasar ei ole vielä käynnistynyt, odota hetki..."
+
+msgctxt "#30117"
+msgid "Resolving torrent files..."
+msgstr "Järjestellään torrent-tiedostoja..."
+
+msgctxt "#30118"
+msgid "Scraping trackers..."
+msgstr "Etsitään trackereilta..."
+
+msgctxt "#30141"
+msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr "Tue Quasarin kehitystyötä vierailemalla osoitteessa https://quasar.surge.sh/donate"
+
+msgctxt "#30142"
+msgid "Default view for menus in Movies"
+msgstr "Elokuvat-osion valikoiden oletusnäkymä"
+
+msgctxt "#30143"
+msgid "Default view for menus in TV Shows"
+msgstr Tv-sarjat-osion valikoiden oletusnäkymä""
+
+msgctxt "#30144"
+msgid "Default view for movie genres"
+msgstr "Elokuvien lajityyppien oletusnäkymä"
+
+msgctxt "#30145"
+msgid "Default view for TV show genres"
+msgstr "Tv-sarjojen lajityyppien oletusnäkymä"
+
+msgctxt "#30146"
+msgid "Keep downloading?"
+msgstr "Jatketaanko lataamista?"
+
+msgctxt "#30147"
+msgid "Caches are still warming up, give it a minute or two..."
+msgstr "Välimuistin päivitys on vielä kesken, odota hetki..."
+
+msgctxt "#30148"
+msgid "Caches warmed up"
+msgstr "Välimuisti päivitetty"
+
+msgctxt "#30199"
+msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
+msgstr "Toimivaa JSON-RPC-yhteyttä Kodiin ei löytynyt.[CR]Ota molemmat asetukset käyttöön valikossa Palveluasetukset -> Hallinta -> Sovelluksen hallinta ja käynnistä Kodi uudelleen."
 
 
 # Quasar daemon
@@ -720,3 +797,123 @@ msgstr "Poistetaanko ladatut tiedostot?"
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"
 msgstr "Tämä torrent on jo latauksessa. Haluatko aloittaa toiston?"
+
+msgctxt "#30271"
+msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Quasarille on saatavilla virallinen tarjoaja nimeltä [COLOR FFFF6B00]Burst[/COLOR], joka hakee tietoja monelta sivustolta samanaikaisesti. Haluaisitko asentaa sen nyt?"
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Asennus onnistui. Nauti Quasar [COLOR FFFF6B00]Burst[/COLOR]ista!"
+
+msgctxt "#30273"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgstr "Voi rähmä... [COLOR FFFF6B00]Burst[/COLOR]in automaattinen asennus epäonnistui. Siirry Quasarin ohjelmavarastoon lisäosaselaimella ja asenna se alavalikosta nimeltä Ohjelmalisäosat."
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr "Käytä kaikkia"
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr "Poista kaikki käytöstä"
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr "Poista sekä torrent että tiedostot"
+
+msgctxt "#30277"
+msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s lisätty kirjastoon, haluatko suorittaa kirjaston päivityksen?[CR]Voit tehdä sen myöhemmin valitsemalla sivuvalikosta 'Päivitä kirjasto'."
+
+msgctxt "#30278"
+msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
+msgstr "%s poistettiin kirjastosta, haluatko suorittaa kirjaston puhdistuksen?[CR]Voit tehdä sen myöhemmin valitsemallla media-asetuksista 'Puhdista kirjasto'."
+
+msgctxt "#30279"
+msgid "Watchlist added to library"
+msgstr "Katselulista lisätty kirjastoon"
+
+msgctxt "#30280"
+msgid "Collection added to library"
+msgstr "Kokoelma lisätty kirjastoon"
+
+msgctxt "#30281"
+msgid "List added to library"
+msgstr "Lista lisätty kirjastoon"
+
+msgctxt "#30282"
+msgid "Nothing left to remove from Quasar"
+msgstr "Mitään poistettavaa ei ole jäljellä"
+
+msgctxt "#30283"
+msgid "Merge to library"
+msgstr "Yhdistä kirjastoon"
+
+msgctxt "#30284"
+msgid "Show unaired seasons"
+msgstr "Näytä esittämättömät tuotantokaudet"
+
+msgctxt "#30285"
+msgid "Show unaired episodes"
+msgstr "Näytä esittämättömät jaksot"
+
+msgctxt "#30286"
+msgid "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s yhdistetty kirjastoon, haluatko suorittaa kirjaston päivityksen?[CR]Voit tehdä sen myöhemmin valitsemalla sivuvalikosta 'Päivitä kirjasto'."
+
+msgctxt "#30287"
+msgid "%s already in library"
+msgstr "%s on jo kirjastossa"
+
+msgctxt "#30288"
+msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "Kirjasto päivitetty, haluatko suorittaa kirjaston päivityksen?[CR]Voit tehdä sen myöhemmin valitsemalla sivuvalikosta 'Päivitä kirjasto'."
+
+msgctxt "#30289"
+msgid "Genres"
+msgstr "Lajityypit"
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr "Kalenterit"
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr "Elokuvani"
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr "Julkaisuni"
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr "Kaikki elokuvat"
+
+msgctxt "#30294"
+msgid "All Releases"
+msgstr "Kaikki julkaisut"
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr "Sarjani"
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr "Uudet sarjani"
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr "Ensi-iltani"
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr "Kaikki sarjat"
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr "Kaikki uudet sarjat"
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr "Kaikki ensi-illat"
