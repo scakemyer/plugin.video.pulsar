@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-08 20:05+0200\n"
-"PO-Revision-Date: 2017-02-08 20:10+0200\n"
+"POT-Creation-Date: 2017-02-16 19:57+0200\n"
+"PO-Revision-Date: 2017-02-16 19:59+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -393,8 +393,28 @@ msgid "Use default fanart"
 msgstr "שימוש ב fanart ברירת מחדל"
 
 msgctxt "#30093"
-msgid "Do Not Disturb mode"
-msgstr "מצב נא לא להפריע"
+msgid "Disable notification sound"
+msgstr "כיבוי צלילי התראות"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "כיבוי הצגת מצב ההתקדמות ברקע\t"
+
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr "המשך צפיה באינטגרציה עם הספריה"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "לעולם לא"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "תמיד"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "טורנטים פעילים בלבד"
 
 # Interface
 msgctxt "#30100"
@@ -498,6 +518,14 @@ msgstr "תצוגת ברירת מחדל לז'נרים של סדרו"
 msgctxt "#30146"
 msgid "Keep downloading?"
 msgstr "האם להמשיך להוריד?"
+
+msgctxt "#30147"
+msgid "Caches are still warming up, give it a minute or two..."
+msgstr "עדיין טוען את הקאש, יש עוד דקה או שתיים"
+
+msgctxt "#30148"
+msgid "Caches warmed up"
+msgstr "הקאש נטען"
 
 msgctxt "#30199"
 msgid ""
@@ -936,6 +964,10 @@ msgstr "כל הסדרות החדשות"
 msgctxt "#30300"
 msgid "All Premieres"
 msgstr "כל הבכורות"
+
+#~ msgctxt "#30093"
+#~ msgid "Do Not Disturb mode"
+#~ msgstr "מצב נא לא להפריע"
 
 #~ msgctxt "#30028"
 #~ msgid "Background handling of torrents"
