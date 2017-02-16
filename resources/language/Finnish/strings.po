@@ -396,6 +396,22 @@ msgctxt "#30094"
 msgid "Disable background progress dialog"
 msgstr "Älä näytä latauksen tila -ilmoitusta"
 
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr "Jatka kesken jääneestä kohdasta, jos video on videokirjastossa"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "Ei koskaan"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "Aina"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "Vain aktiiviset torrentit"
+
 
 # Interface
 
@@ -485,7 +501,7 @@ msgstr "Elokuvat-osion valikoiden oletusnäkymä"
 
 msgctxt "#30143"
 msgid "Default view for menus in TV Shows"
-msgstr Tv-sarjat-osion valikoiden oletusnäkymä""
+msgstr "Tv-sarjat-osion valikoiden oletusnäkymä"
 
 msgctxt "#30144"
 msgid "Default view for movie genres"
@@ -772,7 +788,7 @@ msgstr "Listat"
 
 msgctxt "#30264"
 msgid "Reset clearances"
-msgstr "Palauta välit"
+msgstr "Palauta valtuutukset"
 
 msgctxt "#30265"
 msgid "Item already in library"
