@@ -576,7 +576,7 @@ msgstr "Coleção"
 
 msgctxt "#30258"
 msgid "Add to collection"
-msgstr "Adicionar a coleção"
+msgstr "Adicionar à coleção"
 
 msgctxt "#30259"
 msgid "Remove from collection"
@@ -656,7 +656,7 @@ msgstr "%s adicionado à biblioteca, fazer outra varredura?[CR]Você também pod
 
 msgctxt "#30278"
 msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
-msgstr "%s removido da biblioteca, quer limpá-la?[CR]Você também pode usar o recurso "Limpar biblioteca" do Kodi em vez disso."
+msgstr "%s removido da biblioteca, quer limpá-la?[CR]Você também pode usar o recurso 'Limpar biblioteca' do Kodi em vez disso."
 
 msgctxt "#30279"
 msgid "Watchlist added to library"
