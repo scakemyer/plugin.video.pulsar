@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-02-01 12:00-0300\n"
-"PO-Revision-Date: 2016-12-22 21:00-0300\n"
+"PO-Revision-Date: 2017-02-16 21:00-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -472,7 +472,7 @@ msgstr "Pausar torrent"
 
 msgctxt "#30232"
 msgid "Delete torrent"
-msgstr "Apagar torrent"
+msgstr "Excluir torrent"
 
 msgctxt "#30233"
 msgid "Pause session"
@@ -536,7 +536,7 @@ msgstr "Mais Tocados"
 
 msgctxt "#30248"
 msgid "Most Watched"
-msgstr "Mais Assistidos"
+msgstr "Mais Vistos"
 
 msgctxt "#30249"
 msgid "Most Collected"
@@ -552,7 +552,7 @@ msgstr "Maiores Bilheterias"
 
 msgctxt "#30252"
 msgid "Add to library"
-msgstr "Adicionar para biblioteca"
+msgstr "Adicionar à biblioteca"
 
 msgctxt "#30253"
 msgid "Remove from library"
@@ -576,11 +576,11 @@ msgstr "Coleção"
 
 msgctxt "#30258"
 msgid "Add to collection"
-msgstr "Adicionar para Coleção"
+msgstr "Adicionar a coleção"
 
 msgctxt "#30259"
 msgid "Remove from collection"
-msgstr "Remover da Coleção"
+msgstr "Remover da coleção"
 
 msgctxt "#30260"
 msgid "A torrent was previously chosen, use it?"
@@ -604,7 +604,7 @@ msgstr "Resetar mudanças"
 
 msgctxt "#30265"
 msgid "Item already in library"
-msgstr "Item já adcionado na biblioteca"
+msgstr "Item já existe na biblioteca"
 
 msgctxt "#30266"
 msgid "Ignore duplicates"
@@ -617,3 +617,131 @@ msgstr "Manter o arquivo carregado?"
 msgctxt "#30268"
 msgid "Toggle watched"
 msgstr "Alternar marcador de Visto"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Excluir arquivos baixados?"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Encontrado em seus torrents ativos, reproduzir?"
+
+msgctxt "#30271"
+msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Já existe um multi-provedor oficial para o Quasar chamado [COLOR FFFF6B00]Burst[/COLOR], você gostaria de instalá-lo agora?"
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Instalação bem sucedida, aproveite o Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+
+msgctxt "#30273"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgstr "Parece que não foi possível instalar [COLOR FFFF6B00]Burst[/COLOR] automaticamente, vá ao Repositório do Quasar, e depois na seção Add-ons de programas para instalá-lo."
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr "Habilitar todos"
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr "Desabilitar todos"
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr "Excluir torrent e arquivos"
+
+msgctxt "#30277"
+msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s adicionado à biblioteca, fazer outra varredura?[CR]Você também pode usar o recurso 'Atualizar biblioteca' do Kodi em vez disso."
+
+msgctxt "#30278"
+msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
+msgstr "%s removido da biblioteca, quer limpá-la?[CR]Você também pode usar o recurso "Limpar biblioteca" do Kodi em vez disso."
+
+msgctxt "#30279"
+msgid "Watchlist added to library"
+msgstr "Minha Lista adicionada à biblioteca"
+
+msgctxt "#30280"
+msgid "Collection added to library"
+msgstr "Coleção adicionada à biblioteca"
+
+msgctxt "#30281"
+msgid "List added to library"
+msgstr "Lista adicionada à biblioteca"
+
+msgctxt "#30282"
+msgid "Nothing left to remove from Quasar"
+msgstr "Não há mais nada para remover do Quasar"
+
+msgctxt "#30283"
+msgid "Merge to library"
+msgstr "Mesclar à biblioteca"
+
+msgctxt "#30284"
+msgid "Show unaired seasons"
+msgstr "Mostrar temporadas não exibidas"
+
+msgctxt "#30285"
+msgid "Show unaired episodes"
+msgstr "Mostrar episódios não exibidos"
+
+msgctxt "#30286"
+msgid "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s mesclado à biblioteca, fazer outra varredura?[CR]Você também pode usar o recurso 'Atualizar biblioteca' do Kodi em vez disso."
+
+msgctxt "#30287"
+msgid "%s already in library"
+msgstr "%s já está na biblioteca"
+
+msgctxt "#30288"
+msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "Biblioteca atualizada, fazer outra varredura?[CR]Você também pode usar o recurso 'Atualizar biblioteca' do Kodi em vez disso."
+
+msgctxt "#30289"
+msgid "Genres"
+msgstr "Gêneros"
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr "Calendários"
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr "Meus Filmes"
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr "Meus Lançamentos"
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr "Todos os Filmes"
+
+msgctxt "#30294"
+msgid "All Releases"
+msgstr "Todos os Lançamentos"
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr "Meus Shows"
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr "Meus Novos Shows"
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr "Minhas Estreias"
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr "Todos os Shows"
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr "Todos os Novos Shows"
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr "Todas as Estreias"
