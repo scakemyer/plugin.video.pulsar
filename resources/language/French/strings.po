@@ -5,17 +5,18 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-04-15 13:34+0100\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-24 10:56+0100\n"
+"PO-Revision-Date: 2017-02-24 12:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Project-Id-Version: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.12\n"
 
 # Settings
 msgctxt "#30000"
@@ -103,8 +104,8 @@ msgid "Clear cache"
 msgstr "Vider le cache"
 
 msgctxt "#30021"
-msgid "Enable pagination"
-msgstr "Activer la pagination"
+msgid "Results per page"
+msgstr "Résultats par page"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
@@ -131,8 +132,8 @@ msgid "Connections limit"
 msgstr "Nombre de connexions max"
 
 msgctxt "#30028"
-msgid "Background handling of torrents"
-msgstr "Prise en charge des torrents en arrière plan"
+msgid "Do not ask to keep downloading"
+msgstr "Ne pas demander à continuer le téléchargement"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -208,15 +209,17 @@ msgstr "Equilibré"
 
 msgctxt "#30047"
 msgid "Resolution preference for Movies"
-msgstr "Préférence de définition pour les Films"
+msgstr "Préférence de qualité pour les Films"
 
 msgctxt "#30048"
 msgid "Resolution preference for TV Shows"
-msgstr "Préférence de définition pour les Séries"
+msgstr "Préférence de qualité pour les Séries"
 
 msgctxt "#30049"
-msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Pourcentage de seeders additionels avant de choisir la définition suivante"
+msgid ""
+"Percentage of additional seeders required before choosing next resolution"
+msgstr ""
+"Pourcentage de seeders additionels avant de choisir la qualité suivante"
 
 msgctxt "#30050"
 msgid "Disable DHT"
@@ -257,6 +260,166 @@ msgstr "Autoriser Quasar"
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
 msgstr "Différé de mise à jour de la médiathèque au démarrage (secondes)"
+
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Fréquence de mise à jour de la librairie (heures)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr ""
+"Fréquence de mise à jour entre les listes Trakt et la librairie (heures)"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Demander à conserver les fichiers après le streaming"
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Désactiver UPNP et NATPMP"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Règles de chiffrement"
+
+# à accorder correctement
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Désactivé"
+
+# à accorder correctement
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Forcé"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Type de Proxy"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "mot de passe SOCKS5"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "mot de passe HTTP"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "Remplacer le “user agent” (fortement déconseillé)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "Valeurs par défaut depuis libtorrent (acceptable)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr "libtorrent (Rasterbar) 1.1.0"
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr "BitTorrent 7.5.0"
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr "BitTorrent 7.4.3"
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr "µTorrent 3.4.9"
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr "µTorrent 3.2.0"
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr "µTorrent 2.2.1"
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr "Transmission 2.92"
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr "Deluge 1.3.6.0"
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr "Deluge 1.3.12.0"
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr "Vuze 5.7.3.0"
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Activer les réglages de stockage améliorés"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Demander à supprimer les fichiers après le streaming"
+
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr "Délai d’attente maximum initial (secondes)"
+
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr "Re-parcourir la librairie Kodi automatiquement après les mises à jour"
+
+# interfaces réseau ?
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr "Interfaces d’écoute"
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr "Interfaces de sortie"
+
+msgctxt "#30092"
+msgid "Use default fanart"
+msgstr "Utiliser le “fanart” par défaut"
+
+msgctxt "#30093"
+msgid "Disable notification sound"
+msgstr "Désactiver la notification sonore"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "Désactiver la fenêtre d’avancement en fond de tâche"
+
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr "Continuer la lecture depuis l’intégration librairie"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "Jamais"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "Toujours"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "Torrents actifs uniquement"
 
 # Interface
 msgctxt "#30100"
@@ -314,6 +477,72 @@ msgstr "Impossible de désactiver le Provider"
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Chemin de téléchargement non spécifié, vérifiez votre configuration"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV show scraper used by Kodi library"
+msgstr "Le “scraper” utilisé par la librairie Kodi pour les Séries"
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr "Quasar est en cours de démarrage, patientez quelques secondes"
+
+msgctxt "#30117"
+msgid "Resolving torrent files..."
+msgstr "Recherche des fichiers torrents …"
+
+msgctxt "#30118"
+msgid "Scraping trackers..."
+msgstr "Recherche sur les “trackers” …"
+
+msgctxt "#30141"
+msgid ""
+"Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr ""
+"Aidez le développement de Quasar en visitant https://quasar.surge.sh/donate"
+
+msgctxt "#30142"
+msgid "Default view for menus in Movies"
+msgstr "Vue par défaut pour les menus des Films"
+
+msgctxt "#30143"
+msgid "Default view for menus in TV Shows"
+msgstr "Vue par défaut pour les menus des Séries"
+
+msgctxt "#30144"
+msgid "Default view for movie genres"
+msgstr "Vue par défaut pour les genres de Films"
+
+msgctxt "#30145"
+msgid "Default view for TV show genres"
+msgstr "Vue par défaut pour les genres de Séries"
+
+msgctxt "#30146"
+msgid "Keep downloading?"
+msgstr "Continuer le téléchargement ?"
+
+msgctxt "#30147"
+msgid "Caches are still warming up, give it a minute or two..."
+msgstr "Mise en cache en cours, patientez une minute ou deux …"
+
+msgctxt "#30148"
+msgid "Caches warmed up"
+msgstr "Mise en cache terminée"
+
+msgctxt "#30149"
+msgid "Trakt username not set, check your settings"
+msgstr "Nom d’utilisateur Trakt manquant, vérifiez les réglages"
+
+msgctxt "#30199"
+msgid ""
+"No available JSON-RPC connection to Kodi.[CR]Enable both Application control "
+"options in Service settings / Control and restart Kodi."
+msgstr ""
+"Pas de connexion JSON-RPC avec Kodi disponible.[CR]Activez la prise en main "
+"à distance dans les réglages"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -567,3 +796,194 @@ msgstr "Historique de recherche"
 msgctxt "#30262"
 msgid "Use search history?"
 msgstr "Utiliser l'historique de recherche ?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Listes"
+
+# traduction incertaine
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Remise à zéro des autorisations"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Element déjà présent dans la librairie"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Ignorer les doublons"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Conserver les fichiers téléchargés ?"
+
+# traduction incertaine
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Marquer les contenus vus"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Supprimer les fichiers téléchargés"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Un torrent en cours correspond, lancer sa lecture ?"
+
+msgctxt "#30271"
+msgid ""
+"There is now an official multi-provider for Quasar called [COLOR "
+"FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr ""
+"Il y a maintenant un addon multi-provider pour Quasar appelé [COLOR "
+"FFFF6B00]Burst[/COLOR], voulez vous l’installer ?"
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr ""
+"Installation terminée avec succès, profitez de Quasar [COLOR FFFF6B00]Burst[/"
+"COLOR]!"
+
+msgctxt "#30273"
+msgid ""
+"Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] "
+"automatically, head over to the Quasar Repository, then under the Program "
+"add-ons section to install it."
+msgstr ""
+"Zut … Il semble que l’installation automatique de [COLOR FFFF6B00]Burst[/"
+"COLOR] ne fonctionne pas, tentez manuellement depuis le dépot Quasar, "
+"section Programmes"
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr "Tout activer"
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr "Tout désactiver"
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr "Supprimer le torrent et les fichiers correspondants"
+
+msgctxt "#30277"
+msgid ""
+"%s added to library, do you want to rescan it?[CR]You can later use Kodi's "
+"'Update library' feature instead."
+msgstr ""
+"%s ajouté à la librairie, voulez-vous la mettre à jour ?[CR]Vous pouvez "
+"utiliser ultérieurement la fonction Kodi de mise à jour."
+
+msgctxt "#30278"
+msgid ""
+"%s removed from library, do you want to clean it?[CR]You can later use "
+"Kodi's 'Clean library' feature instead."
+msgstr ""
+"%s retiré de la librairie, voulez-vous la mettre à jour ?[CR]Vous pouvez "
+"utiliser ultérieurement la fonction Kodi de mise à jour."
+
+msgctxt "#30279"
+msgid "Watchlist added to library"
+msgstr "Liste de lecture ajoutée à la librairie"
+
+msgctxt "#30280"
+msgid "Collection added to library"
+msgstr "Collection ajoutée à la librairie"
+
+msgctxt "#30281"
+msgid "List added to library"
+msgstr "Liste ajoutée à la librairie"
+
+msgctxt "#30282"
+msgid "Nothing left to remove from Quasar"
+msgstr "Rien de plus à supprimer dans Quasar"
+
+msgctxt "#30283"
+msgid "Merge to library"
+msgstr "Joindre à la librairie"
+
+msgctxt "#30284"
+msgid "Show unaired seasons"
+msgstr "Afficher les saisons avant leur disponibilité"
+
+msgctxt "#30285"
+msgid "Show unaired episodes"
+msgstr "Afficher les épisodes avant leur disponibilité"
+
+msgctxt "#30286"
+msgid ""
+"%s merged to library, do you want to rescan it?[CR]You can later use Kodi's "
+"'Update library' feature instead."
+msgstr ""
+"%s ajouté à la librairie, voulez-vous la mettre à jour ?[CR]Vous pouvez "
+"utiliser ultérieurement la fonction Kodi de mise à jour."
+
+msgctxt "#30287"
+msgid "%s already in library"
+msgstr "%s déjà dans la librairie"
+
+# pas très clair
+msgctxt "#30288"
+msgid ""
+"Library updated, do you want to rescan it?[CR]You can later use Kodi's "
+"'Update library' feature instead."
+msgstr ""
+"Librairie modifiée, voulez-vous la mettre à jour ?[CR]Vous pouvez utiliser "
+"ultérieurement la fonction Kodi de mise à jour."
+
+msgctxt "#30289"
+msgid "Genres"
+msgstr "Genres"
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr "Calendriers"
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr "Mes Films"
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr "Mes Sorties"
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr "Tous les Films"
+
+msgctxt "#30294"
+msgid "All Releases"
+msgstr "Toutes les Sorties"
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr "Mes Séries"
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr "Mes nouvelles Séries"
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr "Mes Premières"
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr "Toutes les Séries"
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr "Toutes les nouvelles Séries"
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr "Toutes les Premières"
+
+#~ msgctxt "#30021"
+#~ msgid "Enable pagination"
+#~ msgstr "Activer la pagination"
+
+#~ msgctxt "#30028"
+#~ msgid "Background handling of torrents"
+#~ msgstr "Prise en charge des torrents en arrière plan"
