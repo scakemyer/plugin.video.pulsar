@@ -406,8 +406,8 @@ msgid "This add-on can only be run from within Quasar"
 msgstr "Это дополниние можно запустить только через Quasar"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Quasar binary не найден"
+msgid "Unable to find Quasar binary[CR]Required platform:"
+msgstr "Quasar binary не найден[CR]Требуемая платформа:"
 
 msgctxt "#30104"
 msgid "Insert file or URL"

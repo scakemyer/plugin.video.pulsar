@@ -432,7 +432,7 @@ msgid "This add-on can only be run from within Quasar"
 msgstr ""
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
+msgid "Unable to find Quasar binary[CR]Required platform:"
 msgstr ""
 
 msgctxt "#30104"
