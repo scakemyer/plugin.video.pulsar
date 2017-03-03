@@ -268,17 +268,149 @@ msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
 msgstr "Perguntar se quer manter arquivo após visualização"
 
-msgctxt "#30114"
-msgid "TheTVDB"
-msgstr "TheTVDB"
-
-msgctxt "#30115"
-msgid "TV show scraper used by Kodi library"
-msgstr "TV scraper usada na biblioteca"
-
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
 msgstr "Desabilitar UPNP & NATPMP"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Politica de criptografia"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Desabilitado"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Forçado"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Tipo de Proxy"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr ""
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr ""
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "Senha SOCKS5"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr ""
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "Senha HTTP"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "Imitar outro agente (desaconselhável)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "Padrão libtorrent (aceitável)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr ""
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr ""
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr ""
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr ""
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr ""
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr ""
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Habilitar configuração fina de armazenamento"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Perguntar se deseja deletar arquivo após exibição"
+
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr "Limite de tempo para carregamento (segundos)"
+
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr "Re-escanear biblioteca do Kodi após atualização"
+
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Use default fanart"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Disable notification sound"
+msgstr "Desabilitar som de notificação"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "Desabilitar diálogo de progresso"
+
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr "Resumir reprodução na biblioteca"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "Nunca"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "Sempre"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "Apenas torrent ativo"
 
 
 # Interface
@@ -338,6 +470,67 @@ msgstr "Não foi possível desabilitar o provedor"
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Local de download não definido, verifique suas configurações"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV show scraper used by Kodi library"
+msgstr "TV scraper usada na biblioteca"
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr "Quasar ainda está iniciando, aguarde alguns segundos..."
+
+msgctxt "#30117"
+msgid "Resolving torrent files..."
+msgstr "Verificando arquivos do torrent..."
+
+msgctxt "#30118"
+msgid "Scraping trackers..."
+msgstr "Verificando trackers..."
+
+msgctxt "#30141"
+msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr "Por favor apoie o desenvolvimento do Quasar visitando https://quasar.surge.sh/donate"
+
+msgctxt "#30142"
+msgid "Default view for menus in Movies"
+msgstr "Vista padrão para Menu em Filmes"
+
+msgctxt "#30143"
+msgid "Default view for menus in TV Shows"
+msgstr "Vista padrão para Menu em Séries"
+
+msgctxt "#30144"
+msgid "Default view for movie genres"
+msgstr "Vista padrão para genero de Filmes"
+
+msgctxt "#30145"
+msgid "Default view for TV show genres"
+msgstr "Vista padrão para genero de Séries"
+
+msgctxt "#30146"
+msgid "Keep downloading?"
+msgstr "Continuar o download"
+
+msgctxt "#30147"
+msgid "Caches are still warming up, give it a minute or two..."
+msgstr "Cache ainda está sendo preenchido, aguarde uns minutos"
+
+msgctxt "#30148"
+msgid "Caches warmed up"
+msgstr "Cache preenchido"
+
+msgctxt "#30149"
+msgid "Trakt username not set, check your settings"
+msgstr "Usuario do Trakt não definido, veja suas configurações"
+
+msgctxt "#30199"
+msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
+msgstr ""
+
  
 
 # Quasar daemon
@@ -745,3 +938,13 @@ msgstr "Todos os Novos Shows"
 msgctxt "#30300"
 msgid "All Premieres"
 msgstr "Todas as Estreias"
+
+msgctxt "#30301"
+msgid "Move finished downloads to separate folders"
+msgstr "Mover arquivos baixados para uma nova pasta"
+
+msgctxt "#30302"
+msgid "Files will only be moved after seeding is finished (see[CR]"
+"- BitTorrent settings), and will wait if currently playing"
+msgstr "Arquivos serão transferidos quando o tempo de semear completar
+ e quando a reprodução terminar"
