@@ -513,7 +513,7 @@ msgstr "Vista padrão para genero de Séries"
 
 msgctxt "#30146"
 msgid "Keep downloading?"
-msgstr "Continuar o download"
+msgstr "Continuar o download?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
