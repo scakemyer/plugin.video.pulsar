@@ -1,0 +1,980 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: scakemyer
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 19:53+0200\n"
+"PO-Revision-Date: 2017-04-18 10:13+0200\n"
+"Last-Translator: Mr Dini <mrdini@movieshark.hu>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+# Settings
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "#30001"
+msgid "Download path (not FAT32)"
+msgstr "Letöltés helye (nem FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Őrizze meg a fájlokat a lejátszás/letöltés végeztével"
+
+msgctxt "#30003"
+msgid "Buffer size (MB)"
+msgstr "Pufferméret (MB)"
+
+msgctxt "#30004"
+msgid "Max upload rate (kB/s)"
+msgstr "Max feltöltési sebesség (kB/s)"
+
+msgctxt "#30005"
+msgid "Max download rate (kB/s)"
+msgstr "Max letöltési sebesség (kB/s)"
+
+msgctxt "#30006"
+msgid "Listen port min"
+msgstr "Figyelés min portja"
+
+msgctxt "#30007"
+msgid "Listen port max"
+msgstr "Figyelés max portja"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "SOCKS v5 Konfiguráció"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Hoszt"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Felhasználónév"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Jelszó"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Haladó"
+
+msgctxt "#30016"
+msgid "Custom provider timeout"
+msgstr "Egyedi kiszolgáló időkorlát"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Engedélyezve (használat csak saját felelősségre)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Időkorlát másodpercekben"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Karbantartás"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Gyorsítótár megtisztítása"
+
+msgctxt "#30021"
+msgid "Results per page"
+msgstr "Találatok száma oldalanként"
+
+msgctxt "#30022"
+msgid "Enable overlay status"
+msgstr "Borító mód engedélyezése"
+
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Stream automatikus választása"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Kiadás előtti verziófrissítések letöltése"
+
+msgctxt "#30025"
+msgid "Limit rates after initial buffering only"
+msgstr "Sebességkorlátozás érvénybe lépése csak az első pufferelést követően"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Könyvtár útvonal"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Kapcsolatszám korlátozás"
+
+msgctxt "#30028"
+msgid "Do not ask to keep downloading"
+msgstr "Ne kérdezze a letöltés folytatását"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Munkamenet mentés gyakorisága (másodpercekben)"
+
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Borító függőleges eltolása"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Nem naprakész kiszolgálók letiltása"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Engedélyezett hibás próbálkozások a kiszolgáló letiltása előtt"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Megjelenés"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Filmek alapértelmezett nézete"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Sorozatok alapértelmezett nézete"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Évadok alapértelmezett nézete"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Epizódok alapértelmezett nézete"
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Eredeti cím előnyben részesítése"
+
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "API kulcs"
+
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Stream rendezés"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Filmek rendezése"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Sorozatok rendezése"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Seederek szerint"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Felbontás szerint"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Kiegyensúlyozott"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Filmek felbontási beállítása"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Sorozatok felbontási beállítása"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "További seederek százalékos aránya, mielőtt a következő felbontást választaná"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "DHT letiltása"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Megosztási ráta korlátozás (százalékban)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Seed idő korlátozás (százalékban)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Seed idő korlátozás (órákban)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Könyvtár frissítése"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Speciális epizódok könyvtárához adása"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Quasar felhatalmazása"
+
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Könyvtár frissítési késleltetés induláskor (másodpercekben)"
+
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Könyvtár frissítési időköz (órákban)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Trakt listák helyi könyvtárába szinkronizálása (órákban)"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Kérdezzen rá a fájlok megőrzési szándékára a stream befejezését követően"
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "UPNP és NATPMP letiltása"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Titkosítási irányelv"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Letiltva"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Kényszerített"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Proxy típus"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "SOCKS5 jelszó"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "HTTP jelszó"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "User agent átejtés (nagyon nem ajánlott)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "libtorrentből alapértelmezetten (elfogadható)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr ""
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr ""
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr ""
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr ""
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr ""
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr ""
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Összehangolt tárhelybeállítások engedélyezése"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Kérdezzen rá a fájlok törlési szándékára a stream befejezését követően"
+
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr "Kezdeti puffer időkorlát (másodpercekben)"
+
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr "Kodi könyvtár automatikus átvizsgálása a frissítések után"
+
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr "Figyelt interfész-ek"
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr "Kifelé irányuló interfész-ek"
+
+msgctxt "#30092"
+msgid "Use default fanart"
+msgstr "Alapértelmezett fanart használata"
+
+msgctxt "#30093"
+msgid "Disable notification sound"
+msgstr "Értesítési hang letiltása"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "Háttérben futó folyamatot jelző ablak letiltása"
+
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr "Lejátszás folytatása a helyi könyvtárból"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "Soha"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "Mindig"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "Csak aktív torrenteknél"
+
+
+# Interface
+
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "A Quasar összeomlott, újraindítás..."
+
+msgctxt "#30101"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Kodi újraindítás szükséges a Quasar használata előtt"
+
+msgctxt "#30102"
+msgid "This add-on can only be run from within Quasar"
+msgstr "Ez a kiegészítő csupán a Quasaron keresztül futtatható"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary[CR]Required platform:"
+msgstr "Nem sikerült megtalálni a Quasar binárist[CR]Elvárt platform:"
+
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Válasszon fájlt vagy URL-t"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr ""
+
+msgctxt "#30106"
+msgid "File"
+msgstr "Fájl"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "Link választása"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "Fájl elérési útvonala"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Túl sok összeomlás történt! Megszakítás..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Kiszolgáló csatlakozás túl sokszor sikertelen. Letiltás..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Nem sikerült letiltani a kiszolgálót"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Letöltési útvonal nincs megadva, ellenőrizze a beállításokat"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr ""
+
+msgctxt "#30115"
+msgid "TV show scraper used by Kodi library"
+msgstr "Sorozat scrappelése Kodin keresztül"
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr "Úgy tűnik, hogy a Quasar éppen elindulni készül, kérem várjon pár másodpercet..."
+
+msgctxt "#30117"
+msgid "Resolving torrent files..."
+msgstr "Torrent fájlok feloldása..."
+
+msgctxt "#30118"
+msgid "Scraping trackers..."
+msgstr "Trackerek scrappelése..."
+
+msgctxt "#30141"
+msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr "Kérjük támogassa a Quasar fejlesztését a https://quasar.surge.sh/donate oldal meglátogatásával"
+
+msgctxt "#30142"
+msgid "Default view for menus in Movies"
+msgstr "Alapértelmezett film menü nézet"
+
+msgctxt "#30143"
+msgid "Default view for menus in TV Shows"
+msgstr "Alapértelmezett sorozat nézet"
+
+msgctxt "#30144"
+msgid "Default view for movie genres"
+msgstr "Alapértelmezett film műfaj nézet"
+
+msgctxt "#30145"
+msgid "Default view for TV show genres"
+msgstr "Alapértelmezett sorozat műfaj nézet"
+
+msgctxt "#30146"
+msgid "Keep downloading?"
+msgstr "Folytassa a letöltést?"
+
+msgctxt "#30147"
+msgid "Caches are still warming up, give it a minute or two..."
+msgstr "A gyórsítótárak előkészítése folyamatban van! Kérem várjon egy-két percet..."
+
+msgctxt "#30148"
+msgid "Caches warmed up"
+msgstr "Gyorsítótárak előkészítve"
+
+msgctxt "#30149"
+msgid "Trakt username not set, check your settings"
+msgstr "Trakt felhasználónév nincs beállítva, ellenőrizze a beállításokat"
+
+msgctxt "#30199"
+msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
+msgstr "JSON-RPC csatlakozás a Kodihoz nem lehetséges.[CR]Engedélyezze mindkét applikáció irányító opciót a Szolgáltatásbeállítások / Vezérlés menüpont alatt, majd indítsa újra a Kodit!"
+
+
+# Quasar daemon
+
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Gyorsítótár megtisztítva"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Sorozatok keresése"
+
+msgctxt "#30202"
+msgid "Choose stream..."
+msgstr "Válasszon streamet..."
+
+msgctxt "#30203"
+msgid "Show information"
+msgstr "Információk megjelenítése"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Nem sikerült egy kiszolgálót sem találni"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Nem sikerült egy linket sem találni"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Filmek keresése"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Nincs elég szabad hely a letöltési útvonal alatt."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "A Quasar daemon elindult"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Keresés"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Legnépszerűbb"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Legjobbra értékelt"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Legtöbb szavazatot kapott"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr ""
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Filmek"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "Sorozatok"
+
+msgctxt "#30216"
+msgid "Add Torrent"
+msgstr "Torrent hozzáadása"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Magnet link vagy URL beillesztése"
+
+msgctxt "#30218"
+msgid "Next page"
+msgstr "Következő oldal"
+
+msgctxt "#30219"
+msgid "Add / Remove from library"
+msgstr "Hozzáad / Eltávolít a könyvtárából"
+
+msgctxt "#30220"
+msgid "Library path not set"
+msgstr "Könyvtár elérési útvonal nincs megadva"
+
+msgctxt "#30221"
+msgid "Item successfully added to library"
+msgstr "Elem sikeresen hozzáadva a könyvtárához"
+
+msgctxt "#30222"
+msgid "Item removed from library"
+msgstr "Elem sikeresen eltávolítva a könyvtárából"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Fájlok"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Kiszolgáló hiba"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Navigációs hiba"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Daemon hiba"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Hiba a Quasar daemon frissítése során"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Elérhető streamek a következő kifejezésre:"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrentek"
+
+msgctxt "#30230"
+msgid "Play / resume torrent"
+msgstr "Torrent elindítása / folytatása"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Torrent szüneteltetése"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Torrent törlése"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Munkamenet szüneteltetése"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Munkamenet folytatása"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Torrent folytatása"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Új megjelenések"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Legújabb sorozatok"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Legújabb epizódok"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Kiszolgálók"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Engedélyezés"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Letiltás"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Ellenőrzés"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Kiszolgáló hibák"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Kiszolgáló beállítások"
+
+msgctxt "#30245"
+msgid "Popular on Trakt"
+msgstr "Népszerű a Trakton"
+
+msgctxt "#30246"
+msgid "Trending"
+msgstr "Feltörekvő"
+
+msgctxt "#30247"
+msgid "Most Played"
+msgstr "Legtöbbet játszott"
+
+msgctxt "#30248"
+msgid "Most Watched"
+msgstr "Legtöbbet megtekintett"
+
+msgctxt "#30249"
+msgid "Most Collected"
+msgstr "Legtöbbet összegyűjtött"
+
+msgctxt "#30250"
+msgid "Most Anticipated"
+msgstr "Legjobban várt"
+
+msgctxt "#30251"
+msgid "Box Office"
+msgstr "Legnagyobb bevételek"
+
+msgctxt "#30252"
+msgid "Add to library"
+msgstr "Hozzáadás a könyvtárához"
+
+msgctxt "#30253"
+msgid "Remove from library"
+msgstr "Eltávolítás a könyvtárából"
+
+msgctxt "#30254"
+msgid "Watchlist"
+msgstr "Figyelőlista"
+
+msgctxt "#30255"
+msgid "Add to watchlist"
+msgstr "Hozzáadás a figyelőlistához"
+
+msgctxt "#30256"
+msgid "Remove from watchlist"
+msgstr "Eltávolítás a figyelőlistáról"
+
+msgctxt "#30257"
+msgid "Collection"
+msgstr "Gyűjtemény"
+
+msgctxt "#30258"
+msgid "Add to collection"
+msgstr "Hozzáadás a gyűjteményhez"
+
+msgctxt "#30259"
+msgid "Remove from collection"
+msgstr "Eltávolítás a gyűjteményből"
+
+msgctxt "#30260"
+msgid "A torrent was previously chosen, use it?"
+msgstr "Egy torrent előzőleg már ki lett választva, kívánja használni azt?"
+
+msgctxt "#30261"
+msgid "Search history"
+msgstr "Keresési előzmények"
+
+msgctxt "#30262"
+msgid "Use search history?"
+msgstr "Szeretné használni a keresési előzményeket?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Listák"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Alapértelmezés visszaállítása"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Ez az elem már a könyvtára részét képezi"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Dupla elemek figyelmen kívül hagyása"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Megőrizze a letöltött fájlokat?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Látottnak jelölés"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Törölje a letöltött fájlokat?"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Találat az aktív torrentjei közt, le szeretné játszani?"
+
+msgctxt "#30271"
+msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Megjelent egy hivatalos multi-kiszolgáló a Quasarhoz, a [COLOR FFFF6B00]Burst[/COLOR]. Szeretné most telepíteni?"
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Telepítés sikeres! Élvezze a Quasar [COLOR FFFF6B00]Burst[/COLOR]öt!"
+
+msgctxt "#30273"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgstr "Ajjaj... Úgy tűnik, hogy nem sikerült a [COLOR FFFF6B00]Burst[/COLOR] automatikus telepítése. Kérem látogasson el a Quasar Repositoryhoz, majd a Program kiegészítők szekcióból telepítse kézzel!"
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr "Összes engedélyezése"
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr "Összes letiltása"
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr "Torrent és adatok törlése"
+
+msgctxt "#30277"
+msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s a könyvtárához adva. Szeretné átvizsgálni újra most?[CR]Később tudja használni a Kodi 'Könyvtár frissítése' funkcióját helyette."
+
+msgctxt "#30278"
+msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
+msgstr "%s eltávolítva a könyvtárából. Szeretné megtisztítani a könytárat most?[CR]Később tudja használni a Kodi 'Könyvtár megtisztítása' funkcióját helyette."
+
+msgctxt "#30279"
+msgid "Watchlist added to library"
+msgstr "Figyelőlista hozzáadva a könyvtárához"
+
+msgctxt "#30280"
+msgid "Collection added to library"
+msgstr "Gyűjtemény hozzáadva a könyvtárához"
+
+msgctxt "#30281"
+msgid "List added to library"
+msgstr "Lista hozzáadva a könyvtárához"
+
+msgctxt "#30282"
+msgid "Nothing left to remove from Quasar"
+msgstr "Nem maradt más eltávolítható a Quasarból"
+
+msgctxt "#30283"
+msgid "Merge to library"
+msgstr "Könyvtárak összefűzése"
+
+msgctxt "#30284"
+msgid "Show unaired seasons"
+msgstr "Mutassa a nem megjelent évadokat"
+
+msgctxt "#30285"
+msgid "Show unaired episodes"
+msgstr "Mutassa a nem megjelent epizódokat"
+
+msgctxt "#30286"
+msgid "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s a könyvtárába fésülve. Szeretné átvizsgálni újra most?[CR]Később tudja használni a Kodi 'Könyvtár frissítése' funkcióját helyette."
+
+msgctxt "#30287"
+msgid "%s already in library"
+msgstr "%s már a könyvtára részét képezi"
+
+msgctxt "#30288"
+msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "A könyvtára sikeresen frissítve lett. Szeretné átvizsgálni újra most?[CR]Később tudja használni a Kodi 'Könyvtár frissítése' funkcióját helyette."
+
+msgctxt "#30289"
+msgid "Genres"
+msgstr "Műfajok"
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr "Naptárak"
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr "Kedvenc filmek"
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr "Kedvenc megjelenések"
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr "Összes film"
+
+msgctxt "#30294"
+msgid "Összes megjelenés"
+msgstr ""
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr "Kedvenc sorozatok"
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr "Kedvenc új sorozatok"
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr "Kedvenc premierek"
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr "Összes sorozat"
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr "Összes új sorozat"
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr "Összes premier"
+
+msgctxt "#30301"
+msgid "Move finished downloads to separate folders"
+msgstr "Mozgassa át a kész letöltéseket elkülönített mappákba"
+
+msgctxt "#30302"
+msgid "Files will only be moved after seeding is finished (see[CR]"
+"- BitTorrent settings), and will wait if currently playing"
+msgstr "A fájlok csak a seed befejezése után kerülnek mozgatásra (lássa a[CR]"
+"- BitTorrent beállításokat), és vár abban az esetben, ha éppen aktív a lejátszás"
+
+msgctxt "#30303"
+msgid "RAR archive detected. Download will need to be completed before"
+" playback can start and will require around twice the amount of"
+" space, continue?"
+msgstr "RAR archívum észlelve. A lejátszáshoz meg kell várni"
+" az egész torrent letöltődését és körülbelül kétszer annyi"
+" tárhely szükséges hozzá. Folytatja?"
+
+msgctxt "#30304"
+msgid "Error creating output pipe for 'unrar' command"
+msgstr "Hiba az 'unrar' parancs kimeneti jelének létrehozása során"
+
+msgctxt "#30305"
+msgid "Error starting 'unrar' command"
+msgstr "Hiba az 'unrar' parancs futtatása során"
+
+msgctxt "#30306"
+msgid "Error waiting for 'unrar' command"
+msgstr "Hiba az 'unrar' parancsra várakozás során"
+
+msgctxt "#30307"
+msgid "Error reading from destination folder"
+msgstr "Hiba! Nem sikerült a célmappából olvasni"
+
+msgctxt "#30308"
+msgid "Move completed"
+msgstr "Átmozgatás befejezve!"
