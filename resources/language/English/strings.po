@@ -972,3 +972,23 @@ msgstr ""
 msgctxt "#30308"
 msgid "Move completed"
 msgstr ""
+
+msgctxt "#30309"
+msgid "Keep"
+msgstr ""
+
+msgctxt "#30310"
+msgid "Ask to delete"
+msgstr ""
+
+msgctxt "#30311"
+msgid "Delete"
+msgstr ""
+
+msgctxt "#30312"
+msgid "Keep files for not finished video"
+msgstr ""
+
+msgctxt "#30313"
+msgid "Keep files for watched/downloaded video"
+msgstr ""
