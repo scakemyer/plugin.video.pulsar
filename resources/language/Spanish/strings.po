@@ -64,7 +64,6 @@ msgctxt "#30011"
 msgid "Host"
 msgstr "Host"
 
-
 msgctxt "#30012"
 msgid "Port"
 msgstr "Puerto"
@@ -167,7 +166,7 @@ msgstr "Vista por defecto para Temporadas"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Vista por defecto para "
+msgstr "Vista por defecto para episodios "
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
@@ -180,7 +179,6 @@ msgstr "TheMovieDB"
 msgctxt "#30040"
 msgid "API key"
 msgstr "Llave API"
-
 
 msgctxt "#30041"
 msgid "Stream sorting"
@@ -269,7 +267,6 @@ msgstr "Frecuencia de sincronización para Tracklist a la librería (horas)"
 msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
 msgstr "Preguntar para mantener archivos después del streaming"
-
 
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
