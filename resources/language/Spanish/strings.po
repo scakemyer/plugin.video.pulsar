@@ -13,6 +13,7 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+
 # Settings
 
 msgctxt "#30000"
@@ -63,6 +64,7 @@ msgctxt "#30011"
 msgid "Host"
 msgstr "Host"
 
+
 msgctxt "#30012"
 msgid "Port"
 msgstr "Puerto"
@@ -97,7 +99,7 @@ msgstr "Mantenimiento"
 
 msgctxt "#30020"
 msgid "Clear cache"
-msgstr "Borrar cache"
+msgstr "Borrar caché"
 
 msgctxt "#30021"
 msgid "Enable pagination"
@@ -135,11 +137,289 @@ msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "Frecuencia para grabar sesiones (segundos)"
 
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Estado de superposición desplazamiento vertical"
+
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Deshabilitar proveedores que fallen el control de salud"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Fallos permitidos antes de que el proveedor esté deshabilitado"
+
+msgctxt "#30033"
+msgid "Appearance"
+msgstr "Apariencia"
+
+msgctxt "#30034"
+msgid "Default view for Movies"
+msgstr "Vista por defecto para Películas"
+
+msgctxt "#30035"
+msgid "Default view for TV Shows"
+msgstr "Vista por defecto para TV Shows"
+
+msgctxt "#30036"
+msgid "Default view for Seasons"
+msgstr "Vista por defecto para Temporadas"
+
+msgctxt "#30037"
+msgid "Default view for Episodes"
+msgstr "Vista por defecto para "
+
+msgctxt "#30038"
+msgid "Prefer use of original title"
+msgstr "Preferir usar título original"
+
+msgctxt "#30039"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#30040"
+msgid "API key"
+msgstr "Llave API"
+
+
+msgctxt "#30041"
+msgid "Stream sorting"
+msgstr "Ordenación de streams"
+
+msgctxt "#30042"
+msgid "Sorting mode for Movies"
+msgstr "Modo de ordenar para Películas"
+
+msgctxt "#30043"
+msgid "Sorting mode for TV Shows"
+msgstr "Modo de ordenar para TV Shows"
+
+msgctxt "#30044"
+msgid "By seeders"
+msgstr "Por semillas"
+
+msgctxt "#30045"
+msgid "By resolution"
+msgstr "Por resolución"
+
+msgctxt "#30046"
+msgid "Balanced"
+msgstr "Balance"
+
+msgctxt "#30047"
+msgid "Resolution preference for Movies"
+msgstr "Preferencia de resolución para Películas"
+
+msgctxt "#30048"
+msgid "Resolution preference for TV Shows"
+msgstr "Preferencia de resolución para TV Shows"
+
+msgctxt "#30049"
+msgid "Percentage of additional seeders required before choosing next resolution"
+msgstr "Porcentaje de semillas adicionales requeridas antes de elegir la siguiente resolución"
+
+msgctxt "#30050"
+msgid "Disable DHT"
+msgstr "Deshabilitar DHT"
+
+msgctxt "#30051"
+msgid "Share ratio limit (percent)"
+msgstr "Compartir el ratio límite(porcentaje)"
+
+msgctxt "#30052"
+msgid "Seed time ratio limit (percent)"
+msgstr "Tiempo límite para semilla(porcentaje)"
+
+msgctxt "#30053"
+msgid "Seed time limit (hours)"
+msgstr "Tiempo límite para semilla (horas)"
+
+msgctxt "#30054"
+msgid "Update library"
+msgstr "Actualizar libreria"
+
+msgctxt "#30055"
+msgid "Add Specials to library"
+msgstr "Añadir especiales a la librería"
+
+msgctxt "#30056"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#30057"
+msgid "Username"
+msgstr "Usuario"
+
+msgctxt "#30058"
+msgid "Authorize Quasar"
+msgstr "Actualizar Quasar"
+
+msgctxt "#30059"
+msgid "Library update delay on startup (seconds)"
+msgstr "Tiempo de retraso para actualizar libreria (segundos)"
+
+msgctxt "#30060"
+msgid "Library update frequency (hours)"
+msgstr "Frecuencia de actualización para libreria (horas)"
+
+msgctxt "#30061"
+msgid "Sync frequency of Trakt lists to library (hours)"
+msgstr "Frecuencia de sincronización para Tracklist a la librería (horas)"
+
+msgctxt "#30062"
+msgid "Ask to keep the files after streaming"
+msgstr "Preguntar para mantener archivos después del streaming"
+
+
+msgctxt "#30063"
+msgid "Disable UPNP & NATPMP"
+msgstr "Deshabilitar UPNP & NATPMP"
+
+msgctxt "#30064"
+msgid "Encryption policy"
+msgstr "Política de encriptación"
+
+msgctxt "#30065"
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgctxt "#30066"
+msgid "Forced"
+msgstr "Forzado"
+
+msgctxt "#30067"
+msgid "Proxy type"
+msgstr "Tipo de proxy"
+
+msgctxt "#30068"
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgctxt "#30069"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgctxt "#30070"
+msgid "SOCKS5 password"
+msgstr "SOCKS5 contraseña"
+
+msgctxt "#30071"
+msgid "HTTP"
+msgstr "HTTP"
+
+msgctxt "#30072"
+msgid "HTTP password"
+msgstr "Contraseña HTTP"
+
+msgctxt "#30073"
+msgid "i2p"
+msgstr "i2p"
+
+msgctxt "#30074"
+msgid "Spoof user agent (highly inadvisable)"
+msgstr "Burlarse del agente de usuario (altamente desaconsejado)"
+
+msgctxt "#30075"
+msgid "Default from libtorrent (acceptable)"
+msgstr "Por defecto para libtorrent (aceptable)"
+
+msgctxt "#30076"
+msgid "libtorrent (Rasterbar) 1.1.0"
+msgstr "libtorrent (Rasterbar) 1.1.0"
+
+msgctxt "#30077"
+msgid "BitTorrent 7.5.0"
+msgstr "BitTorrent 7.5.0"
+
+msgctxt "#30078"
+msgid "BitTorrent 7.4.3"
+msgstr "BitTorrent 7.4.3"
+
+msgctxt "#30079"
+msgid "µTorrent 3.4.9"
+msgstr "µTorrent 3.4.9"
+
+msgctxt "#30080"
+msgid "µTorrent 3.2.0"
+msgstr "µTorrent 3.2.0"
+
+msgctxt "#30081"
+msgid "µTorrent 2.2.1"
+msgstr "µTorrent 2.2.1"
+
+msgctxt "#30082"
+msgid "Transmission 2.92"
+msgstr "Transmission 2.92"
+
+msgctxt "#30083"
+msgid "Deluge 1.3.6.0"
+msgstr "Deluge 1.3.6.0"
+
+msgctxt "#30084"
+msgid "Deluge 1.3.12.0"
+msgstr "Deluge 1.3.12.0"
+
+msgctxt "#30085"
+msgid "Vuze 5.7.3.0"
+msgstr "Vuze 5.7.3.0"
+
+msgctxt "#30086"
+msgid "Enable tuned storage settings"
+msgstr "Habilitar calibrar opciones de almacenar"
+
+msgctxt "#30087"
+msgid "Ask to delete the files after streaming"
+msgstr "Preguntar para eliminar archivos después de streaming"
+
+msgctxt "#30088"
+msgid "Initial buffering timeout (seconds)"
+msgstr "Tiempo de espera para buffering inicial (segundos)"
+
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr "Automáticamente reescanear la librería de Kody después de actualizar"
+
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr "Interfaz de escucha"
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr "Interfaces de salida"
+
+msgctxt "#30092"
+msgid "Use default fanart"
+msgstr "Usar default fanart"
+
+msgctxt "#30093"
+msgid "Disable notification sound"
+msgstr "Deshabilitar sonido de notificación"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "Deshabilitar progreso de diálogo al fondo"
+
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr "Continuar playback desde la librería de integración"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "Nunca"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "Siempre"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "Torrents activos solo"
+
 # Interface
 
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar se ha cerrado insperadamente, reiniciando..."
+msgstr "Quasar se ha cerrado inesperadamente, reiniciando..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
@@ -177,11 +457,87 @@ msgctxt "#30109"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Ha fallado muchas veces, abortando..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "El operador ha fallado muchas veces, inhabilitando..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Imposible desactivar operador"
+
+msgctxt "#30113"
+msgid "Download path not set, check your settings"
+msgstr "Ruta de descarga no definida, revise sus ajustes"
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr "TheTVDB"
+
+msgctxt "#30115"
+msgid "TV show scraper used by Kodi library"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr "Parece que Quasar está arrancando todavía, dale unos segundos..."
+
+msgctxt "#30117"
+msgid "Resolving torrent files..."
+msgstr "Resolviendo archivos torrent"
+
+msgctxt "#30118"
+msgid "Scraping trackers..."
+msgstr ""
+
+msgctxt "#30141"
+msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr "Por favor soporta el desarrollo de Quasar visitando https://quasar.surge.sh/donate"
+
+msgctxt "#30142"
+msgid "Default view for menus in Movies"
+msgstr "Vista por defecto para menús en películas"
+
+msgctxt "#30143"
+msgid "Default view for menus in TV Shows"
+msgstr "Vista por defecto para menús en series de TV"
+
+msgctxt "#30144"
+msgid "Default view for movie genres"
+msgstr "Vista por defecto para géneros de películas"
+
+msgctxt "#30145"
+msgid "Default view for TV show genres"
+msgstr "Vista por defecto para géneros de TV"
+
+msgctxt "#30146"
+msgid "Keep downloading?"
+msgstr "¿Continuar descargando?"
+
+msgctxt "#30147"
+msgid "Caches are still warming up, give it a minute or two..."
+msgstr "Caché está todavía calentando, dale un minuto o dos..."
+
+msgctxt "#30148"
+msgid "Caches warmed up"
+msgstr "Caché calentado"
+
+msgctxt "#30149"
+msgid "Trakt username not set, check your settings"
+msgstr "Usuario trakt no seleccionado, por favor mira tus ajustes"
+
+msgctxt "#30199"
+msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
+msgstr "No disponible JSON-RPC conexión a Kodi. Por favor habilita los ambas opciones de control en ajustes de servicio/controles y reinicia Kodi"
+
 # Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "El cache se ha borrado"
+msgstr "El caché se ha borrado"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
@@ -353,11 +709,11 @@ msgstr "Chequear"
 
 msgctxt "#30243"
 msgid "Provider failures"
-msgstr "Fallas de Proovedor"
+msgstr "Fallas de Proveedor"
 
 msgctxt "#30244"
 msgid "Provider settings"
-msgstr "Configuracion de Proovedores"
+msgstr "Configuración de Proveedores"
 
 msgctxt "#30245"
 msgid "Popular on Trakt"
@@ -369,19 +725,19 @@ msgstr "Tendencia"
 
 msgctxt "#30247"
 msgid "Most Played"
-msgstr "Mas Reproducidas"
+msgstr "Más Reproducidas"
 
 msgctxt "#30248"
 msgid "Most Watched"
-msgstr "Mas Vistas"
+msgstr "Más Vistas"
 
 msgctxt "#30249"
 msgid "Most Collected"
-msgstr "Mas Recolectadas"
+msgstr "Más Recolectadas"
 
 msgctxt "#30250"
 msgid "Most Anticipated"
-msgstr "Mas Anticipadas"
+msgstr "Más Anticipadas"
 
 msgctxt "#30251"
 msgid "Box Office"
@@ -430,3 +786,191 @@ msgstr "Historial de Búsqueda"
 msgctxt "#30262"
 msgid "Use search history?"
 msgstr "Usar historial de búsqueda?"
+
+msgctxt "#30263"
+msgid "Lists"
+msgstr "Listas"
+
+msgctxt "#30264"
+msgid "Reset clearances"
+msgstr "Resetear permisos"
+
+msgctxt "#30265"
+msgid "Item already in library"
+msgstr "Ítem ya en librería"
+
+msgctxt "#30266"
+msgid "Ignore duplicates"
+msgstr "Ignorar duplicados"
+
+msgctxt "#30267"
+msgid "Keep downloaded files?"
+msgstr "Mantener archivos descargados?"
+
+msgctxt "#30268"
+msgid "Toggle watched"
+msgstr "Alternar la mirada"
+
+msgctxt "#30269"
+msgid "Delete downloaded files?"
+msgstr "Eliminar archivos descargados?"
+
+msgctxt "#30270"
+msgid "Match found in your active torrents, play it?"
+msgstr "Coincidencia encontrada en tus activos torrents, reproducir este?"
+
+msgctxt "#30271"
+msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Ahora hay un multi-provider oficial para Quasar llamado [COLOR FFFF6B00]Burst[/COLOR], desea instalarlo ahora? "
+
+msgctxt "#30272"
+msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Instalación exitosa, disfruta de Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+
+msgctxt "#30273"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgstr "¡Ostras!... Parece que no podemos instalar [COLOR FFFF6B00]Burst[/COLOR] automáticamente, dirígete sobre Quasar Repository, después debajo de la sección de addons de programas para instalarlo. "
+
+msgctxt "#30274"
+msgid "Enable all"
+msgstr "Habilitar todo"
+
+msgctxt "#30275"
+msgid "Disable all"
+msgstr "Deshabilitar todo"
+
+msgctxt "#30276"
+msgid "Delete torrent and files"
+msgstr "Eliminar torrent y archivos"
+
+msgctxt "#30277"
+msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s añadido a la librería, quieres reescanear la librería?[CR]Tu puedes usar más tarde la opción ‘actualizar librería’ de KODI en su lugar."
+
+msgctxt "#30278"
+msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
+msgstr "%s eliminado de la librería, quieres limpiar la librería?[CR] Tú puedes usar más tarde la opción ‘limpiar librería’ de KODI en su lugar. "
+
+msgctxt "#30279"
+msgid "Watchlist added to library"
+msgstr "Lista de reproducción añadido a la librería"
+
+msgctxt "#30280"
+msgid "Collection added to library"
+msgstr "Colección añadido a la librería"
+
+msgctxt "#30281"
+msgid "List added to library"
+msgstr "Lista añadida a la librería"
+
+msgctxt "#30282"
+msgid "Nothing left to remove from Quasar"
+msgstr "Nada para dejar de remover desde Quasar"
+
+msgctxt "#30283"
+msgid "Merge to library"
+msgstr "Incorporar a la librería"
+
+msgctxt "#30284"
+msgid "Show unaired seasons"
+msgstr "Enseñar temporadas no transmitidas"
+
+msgctxt "#30285"
+msgid "Show unaired episodes"
+msgstr "Enseñar episodios no trasmitidos"
+
+msgctxt "#30286"
+msgid "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "%s incorporado a la librería, quieres reescanear la librería?[CR]Tu puedes usar más tarde la opción ‘actualizar librería’ de KODI en su lugar."
+
+msgctxt "#30287"
+msgid "%s already in library"
+msgstr "% ya en la librería"
+
+msgctxt "#30288"
+msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr "Librería actualizada, quieres reescanear la librería?[CR]Tu puedes usar más tarde la opción ‘actualizar librería’ de KODI en su lugar"
+
+msgctxt "#30289"
+msgid "Genres"
+msgstr "Géneros"
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr "Calendarios"
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr "Mis películas"
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr "Mis lanzamientos"
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr "Todas las películas"
+
+msgctxt "#30294"
+msgid "All Releases"
+msgstr "Todos los lanzamientos"
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr "Mis programas"
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr "Mis nuevos programas"
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr "Mis estrenos"
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr "Todos los programas"
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr "Todos los nuevos programas"
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr "Todos los estrenos"
+
+msgctxt "#30301"
+msgid "Move finished downloads to separate folders"
+msgstr "Mover descargas terminadas a diferente carpeta"
+
+msgctxt "#30302"
+msgid "Files will only be moved after seeding is finished (see[CR]"
+"- BitTorrent settings), and will wait if currently playing"
+msgstr "Los archivos serán movidos después de que la siembra haya sido terminada(see[CR]"
+"- BitTorrent settings), and will esperaran si se están reproduciendo en este momento"
+
+msgctxt "#30303"
+msgid "RAR archive detected. Download will need to be completed before"
+" playback can start and will require around twice the amount of"
+" space, continue?"
+msgstr "Archivo RAR detectado. La descarga necesitará ser completada antes de que la reproducción pueda empeza y requerida el doble de espacio que ocupa la pelicula, continuar?r"
+
+msgctxt "#30304"
+msgid "Error creating output pipe for 'unrar' command"
+msgstr "Error creando tubo de salida para el comando 'unrar'"
+
+msgctxt "#30305"
+msgid "Error starting 'unrar' command"
+msgstr "Error iniciando comando 'unrar'"
+
+msgctxt "#30306"
+msgid "Error waiting for 'unrar' command"
+msgstr "Error esperando para comando 'unrar'"
+
+msgctxt "#30307"
+msgid "Error reading from destination folder"
+msgstr "Error leyendo la carpeta de destino"
+
+msgctxt "#30308"
+msgid "Move completed"
+msgstr "Movimiento completado"
