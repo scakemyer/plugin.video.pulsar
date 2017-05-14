@@ -1,5 +1,5 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
+# Addon Name: Quasar a
 # Addon id: plugin.video.quasar
 # Addon Provider: scakemyer
 #
