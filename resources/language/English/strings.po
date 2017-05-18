@@ -972,3 +972,7 @@ msgstr ""
 msgctxt "#30308"
 msgid "Move completed"
 msgstr ""
+
+msgctxt "#30309"
+msgid "Settings were not initialized.[CR]Save addon settings, then restart Kodi."
+msgstr ""
