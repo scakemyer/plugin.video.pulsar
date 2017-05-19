@@ -12,6 +12,7 @@
           <setting id="completed_shows_path" type="folder" label="30215" source="auto" option="writeable" subsetting="true" visible="eq(-2,true)" />
           <setting id="completed_help" label="30302" type="text" enable="false" subsetting="true" visible="eq(-3,true)" />
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
+        <setting id="force_link_type" type="bool" label="30310" default="false" />
         <setting id="background_handling" type="bool" label="30028" default="false" />
         <setting id="keep_files" type="bool" label="30002" default="false" />
         <setting id="keep_files_ask" type="bool" label="30087" default="false" />

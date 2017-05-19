@@ -972,3 +972,7 @@ msgstr ""
 msgctxt "#30308"
 msgid "Move completed"
 msgstr ""
+
+msgctxt "#30310"
+msgid "Force Stream selection from settings"
+msgstr ""
