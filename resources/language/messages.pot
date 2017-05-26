@@ -976,3 +976,7 @@ msgstr ""
 msgctxt "#30308"
 msgid "Move completed"
 msgstr ""
+
+msgctxt "#30312"
+msgid "New search"
+msgstr ""
