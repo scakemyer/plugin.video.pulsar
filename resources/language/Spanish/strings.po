@@ -516,11 +516,11 @@ msgstr "¿Continuar descargando?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
-msgstr "Caché está todavía calentando, dale un minuto o dos..."
+msgstr "Caché está todavía cargandose, dale un minuto o dos..."
 
 msgctxt "#30148"
 msgid "Caches warmed up"
-msgstr "Caché calentado"
+msgstr "Caché cargado"
 
 msgctxt "#30149"
 msgid "Trakt username not set, check your settings"
@@ -882,7 +882,7 @@ msgstr "%s incorporado a la librería, quieres reescanear la librería?[CR]Tu pu
 
 msgctxt "#30287"
 msgid "%s already in library"
-msgstr "% ya en la librería"
+msgstr "s% ya en la librería"
 
 msgctxt "#30288"
 msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
