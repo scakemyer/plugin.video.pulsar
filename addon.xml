@@ -15,6 +15,8 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Quasar: Torrent streaming</summary>
         <description lang="en">Quasar is a torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted add-ons (called providers) that are installed separately.[CR]This project is a fork of the well known, but no longer maintained Pulsar project from steeve.</description>
+        <summary lang="es">Quasar: Torrent streaming</summary>
+        <description lang="es">Quasar es un motor de streaming y busqueda torrent. No entra en los sitios web torrents por razones legales. Sin embargo, llama a add-ons especialmente diseñados (llamados providers) que se instalan por separado. Este proyecto es un fork del conocido pero ya sin soporte proyecto Pulsar de steeve.</description>
         <language>en el es de fi fr he hr it nl pt ro sk</language>
         <platform>all</platform>
         <website>https://github.com/scakemyer/plugin.video.quasar</website>
