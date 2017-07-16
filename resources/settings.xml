@@ -87,10 +87,21 @@
           <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-4,true)" />
           <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-5,true)" />
     </category>
-    <category label="OpenSubtitles">
+    <category label="30099">
+        <!-- Subtitles -->
         <setting label="OpenSubtitles" type="lsep" />
         <setting id="osdb_user" label="30057" type="text" default="" />
         <setting id="osdb_pass" label="30014" type="text" option="hidden" default="" />
+        <setting label="30015" type="lsep" />
+        <setting id="use_ass_subtitles" type="bool" label="30400" default="false" />
+          <setting id="font_size" label="30401" type="slider" option="int" range="12,1,74" default="20" subsetting="true" visible="eq(-1,true)" />
+          <setting id="subtitle_color" label="30402" type="enum" lvalues="30406|30407|30408|30409|30410" default="1" subsetting="true" visible="eq(-2,true)" />
+          <setting id="secondary_color" label="30403" type="enum" lvalues="30406|30407|30408|30409|30410" default="3" subsetting="true" visible="eq(-3,true)" />
+          <setting id="outline_color" label="30404" type="enum" lvalues="30406|30407|30408|30409|30410" default="0" subsetting="true" visible="eq(-4,true)" />
+          <setting id="border_style" label="30405" type="enum" lvalues="30411|30412" default="0" subsetting="true" visible="eq(-5,true)" />
+          <setting id="margin_l" label="30413" type="slider" option="int" range="-30,1,30" default="10" subsetting="true" visible="eq(-6,true)" />
+          <setting id="margin_r" label="30414" type="slider" option="int" range="-30,1,30" default="10" subsetting="true" visible="eq(-7,true)" />
+          <setting id="margin_v" label="30415" type="slider" option="int" range="-30,1,30" default="10" subsetting="true" visible="eq(-8,true)" />
     </category>
     <category label="30015">
         <!-- Advanced -->

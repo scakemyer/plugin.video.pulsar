@@ -412,6 +412,74 @@ msgctxt "#30098"
 msgid "Active torrents only"
 msgstr ""
 
+msgctxt "#30099"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "#30400"
+msgid "Enable advanced subtitles"
+msgstr ""
+
+msgctxt "#30401"
+msgid "Font size"
+msgstr ""
+
+msgctxt "#30402"
+msgid "Subtitle color"
+msgstr ""
+
+msgctxt "#30403"
+msgid "Secondary color"
+msgstr ""
+
+msgctxt "#30404"
+msgid "Outline color"
+msgstr ""
+
+msgctxt "#30405"
+msgid "Border style"
+msgstr ""
+
+msgctxt "#30406"
+msgid "Black"
+msgstr ""
+
+msgctxt "#30407"
+msgid "White"
+msgstr ""
+
+msgctxt "#30408"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "#30409"
+msgid "Blue"
+msgstr ""
+
+msgctxt "#30410"
+msgid "No color"
+msgstr ""
+
+msgctxt "#30411"
+msgid "Border"
+msgstr ""
+
+msgctxt "#30412"
+msgid "Rectangle"
+msgstr ""
+
+msgctxt "#30413"
+msgid "Left margin"
+msgstr ""
+
+msgctxt "#30414"
+msgid "Right margin"
+msgstr ""
+
+msgctxt "#30415"
+msgid "Vertical margin"
+msgstr ""
+
 
 # Interface
 
