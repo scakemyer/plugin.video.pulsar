@@ -437,16 +437,16 @@ msgid "Rectangle"
 msgstr "Rectângulo"
 
 msgctxt "#30413"
-msgid "Margem esquerda"
-msgstr ""
+msgid "Left margin"
+msgstr "Margem esquerda"
 
 msgctxt "#30414"
-msgid "Margem direita"
-msgstr ""
+msgid "Right margin"
+msgstr "Margem direita"
 
 msgctxt "#30415"
-msgid "Margem vertical"
-msgstr ""
+msgid "Vertical margin"
+msgstr "Margem vertical"
 
 
 # Interface
