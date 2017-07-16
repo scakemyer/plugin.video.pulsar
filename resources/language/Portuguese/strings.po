@@ -380,6 +380,74 @@ msgctxt "#30088"
 msgid "Initial buffering timeout (seconds)"
 msgstr "Timeout de buffering inicial (segundos)"
 
+msgctxt "#30099"
+msgid "Subtitles"
+msgstr "Legendas"
+
+msgctxt "#30400"
+msgid "Enable advanced subtitles"
+msgstr "Ativar legendas avançadas"
+
+msgctxt "#30401"
+msgid "Font size"
+msgstr "Tamanho da fonte"
+
+msgctxt "#30402"
+msgid "Subtitle color"
+msgstr "Cor das legendas"
+
+msgctxt "#30403"
+msgid "Secondary color"
+msgstr "Cor secundária"
+
+msgctxt "#30404"
+msgid "Outline color"
+msgstr "Cor do contorno"
+
+msgctxt "#30405"
+msgid "Border style"
+msgstr "Estilo da borda"
+
+msgctxt "#30406"
+msgid "Black"
+msgstr "Preto"
+
+msgctxt "#30407"
+msgid "White"
+msgstr "Branco"
+
+msgctxt "#30408"
+msgid "Yellow"
+msgstr "Amarelo"
+
+msgctxt "#30409"
+msgid "Blue"
+msgstr "Azul"
+
+msgctxt "#30410"
+msgid "No color"
+msgstr "Sem cor"
+
+msgctxt "#30411"
+msgid "Border"
+msgstr "Borda"
+
+msgctxt "#30412"
+msgid "Rectangle"
+msgstr "Rectângulo"
+
+msgctxt "#30413"
+msgid "Left margin"
+msgstr "Margem esquerda"
+
+msgctxt "#30414"
+msgid "Right margin"
+msgstr "Margem direita"
+
+msgctxt "#30415"
+msgid "Vertical margin"
+msgstr "Margem vertical"
+
 
 # Interface
 
