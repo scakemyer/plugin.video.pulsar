@@ -1793,7 +1793,7 @@ msgstr "Si désactivé - Elementum ne pourra récupérer/ajouter des[CR]élémen
 
 msgctxt "#30587"
 msgid "Show welcome message on start"
-msgstr "Montrer un message d'acceuil au démarrage"
+msgstr "Montrer un message d'accueil au démarrage"
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
