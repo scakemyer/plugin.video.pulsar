@@ -7,16 +7,17 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
-[B][COLOR red]0.1.104[/COLOR][/B]
-    - Sync playback progress from Kodi Library's items to Elementum's menu items. (Thanks to @burekas7 and @antonsoroko)
-    - Fix startup issue in Flatpak version of Kodi in Linux. (Thanks to @simpledork47 and @antonsoroko)
-    - Fix absence of new episodes in Library when Trakt is not authorized. (Thanks to @AndroG77 and @susobaco)
+[B][COLOR red]0.1.104-0.1.105[/COLOR][/B]
+    - Sync playback progress from Kodi Library's items to Elementum's menu items. (Thanks to @burekas7, @antonsoroko)
+    - Fix startup issue in Flatpak version of Kodi in Linux. (Thanks to @simpledork47, @antonsoroko)
     - Add "Open Show" to context menu for progress and calendar views.
     - Prefer Romaji titles for anime. Add Credits to TMDB Season. Set Trailer in all TMDB video types. Don't overwrite OriginalLanguage title with AlternativeTitles.
     - Update BitTorrent peer IDs and user agents.
     - Add BitTorrent ports to status page.
-    - Fixed issue with not updating local strm library when Trakt sync is disabled. Thanks to @AndroG77, @susobaco, @antonsoroko.
+    - Fixed issue with not updating local strm library when Trakt sync is disabled. (Thanks to @AndroG77, @susobaco, @antonsoroko)
     - Added functionality to detect if Kodi is running in a remote mode (when Kodi library is not empty, but Kodi has no local sources, meaning Kodi it managed on some other Kodi instance). In this case Elementum will disable local library updates and Trakt sync, and that should only run on master device/Kodi.
+    - Fixed libtorrent logging in Windows. (Thanks to @pavelmxx, @antonsoroko)
+    - Added -disableLibrarySync startup option.
 
 [B][COLOR red]0.1.103[/COLOR][/B]
     - Python 3.12 compatibility
