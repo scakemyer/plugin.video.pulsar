@@ -18,6 +18,7 @@
     - Added functionality to detect if Kodi is running in a remote mode (when Kodi library is not empty, but Kodi has no local sources, meaning Kodi it managed on some other Kodi instance). In this case Elementum will disable local library updates and Trakt sync, and that should only run on master device/Kodi.
     - Fixed libtorrent logging in Windows. (Thanks to @pavelmxx, @antonsoroko)
     - Added -disableLibrarySync startup option.
+    - Added support for moving downloaded movies into named subfolders (like we do for TV Shows).
 
 [B][COLOR red]0.1.103[/COLOR][/B]
     - Python 3.12 compatibility
