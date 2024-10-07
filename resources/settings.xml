@@ -125,7 +125,7 @@
           <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" enable="eq(-1,true)" />
         <setting id="disable_bg_progress" label="30094" type="bool" default="false" />
         <setting id="disable_bg_progress_playback" label="30386" type="bool" default="true" />
-        <setting id="add_episode_numbers" label="30505" type="bool" default="false" />
+        <setting id="add_episode_numbers" label="30505" type="bool" default="true" />
 
         <setting label="30566" type="lsep" />
         <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,50" default="9" />
