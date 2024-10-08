@@ -7,7 +7,7 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
-[B][COLOR red]0.1.104-0.1.105[/COLOR][/B]
+[B][COLOR red]0.1.104-0.1.106[/COLOR][/B]
     - Sync playback progress from Kodi Library's items to Elementum's menu items. (Thanks to @burekas7, @antonsoroko)
     - Fix startup issue in Flatpak version of Kodi in Linux. (Thanks to @simpledork47, @antonsoroko)
     - Add "Open Show" to context menu for progress and calendar views.
@@ -19,6 +19,7 @@
     - Fixed libtorrent logging in Windows. (Thanks to @pavelmxx, @antonsoroko)
     - Added -disableLibrarySync startup option.
     - Added support for moving downloaded movies into named subfolders (like we do for TV Shows).
+    - Attempt to fix startup of elementum on Android.
 
 [B][COLOR red]0.1.103[/COLOR][/B]
     - Python 3.12 compatibility
