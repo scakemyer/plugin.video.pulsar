@@ -37,7 +37,7 @@
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
-				<label>$ADDON[plugin.video.quasar 30105]</label>
+				<label>$ADDON[plugin.video.elementum 30105]</label>
 				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
@@ -59,7 +59,7 @@
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
-				<label>$ADDON[plugin.video.quasar 30106]</label>
+				<label>$ADDON[plugin.video.elementum 30106]</label>
 				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
@@ -81,7 +81,7 @@
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
-				<label>$ADDON[plugin.video.quasar 30109]</label>
+				<label>$ADDON[plugin.video.elementum 30109]</label>
 				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
@@ -102,7 +102,7 @@
 				<font>font14</font>
 				<align>center</align>
 				<aligny>center</aligny>
-				<label>[B]$ADDON[plugin.video.quasar 30104][/B]</label>
+				<label>[B]$ADDON[plugin.video.elementum 30104][/B]</label>
 				<textcolor>white</textcolor>
 				<shadowcolor>AA000000</shadowcolor>
 			</control>
@@ -114,7 +114,7 @@
 				<height>30</height>
 				<visible>SubString(Control.GetLabel(32501),*)</visible>
 				<font>font13</font>
-				<label>$ADDON[plugin.video.quasar 30107]</label>
+				<label>$ADDON[plugin.video.elementum 30107]</label>
 				<align>left</align>
 				<aligny>center</aligny>
 				<textcolor>white</textcolor>
@@ -146,7 +146,7 @@
 				<height>30</height>
 				<visible>SubString(Control.GetLabel(32502),*)</visible>
 				<font>font13</font>
-				<label>$ADDON[plugin.video.quasar 30108]</label>
+				<label>$ADDON[plugin.video.elementum 30108]</label>
 				<align>left</align>
 				<aligny>center</aligny>
 				<textcolor>white</textcolor>

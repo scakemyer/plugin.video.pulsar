@@ -4,6 +4,13 @@ FAIL='\033[0;31m'
 PASS='\033[0;32m'
 rc=0
 result=0
+
+if ! xgettext -h >/dev/null 2>&1
+then
+    echo "xgettext could not be found!"
+    exit 1
+fi
+
 for d in resources/language/*/*.po; do
   printf "%-70s %s" "Checking ${d}"
   xgettext "$d" 2> out || rc=$?

@@ -1,4 +1,4 @@
-# Contributing to Quasar
+# Contributing to Elementum
 
 Looking to contribute something? **Here's how you can help.**
 
@@ -84,11 +84,11 @@ included in the project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/scakemyer/plugin.video.quasar.git
+   git clone https://github.com/scakemyer/plugin.video.elementum.git
    # Navigate to the newly cloned directory
-   cd plugin.video.quasar
+   cd plugin.video.elementum
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/scakemyer/plugin.video.quasar.git
+   git remote add upstream https://github.com/scakemyer/plugin.video.elementum.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:

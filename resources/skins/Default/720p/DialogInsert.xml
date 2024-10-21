@@ -2,41 +2,56 @@
 <window type="dialog">
 	<!-- 1280 x 720 -->
 	<defaultcontrol always="true">32501</defaultcontrol>
-	<depth>DepthOSD</depth>
   <controls>
 		<control type="group">
+			<animation type="WindowOpen" reversible="false">
+				<effect type="zoom" start="80" end="100" center="640,360" easing="out" tween="back" time="200" delay="400"/>
+				<effect type="fade" start="0" end="100" time="200" delay="400"/>
+			</animation>
+			<animation type="WindowClose" reversible="false">
+				<effect type="zoom" start="100" end="80" center="640,360" easing="in" tween="back" time="200" delay="400"/>
+				<effect type="fade" start="100" end="0" time="200" delay="400"/>
+			</animation>
+			<!-- Background -->
+			<control type="image">
+				<width>1280</width>
+				<height>720</height>
+				<texture colordiffuse="cc151515">AddonWindow/white.png</texture>
+			</control>
 			<control type="image">
 				<!-- Background -->
 				<posx>240</posx>
 				<posy>205</posy>
 				<width>800</width>
-				<height>310</height>
-				<texture colordiffuse="F0F0F0F0">AddonWindow/black.png</texture>
+				<height>350</height>
+				<texture colordiffuse="fa000000">AddonWindow/white.png</texture>
 			</control>
 			<control type="button" id="32500">
 				<!-- Close button -->
 				<posx>981</posx>
-				<posy>222</posy>
+				<posy>224</posy>
 				<width>32</width>
 				<height>32</height>
-				<texturefocus colordiffuse="button_focus">Button/close.png</texturefocus>
-				<texturenofocus colordiffuse="EEFFFFFF">Button/close.png</texturenofocus>
+				<texturefocus colordiffuse="ffffffff">Button/close.png</texturefocus>
+				<texturenofocus colordiffuse="ff2b2b2b">Button/close.png</texturenofocus>
 				<onup>32508</onup>
 				<ondown>32501</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="radiobutton" id="32501">
 				<!-- Radio Button URL -->
 				<posx>760</posx>
 				<posy>315</posy>
-				<width>280</width>
-				<height>80</height>
+				<width>270</width>
+				<height>70</height>
+				<radiowidth>100</radiowidth>
+				<radioheight>40</radioheight>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
-				<label>$ADDON[plugin.video.quasar 30105]</label>
+				<label>$ADDON[plugin.video.elementum 30105]</label>
 				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
@@ -45,20 +60,22 @@
 				<aligny>center</aligny>
 				<onup>32500</onup>
 				<ondown>32502</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="radiobutton" id="32502">
 				<!-- Radio Button file path -->
 				<posx>760</posx>
-				<posy>375</posy>
-				<width>280</width>
-				<height>80</height>
+				<posy>395</posy>
+				<width>270</width>
+				<height>70</height>
+				<radiowidth>100</radiowidth>
+				<radioheight>40</radioheight>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
-				<label>$ADDON[plugin.video.quasar 30106]</label>
+				<label>$ADDON[plugin.video.elementum 30106]</label>
 				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
@@ -67,20 +84,20 @@
 				<aligny>center</aligny>
 				<onup>32501</onup>
 				<ondown>32508</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="button" id="32508">
 				<!-- OK button -->
 				<posx>760</posx>
-				<posy>435</posy>
-				<width>280</width>
-				<height>80</height>
+				<posy>475</posy>
+				<width>270</width>
+				<height>70</height>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
-				<label>$ADDON[plugin.video.quasar 30109]</label>
+				<label>$ADDON[plugin.video.elementum 30109]</label>
 				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
@@ -89,82 +106,81 @@
 				<aligny>center</aligny>
 				<onup>32502</onup>
 				<ondown>32500</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="label" id="32503">
 				<!-- Window title -->
-				<posx>425</posx>
+				<posx>440</posx>
 				<posy>225</posy>
 				<width>400</width>
 				<height>30</height>
 				<font>font14</font>
 				<align>center</align>
 				<aligny>center</aligny>
-				<label>[B]$ADDON[plugin.video.quasar 30104][/B]</label>
+				<label>[B]$ADDON[plugin.video.elementum 30104][/B]</label>
 				<textcolor>white</textcolor>
-				<shadowcolor>AA000000</shadowcolor>
 			</control>
 			<control type="label" id="32504">
 				<!-- Option 1 Insert URL label -->
-				<posx>280</posx>
+				<posx>275</posx>
 				<posy>280</posy>
 				<width>500</width>
 				<height>30</height>
-				<visible>SubString(Control.GetLabel(32501),*)</visible>
+				<visible>String.Contains(Control.GetLabel(32501),*)</visible>
 				<font>font13</font>
-				<label>$ADDON[plugin.video.quasar 30107]</label>
+				<label>$ADDON[plugin.video.elementum 30107]</label>
 				<align>left</align>
 				<aligny>center</aligny>
 				<textcolor>white</textcolor>
-				<shadowcolor>AA000000</shadowcolor>
 			</control>
 			<control type="button" id="32505">
 				<!-- Option 1 Insert URL box -->
-				<posx>260</posx>
+				<posx>250</posx>
 				<posy>315</posy>
 				<width>500</width>
-				<height>80</height>
-				<visible>SubString(Control.GetLabel(32501),*)</visible>
+				<height>70</height>
+				<visible>String.Contains(Control.GetLabel(32501),*)</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>false</wrapmultiline>
 				<font>font14</font>
-				<textcolor>FFB2D4F5</textcolor>
+				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
 				<invalidcolor>FFFFFFFF</invalidcolor>
+				<textoffsetx>25</textoffsetx>
 				<align>left</align>
 				<aligny>center</aligny>
 				<onright>32508</onright>
 			</control>
 			<control type="label" id="32506">
 				<!-- Option 2 File path label -->
-				<posx>280</posx>
+				<posx>275</posx>
 				<posy>280</posy>
 				<width>500</width>
 				<height>30</height>
-				<visible>SubString(Control.GetLabel(32502),*)</visible>
+				<visible>String.Contains(Control.GetLabel(32502),*)</visible>
 				<font>font13</font>
-				<label>$ADDON[plugin.video.quasar 30108]</label>
+				<label>$ADDON[plugin.video.elementum 30108]</label>
 				<align>left</align>
 				<aligny>center</aligny>
 				<textcolor>white</textcolor>
-				<shadowcolor>AA000000</shadowcolor>
 			</control>
 			<control type="button" id="32507">
 				<!-- Option 2 File path box -->
-				<posx>260</posx>
+				<posx>250</posx>
 				<posy>315</posy>
 				<width>500</width>
-				<height>80</height>
-				<visible>SubString(Control.GetLabel(32502),*)</visible>
+				<height>70</height>
+				<visible>String.Contains(Control.GetLabel(32502),*)</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>false</wrapmultiline>
 				<font>font14</font>
-				<textcolor>FFB2D4F5</textcolor>
+				<textcolor>FFFFFFFF</textcolor>
 				<focusedcolor>FFFFFFFF</focusedcolor>
 				<disabledcolor>80FFFFFF</disabledcolor>
 				<invalidcolor>FFFFFFFF</invalidcolor>
+				<textoffsetx>25</textoffsetx>
 				<align>left</align>
 				<aligny>center</aligny>
 				<onright>32508</onright>

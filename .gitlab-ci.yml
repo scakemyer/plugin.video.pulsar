@@ -1,4 +1,4 @@
-image: alpine:latest
+image: python:latest
 
 stages:
   - test
@@ -37,7 +37,7 @@ release:
   after_script:
     - |
         lftp -c "open 'ftp://$FTP_USER:$FTP_PASS@$FTP_HOST'; \
-        cd plugin.video.quasar; \
+        cd plugin.video.elementum; \
         mirror --reverse --verbose --exclude '.*' --exclude '.*/' --include-glob addon.xml; \
         mkdir -p -f $CI_BUILD_TAG; \
         cd $CI_BUILD_TAG; \
@@ -45,17 +45,17 @@ release:
         exit;"
   artifacts:
     paths:
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.android_arm.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.android_x64.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.android_x86.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.darwin_x64.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.linux_arm.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.linux_armv7.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.linux_arm64.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.linux_x64.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.linux_x86.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.windows_x64.zip
-    - plugin.video.quasar-${CI_BUILD_TAG:1}.windows_x86.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.android_arm.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.android_x64.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.android_x86.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.darwin_x64.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.linux_arm.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.linux_armv7.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.linux_arm64.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.linux_x64.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.linux_x86.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.windows_x64.zip
+    - plugin.video.elementum-${CI_BUILD_TAG:1}.windows_x86.zip
   only:
     - tags

@@ -1,26 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window>
 	<!-- 1280 x 720 -->
-	<include>Animation_DialogPopupOpenClose</include>
-	<depth>DepthOSD</depth>
 	<controls>
 		<control type="group">
+			<animation type="WindowOpen" reversible="false">
+				<effect type="zoom" start="80" end="100" center="640,360" easing="out" tween="back" time="200" delay="400"/>
+				<effect type="fade" start="0" end="100" time="200" delay="400"/>
+			</animation>
+			<animation type="WindowClose" reversible="false">
+				<effect type="zoom" start="100" end="80" center="640,360" easing="in" tween="back" time="200" delay="400"/>
+				<effect type="fade" start="100" end="0" time="200" delay="400"/>
+			</animation>
 			<!-- Background -->
 			<control type="image">
-				<left>190</left>
-				<top>50</top>
-				<width>900</width>
-				<height>620</height>
-				<texture colordiffuse="F0F0F0F0">AddonWindow/black.png</texture>
+				<width>1280</width>
+				<height>720</height>
+				<texture colordiffuse="cc151515">AddonWindow/white.png</texture>
+			</control>
+			<control type="image">
+				<left>30</left>
+				<top>30</top>
+				<width>1220</width>
+				<height>660</height>
+				<texture colordiffuse="fa000000">AddonWindow/white.png</texture>
 			</control>
 			<control type="button" id="32500">
 				<!-- Close button -->
-				<left>1035</left>
-				<top>68</top>
+				<left>1205</left>
+				<top>45</top>
 				<width>32</width>
 				<height>32</height>
-				<texturefocus colordiffuse="button_focus">Button/close.png</texturefocus>
-				<texturenofocus colordiffuse="EEFFFFFF">Button/close.png</texturenofocus>
+				<texturefocus colordiffuse="ffffffff">Button/close.png</texturefocus>
+				<texturenofocus colordiffuse="ff2b2b2b">Button/close.png</texturenofocus>
 				<onup>32508</onup>
 				<ondown>32502</ondown>
 				<onleft>32503</onleft>
@@ -29,34 +40,38 @@
 			<control type="label" id="32501">
 				<!-- Window title -->
 				<left>290</left>
-				<top>75</top>
+				<top>44</top>
 				<width>700</width>
-				<height>30</height>
+				<height>32</height>
 				<font>font14</font>
 				<align>center</align>
 				<aligny>center</aligny>
 				<scroll>true</scroll>
 				<textcolor>white</textcolor>
-				<shadowcolor>AA000000</shadowcolor>
 			</control>
 			<control type="scrollbar" id="32502">
 				<!-- Scrollbar -->
-				<left>1055</left>
-				<top>140</top>
+				<left>1220</left>
+				<top>90</top>
 				<width>10</width>
-				<height>520</height>
+				<height>580</height>
 				<onup>32500</onup>
 				<onleft>32503</onleft>
+				<texturesliderbackground border="5" colordiffuse="f2151515">AddonWindow/white.png</texturesliderbackground>
+				<texturesliderbar border="5" colordiffuse="ff2b2b2b">AddonWindow/white.png</texturesliderbar>
+				<texturesliderbarfocus border="5" colordiffuse="ffffffff">AddonWindow/white.png</texturesliderbarfocus>
+				<textureslidernib></textureslidernib>
+				<textureslidernibfocus></textureslidernibfocus>
 				<showonepage>false</showonepage>
 				<orientation>vertical</orientation>
 			</control>
 
 			<control type="panel" id="32503">
 				<!-- Panel -->
-				<left>215</left>
-				<top>140</top>
-				<width>815</width>
-				<height>520</height>
+				<left>50</left>
+				<top>90</top>
+				<width>1150</width>
+				<height>585</height>
 				<onup>32503</onup>
 				<ondown>32503</ondown>
 				<onleft>32500</onleft>
@@ -65,81 +80,87 @@
 				<viewtype>list</viewtype>
 				<pagecontrol>32502</pagecontrol>
 				<scrolltime tween="cubic" easing="inout">250</scrolltime>
-				<itemlayout height="65" width="815">
+				<itemlayout height="65" width="1135">
 					<control type="image">
-						<left>5</left>
-						<top>5</top>
-						<width>50</width>
-						<height>50</height>
+						<left>0</left>
+						<top>0</top>
+						<width>1152</width>
+						<height>60</height>
+						<texture colordiffuse="f2151515">AddonWindow/white.png</texture>
+					</control>
+					<control type="image">
+						<left>20</left>
+						<top>-6</top>
+						<width>72</width>
+						<height>72</height>
 						<texture>$INFO[ListItem.Icon]</texture>
 					</control>
 					<control type="label">
-						<left>70</left>
-						<top>2</top>
-						<width>745</width>
-						<height>30</height>
+						<left>111</left>
+						<top>3</top>
+						<width>1029</width>
+						<height>29</height>
 						<font>font13</font>
 						<align>left</align>
 						<aligny>center</aligny>
 						<scroll>true</scroll>
 						<textcolor>white</textcolor>
-						<shadowcolor>AA000000</shadowcolor>
+						<shadowcolor>b2000000</shadowcolor>
 						<info>ListItem.Label</info>
 					</control>
 					<control type="label">
-						<left>70</left>
-						<top>28</top>
-						<width>745</width>
-						<height>30</height>
+						<left>111</left>
+						<top>29</top>
+						<width>1029</width>
+						<height>29</height>
 						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
-						<scroll>true</scroll>
-						<textcolor>FF666666</textcolor>
-						<shadowcolor>AA000000</shadowcolor>
+						<textcolor>white</textcolor>
+						<shadowcolor>b2000000</shadowcolor>
 						<info>ListItem.Label2</info>
 					</control>
 				</itemlayout>
 
-				<focusedlayout height="65" width="815">
+				<focusedlayout height="65" width="1135">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
-						<width>815</width>
+						<width>1152</width>
 						<height>60</height>
-						<texture>List/focus.png</texture>
+						<texture colordiffuse="ff2b2b2b">AddonWindow/white.png</texture>
 					</control>
 					<control type="image">
-						<left>5</left>
-						<top>5</top>
-						<width>50</width>
-						<height>50</height>
+						<left>20</left>
+						<top>-6</top>
+						<width>72</width>
+						<height>72</height>
 						<texture>$INFO[ListItem.Icon]</texture>
 					</control>
 					<control type="label">
-						<left>70</left>
-						<top>2</top>
-						<width>745</width>
-						<height>30</height>
+						<left>111</left>
+						<top>3</top>
+						<width>1029</width>
+						<height>29</height>
 						<font>font13</font>
 						<align>left</align>
 						<aligny>center</aligny>
 						<scroll>true</scroll>
 						<textcolor>white</textcolor>
-						<shadowcolor>AA000000</shadowcolor>
+						<shadowcolor>b2000000</shadowcolor>
 						<info>ListItem.Label</info>
 					</control>
 					<control type="label">
-						<left>70</left>
-						<top>28</top>
-						<width>745</width>
-						<height>30</height>
+						<left>111</left>
+						<top>29</top>
+						<width>1029</width>
+						<height>29</height>
 						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
 						<scroll>true</scroll>
-						<textcolor>FF888888</textcolor>
-						<shadowcolor>AA000000</shadowcolor>
+						<textcolor>white</textcolor>
+						<shadowcolor>b2000000</shadowcolor>
 						<info>ListItem.Label2</info>
 					</control>
 				</focusedlayout>

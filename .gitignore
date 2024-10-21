@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+.vscode/
 
 # C extensions
 *.so
@@ -22,6 +23,8 @@ var/
 .installed.cfg
 *.egg
 *.zip
+elementum-binaries-master/
+resources/site-packages/platform_detect
 # bin/
 
 # PyInstaller
@@ -52,5 +55,8 @@ docs/_build/
 target/
 
 # Other
-# resources/bin
-resources/web/static/js/*.map
+resources/bin/
+plugin.video.elementum-*.zip
+
+# React app
+node_modules

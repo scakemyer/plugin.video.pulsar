@@ -1,2 +1,0 @@
-JSONRPC_EXT_PORT = 65252
-QUASARD_HOST = "http://localhost:65251"

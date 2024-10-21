@@ -1,3 +1,10 @@
+<!--- 
+      DEVELOPMENT OF plugin.video.elementum is stopped! 
+      YOU WILL NOT GET SUPPORT or HELP!
+      
+      Feel free to fork the project!
+-->
+
 <!--- ISSUES ABOUT PROVIDERS DO NOT BELONG HERE -->
 <!--- If you open an issue about providers, it will get closed,
       its title and content will get removed, and your GitHub
@@ -38,10 +45,10 @@
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 * Version used:
-<!--- Which version of Quasar are you using? -->
+<!--- Which version of Elementum are you using? -->
 * Environment name and version:
 <!--- Which Kodi version (16 [Jarvis] or 17 [Krypton]) and OS, eg. SPMC, OSMC, OpenELEC, LibreELEC, etc. -->
 * Operating System and version:
 <!--- eg. Android 4/5/6, Windows 7/8/10, macOS 10.11, Ubuntu 16.10, etc. -->
 * Link to Kodi debug log:
-<!--- See http://kodi.wiki/view/Log_file/Easy or paste to http://paste.ubuntu.com directly -->
+<!--- See http://elementum.surge.sh/contribute/log/ -->
